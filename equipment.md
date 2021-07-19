@@ -149,11 +149,13 @@ that is equippable by more than one archetype.
 
 ### Wands
 
-| name        | level | speed | stat reqs | stats                          | slots | dropped by | awarded by       | sold at | craftable at |
-| :---------- | ----: | ----: | :-------- | :----------------------------- | ----: | :--------- | :--------------- | :------ | :----------- |
-| Wooden Wand |     8 |     6 |           | 23 MATK, 15 WATK               |     7 |            |                  | Ellinia |              |
-| Heart Staff |    54 |     5 | 43 LUK    | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
-| Heart Wand  |    54 |     5 |           | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
+| name          | level | speed | stat reqs      | stats                          | slots | dropped by | awarded by       | sold at | craftable at |
+| :------------ | ----: | ----: | :------------- | :----------------------------- | ----: | :--------- | :--------------- | :------ | :----------- |
+| Wooden Wand   |     8 |     6 |                | 23 MATK, 15 WATK               |     7 |            |                  | Ellinia | Ellinia      |
+| Hardwood Wand |    13 |     6 | 40 INT, 15 LUK | 28 MATK, 18 WATK               |     7 |            |                  | Ellinia | Ellinia      |
+| Metal Wand    |    18 |     6 | 55 INT, 20 LUK | 33 MATK, 21 WATK               |     7 | Red Snail  |                  | Ellinia | Ellinia      |
+| Heart Staff   |    54 |     5 | 43 LUK         | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
+| Heart Wand    |    54 |     5 |                | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
 
 ## Hats
 
