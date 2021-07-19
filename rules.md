@@ -11,10 +11,10 @@
    is selling an item to a non-vicloc PC. You may, however, give away
    items/mesos to any PCs (vicloc or not). The only exception to this rule is
    for [Soft Feathers](https://maplelegends.com/lib/etc?id=4003005); a maximum
-   of 20 Soft Feathers per character may be transfered from a non-vicloc
+   of 20 Soft Feathers per character may be transferred from a non-vicloc
    character to a vicloc character, for the purpose of marriage.
 3. You may not operate gachapon machines. Any gachapon tickets that you accrue
-   may be transfered to other characters via the Cash Shop inventory (similar
+   may be transferred to other characters via the Cash Shop inventory (similar
    to the situation with islanders).
 4. You may not make use of Myo Myo the Traveling Salesman (an NX/Cash Shop
    item).
