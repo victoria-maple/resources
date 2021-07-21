@@ -9,6 +9,7 @@ that is equippable by more than one archetype.
         - [Warrior](#warrior)
     - [2H swords](#2h-swords)
         - [Warrior/archer/rogue](#warrior-archer-rogue)
+        - [Warrior](#warrior-1)
     - [1H axes](#1h-axes)
     - [1H maces](#1h-maces)
         - [Warrior/mage](#warrior-mage)
@@ -74,6 +75,18 @@ that is equippable by more than one archetype.
 | name         | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at              | craftable at |
 | :----------- | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------------------- | :----------- |
 | Wooden Sword |    10 |     6 |           | 30 WATK |     7 | Red Snail  |            | Kerning City, Perion |              |
+
+#### Warrior
+
+| name                 | level | speed | stat reqs | stats   | slots | dropped by           | awarded by | sold at | craftable at |
+| :------------------- | ----: | ----: | :-------- | :------ | ----: | :------------------- | :--------- | :------ | :----------- |
+| Wooden Samurai Sword |    15 |     6 | 35 STR    | 35 WATK |     7 | Pig, Bubbling        |            |         |              |
+| Two-Handed Sword     |    20 |     6 | 70 STR    | 40 WATK |     7 |                      |            | Perion  |              |
+| Broadsword           |    25 |     6 | 85 STR    | 45 WATK |     7 |                      |            | Perion  |              |
+| Lionheart            |    35 |     4 | 115 STR   | 55 WATK |     7 | Wild Boar            |            |         |              |
+| Zard                 |    40 |     6 | 130 STR   | 60 WATK |     7 | Sakura Cellion       |            |         |              |
+| Lion&rsquo;s Fang    |    50 |     6 | 155 STR   | 70 WATK |     7 | Clang, Tortie, Faust |            |         |              |
+| Doombringer          |    70 |     6 | 220 STR   | 85 WATK |     7 | Dyle, Jr. Balrog     |            |         |              |
 
 ### 1H axes
 
