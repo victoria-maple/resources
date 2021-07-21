@@ -12,17 +12,20 @@ that is equippable by more than one archetype.
         - [Warrior](#warrior-1)
     - [1H axes](#1h-axes)
         - [Warrior](#warrior-2)
+    - [2H axes](#2h-axes)
+        - [Warrior/archer/rogue](#warrior-archer-rogue-1)
+        - [Warrior](#warrior-3)
     - [1H maces](#1h-maces)
         - [Warrior/mage](#warrior-mage)
     - [2H maces](#2h-maces)
-        - [Warrior/archer/rogue](#warrior-archer-rogue-1)
+        - [Warrior/archer/rogue](#warrior-archer-rogue-2)
         - [Warrior/rogue](#warrior-rogue-1)
     - [Daggers](#daggers)
         - [Warrior/rogue](#warrior-rogue-2)
     - [Spears](#spears)
-        - [Warrior/archer/rogue](#warrior-archer-rogue-2)
-    - [Polearms](#polearms)
         - [Warrior/archer/rogue](#warrior-archer-rogue-3)
+    - [Polearms](#polearms)
+        - [Warrior/archer/rogue](#warrior-archer-rogue-4)
     - [Wands](#wands)
 - [Hats](#hats)
 - [Earrings](#earrings)
@@ -108,6 +111,27 @@ that is equippable by more than one archetype.
 | Buck                |    50 |     6 | 155 STR   | 67 WATK |     7 | Taurospear, Faust |            |         |              |
 | Hawkhead            |    60 |     6 | 180 STR   | 77 WATK |     7 | Stone Golem       |            |         |              |
 | Mikhail             |    70 |     6 | 200 STR   | 83 WATK |     7 | Dyle, Jr. Balrog  |            |         |              |
+
+### 2H axes
+
+#### Warrior/archer/rogue
+
+| name      | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at              | craftable at |
+| :-------- | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------------------- | :----------- |
+| Metal Axe |    10 |     6 |           | 32 WATK |     7 | Slime      |            | Kerning City, Perion |              |
+
+#### Warrior
+
+| name           | level | speed | stat reqs | stats   | slots | dropped by                                                  | awarded by | sold at | craftable at |
+| :------------- | ----: | ----: | :-------- | :------ | ----: | :---------------------------------------------------------- | :--------- | :------ | :----------- |
+| Iron Axe       |    15 |     6 | 45 STR    | 37 WATK |     7 | Slime, Bubbling, Blue Mushroom, Green Mushroom, Ghost Stump |            |         |              |
+| Iron Axe       |    20 |     6 | 70 STR    | 42 WATK |     7 | Horny Mushroom, Zombie Mushroom                             |            | Perion  |              |
+| Two-Handed Axe |    25 |     6 | 85 STR    | 47 WATK |     7 |                                                             |            | Perion  |              |
+| Blue Axe       |    30 |     6 | 100 STR   | 52 WATK |     7 |                                                             |            | Perion  |              |
+| Niam           |    35 |     6 | 115 STR   | 57 WATK |     7 | Jr. Wraith, Cold Eye                                        |            |         |              |
+| Sabretooth     |    40 |     7 | 130 STR   | 62 WATK |     7 | Wild Boar, Drake                                            |            |         |              |
+| The Rising     |    50 |     7 | 160 STR   | 72 WATK |     7 | Clang, Faust                                                |            |         |              |
+| Chrono         |    70 |     7 | 220 STR   | 87 WATK |     7 | Taurospear, Dark Drake, Dyle                                |            |         |              |
 
 ### 1H maces
 
