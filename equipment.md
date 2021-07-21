@@ -11,6 +11,7 @@ that is equippable by more than one archetype.
         - [Warrior/archer/rogue](#warrior-archer-rogue)
         - [Warrior](#warrior-1)
     - [1H axes](#1h-axes)
+        - [Warrior](#warrior-2)
     - [1H maces](#1h-maces)
         - [Warrior/mage](#warrior-mage)
     - [2H maces](#2h-maces)
@@ -93,6 +94,20 @@ that is equippable by more than one archetype.
 | name       | level | speed | stat reqs | stats   | slots | dropped by      | awarded by | sold at      | craftable at |
 | :--------- | ----: | ----: | :-------- | :------ | ----: | :-------------- | :--------- | :----------- | :----------- |
 | Double Axe |    10 |     5 |           | 27 WATK |     7 | Orange Mushroom |            | Lith Harbour |              |
+
+#### Warrior
+
+| name                | level | speed | stat reqs | stats   | slots | dropped by        | awarded by | sold at | craftable at |
+| :------------------ | ----: | ----: | :-------- | :------ | ----: | :---------------- | :--------- | :------ | :----------- |
+| Battle Axe          |    15 |     5 | 40 STR    | 32 WATK |     7 |                   |            | Perion  |              |
+| Contra Axe          |    20 |     5 | 65 STR    | 37 WATK |     7 | Axe Stump         |            |         |              |
+| Misthil Axe         |    25 |     5 | 80 STR    | 42 WATK |     7 |                   |            | Perion  |              |
+| Fireman&rsquo;s Axe |    30 |     6 | 95 STR    | 47 WATK |     7 |                   |            | Perion  |              |
+| Dankke              |    35 |     6 | 110 STR   | 52 WATK |     7 | Iron Hog          |            |         |              |
+| Blue Counter        |    40 |     5 | 125 STR   | 57 WATK |     7 | Zombie Mushroom   |            |         |              |
+| Buck                |    50 |     6 | 155 STR   | 67 WATK |     7 | Taurospear, Faust |            |         |              |
+| Hawkhead            |    60 |     6 | 180 STR   | 77 WATK |     7 | Stone Golem       |            |         |              |
+| Mikhail             |    70 |     6 | 200 STR   | 83 WATK |     7 | Dyle, Jr. Balrog  |            |         |              |
 
 ### 1H maces
 
