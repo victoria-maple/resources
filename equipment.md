@@ -5,6 +5,8 @@ that is equippable by more than one archetype.
 
 - [Weapons](#weapons)
     - [1H swords](#1h-swords)
+        - [Warrior/rogue](#warrior-rogue)
+        - [Warrior](#warrior)
     - [2H swords](#2h-swords)
         - [Warrior/archer/rogue](#warrior-archer-rogue)
     - [1H axes](#1h-axes)
@@ -12,9 +14,9 @@ that is equippable by more than one archetype.
         - [Warrior/mage](#warrior-mage)
     - [2H maces](#2h-maces)
         - [Warrior/archer/rogue](#warrior-archer-rogue-1)
-        - [Warrior/rogue](#warrior-rogue)
-    - [Daggers](#daggers)
         - [Warrior/rogue](#warrior-rogue-1)
+    - [Daggers](#daggers)
+        - [Warrior/rogue](#warrior-rogue-2)
     - [Spears](#spears)
         - [Warrior/archer/rogue](#warrior-archer-rogue-2)
     - [Polearms](#polearms)
@@ -34,10 +36,31 @@ that is equippable by more than one archetype.
 
 ### 1H swords
 
-| name            | level | speed | stat reqs | stats             | slots | dropped by           | awarded by | sold at | craftable at |
-| :-------------- | ----: | ----: | :-------- | :---------------- | ----: | :------------------- | :--------- | :------ | :----------- |
-| Red Whip        |    35 |     4 |           | 48 WATK, 15 SPEED |     7 | Wraith, Zombie Lupin |            |         |              |
-| Yellow Umbrella |    40 |     5 |           | 52 WATK, 52 MATK  |     7 | Clang                |            |         |              |
+| name            | level | speed | stat reqs | stats             | slots | dropped by           | awarded by | sold at                                                       | craftable at |
+| :-------------- | ----: | ----: | :-------- | :---------------- | ----: | :------------------- | :--------- | :------------------------------------------------------------ | :----------- |
+| Long Sword      |    10 |     4 |           | 27 WATK           |     7 |                      |            | Kerning City, Perion, Henesys, Nautilus Harbour, Lith Harbour |              |
+| Red Whip        |    35 |     4 |           | 48 WATK, 15 SPEED |     7 | Wraith, Zombie Lupin |            |                                                               |              |
+| Yellow Umbrella |    40 |     5 |           | 52 WATK, 52 MATK  |     7 | Clang                |            |                                                               |              |
+
+#### Warrior/rogue
+
+| name    | level | speed | stat reqs      | stats   | slots | dropped by | awarded by | sold at | craftable at |
+| :------ | ----: | ----: | :------------- | :------ | ----: | :--------- | :--------- | :------ | :----------- |
+| Machete |    20 |     5 | 25 STR, 40 DEX | 37 WATK |     7 |            |            | Perion  |              |
+| Eloon   |    25 |     5 | 30 STR, 50 DEX | 42 WATK |     7 | Lupin      |            | Perion  |              |
+
+#### Warrior
+
+| name                 | level | speed | stat reqs | stats          | slots | dropped by                               | awarded by                | sold at | craftable at |
+| :------------------- | ----: | ----: | :-------- | :------------- | ----: | :--------------------------------------- | :------------------------ | :------ | :----------- |
+| Sabre                |    15 |     5 | 40 STR    | 32 WATK        |     7 |                                          |                           | Perion  |              |
+| Viking Sword         |    20 |     5 | 65 STR    | 37 WATK        |     7 | Rocky Mask                               |                           | Perion  |              |
+| Gladius              |    30 |     5 | 95 STR    | 47 WATK        |     7 |                                          |                           | Perion  |              |
+| Cutlus               |    35 |     5 | 110 STR   | 52 WATK        |     7 | Evil Eye, Horny Mushroom, Zombie Mushmom |                           |         |              |
+| Hero&rsquo;s Gladius |    45 |     4 | 140 STR   | 63 WATK, 1 STR |     7 |                                          | Manji&rsquo;s Old Gladius |         |              |
+| Jeweled Katar        |    50 |     5 | 155 STR   | 67 WATK        |     7 | Copper Drake, Faust                      |                           |         |              |
+| Neocora              |    60 |     5 | 180 STR   | 77 WATK        |     7 | Officer Skeleton                         |                           |         |              |
+| Red Katana           |    70 |     4 | 200 STR   | 83 WATK        |     7 | Dyle, Jr. Balrog                         |                           |         |              |
 
 ### 2H swords
 
