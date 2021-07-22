@@ -39,6 +39,8 @@ that is equippable by more than one archetype.
         - [Archer](#archer)
     - [Crossbows](#crossbows)
         - [Archer](#archer-1)
+    - [Claws](#claws)
+        - [Rogue](#rogue-1)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -368,6 +370,39 @@ that is equippable by more than one archetype.
 | Rower             |    50 |     6 | 50 STR, 160 DEX | 68 WATK        |     7 | Zombie Lupin, Faust                        |            |         | Henesys      |
 | Golden Crow       |    60 |     6 | 60 STR, 190 DEX | 78 WATK        |     7 | Ice Drake                                  |            |         |              |
 | Gross Jaeger      |    70 |     6 | 70 STR, 210 DEX | 83 WATK        |     7 | Dyle, Jr. Balrog                           |            |         |              |
+
+### Claws
+
+#### Rogue
+
+| name               | level | speed | stat reqs        | stats                   | slots | dropped by                              | awarded by | sold at      | craftable at |
+| :----------------- | ----: | ----: | :--------------- | :---------------------- | ----: | :-------------------------------------- | :--------- | :----------- | :----------- |
+| Garnier            |    10 |     6 |                  | 10 WATK                 |     7 | Pig                                     |            | Kerning City |              |
+| Steel Titans       |    15 |     4 | 30 DEX, 35 LUK   | 12 WATK, 1 WDEF         |     7 |                                         |            |              | Kerning City |
+| Mithril Titans     |    15 |     4 | 30 DEX, 35 LUK   | 12 WATK, 1 LUK, 1 WDEF  |     7 |                                         |            |              | Kerning City |
+| Gold Titans        |    15 |     4 | 30 DEX, 35 LUK   | 12 WATK, 2 LUK, 2 WDEF  |     7 |                                         |            |              | Kerning City |
+| Bronze Igor        |    20 |     4 | 40 DEX, 50 LUK   | 14 WATK                 |     7 | Dark Axe Stump                          |            |              | Kerning City |
+| Steel Igor         |    20 |     4 | 40 DEX, 50 LUK   | 14 WATK, 1 LUK, 1 WDEF  |     7 |                                         |            |              | Kerning City |
+| Adamantium Igor    |    20 |     4 | 40 DEX, 50 LUK   | 14 WATK, 2 LUK, 2 WDEF  |     7 | Dark Axe Stump                          |            |              | Kerning City |
+| Meba               |    25 |     3 | 50 DEX, 65 LUK   | 16 WATK                 |     7 |                                         |            |              | Kerning City |
+| Steel Guards       |    30 |     4 | 60 DEX, 80 LUK   | 18 WATK                 |     7 |                                         |            |              | Kerning City |
+| Mithril Guards     |    30 |     4 | 60 DEX, 80 LUK   | 18 WATK, 1 LUK, 1 WDEF  |     7 | Dark Axe Stump, Wild Boar, Iron Hog     |            |              | Kerning City |
+| Adamantium Guards  |    30 |     4 | 60 DEX, 80 LUK   | 18 WATK, 2 LUK, 2 WDEF  |     7 |                                         |            |              | Kerning City |
+| Bronze Guardian    |    35 |     4 | 70 DEX, 95 LUK   | 20 WATK, 1 LUK, 1 WDEF  |     7 |                                         |            |              | Kerning City |
+| Silver Guardian    |    35 |     4 | 70 DEX, 95 LUK   | 20 WATK, 2 LUK, 2 WDEF  |     7 | Dark Axe Stump, Fire Boar, Copper Drake |            |              | Kerning City |
+| Dark Guardian      |    35 |     4 | 70 DEX, 95 LUK   | 20 WATK, 3 LUK, 3 WDEF  |     7 | Cold Eye                                |            |              | Kerning City |
+| Steel Avarice      |    40 |     4 | 80 DEX, 120 LUK  | 22 WATK, 1 LUK, 2 WDEF  |     7 |                                         |            |              | Kerning City |
+| Blood Avarice      |    40 |     4 | 80 DEX, 120 LUK  | 22 WATK, 2 DEX, 3 WDEF  |     7 | Zombie Lupin                            |            |              | Kerning City |
+| Adamantium Avarice |    40 |     4 | 80 DEX, 120 LUK  | 22 WATK, 2 LUK, 3 WDEF  |     7 | Jr. Wraith, Tortie                      |            |              | Kerning City |
+| Dark Avarice       |    40 |     4 | 80 DEX, 120 LUK  | 22 WATK, 3 LUK, 4 WDEF  |     7 | Lupin, Cold Eye, Drake                  |            |              | Kerning City |
+| Steel Slain        |    50 |     4 | 90 DEX, 140 LUK  | 26 WATK, 2 LUK, 1 AVOID |     7 |                                         |            |              | Kerning City |
+| Blood Slain        |    50 |     4 | 90 DEX, 140 LUK  | 26 WATK, 3 DEX, 2 AVOID |     7 | Iron Hog                                |            |              | Kerning City |
+| Sapphire Slain     |    50 |     4 | 90 DEX, 140 LUK  | 26 WATK, 3 LUK, 2 AVOID |     7 | Malady                                  |            |              | Kerning City |
+| Dark Slain         |    50 |     4 | 90 DEX, 140 LUK  | 26 WATK, 4 LUK, 3 AVOID |     7 | Faust                                   |            |              | Kerning City |
+| Blood Gigantic     |    60 |     4 | 100 DEX, 170 LUK | 30 WATK, 4 DEX, 3 AVOID |     7 | Wild Kargo, Officer Skeleton            |            |              |              |
+| Sapphire Gigantic  |    60 |     4 | 100 DEX, 170 LUK | 30 WATK, 4 LUK, 3 AVOID |     7 | Ice Drake                               |            |              |              |
+| Brown Scarab       |    70 |     4 | 110 DEX, 200 LUK | 34 WATK, 4 LUK, 3 WDEF  |     7 | Tauromacis, Jr. Balrog                  |            |              |              |
+| Black Scarab       |    70 |     4 | 110 DEX, 200 LUK | 34 WATK, 6 LUK, 5 WDEF  |     7 | Dyle                                    |            |              |              |
 
 ## Hats
 
