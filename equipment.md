@@ -30,6 +30,7 @@ that is equippable by more than one archetype.
         - [Warrior](#warrior-6)
     - [Polearms](#polearms)
         - [Warrior/archer/rogue](#warrior-archer-rogue-4)
+        - [Warrior](#warrior-7)
     - [Wands](#wands)
 - [Hats](#hats)
 - [Earrings](#earrings)
@@ -272,6 +273,18 @@ that is equippable by more than one archetype.
 | :------------------ | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :-------------------------------- | :----------- |
 | Pole Arm            |    10 |     8 |           | 32 WATK |     7 | Dark Stump |            | Kerning City, Perion              |              |
 | Janitor&rsquo;s Mop |    25 |     8 | 25 STR    | 47 WATK |     7 |            |            | Nautilus Harbour, Henesys, Perion |              |
+
+#### Warrior
+
+| name             | level | speed | stat reqs | stats   | slots | dropped by                                      | awarded by | sold at | craftable at |
+| :--------------- | ----: | ----: | :-------- | :------ | ----: | :---------------------------------------------- | :--------- | :------ | :----------- |
+| Iron Ball        |    15 |     7 | 15 STR    | 37 WATK |     7 |                                                 |            | Perion  |              |
+| Studded Polearm  |    20 |     7 | 20 STR    | 42 WATK |     7 |                                                 |            | Perion  |              |
+| Mithril Polearm  |    30 |     8 | 100 STR   | 52 WATK |     7 | Horny Mushroom, Blue Mushroom, Iron Hog, Lorang |            |         |              |
+| Axe Pole Arm     |    35 |     8 | 115 STR   | 57 WATK |     7 | Zombie Lupin                                    |            |         |              |
+| The Nine Dragons |    50 |     6 | 160 STR   | 72 WATK |     7 | Zombie Lupin, Faust                             |            |         |              |
+| Skylar           |    60 |     8 | 190 STR   | 82 WATK |     7 | Wild Kargo, Dark Drake                          |            |         |              |
+| The Gold Dragon  |    70 |     8 | 220 STR   | 87 WATK |     7 | Dyle                                            |            |         |              |
 
 ### Wands
 
