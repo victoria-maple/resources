@@ -17,7 +17,7 @@ Event-only items are not represented here.
     - [For bows](#for-bows)
     - [For crossbows](#for-crossbows)
     - [For claws](#for-claws)
-    - [For knuckler](#for-knuckler)
+    - [For knucklers](#for-knucklers)
     - [For gun](#for-gun)
 - [For hats](#for-hats)
 - [For earrings](#for-earrings)
@@ -144,7 +144,7 @@ Event-only items are not represented here.
 | +2 WATK, +1 WACC         |     60% |             |              | Green Mushroom, Skeleton Soldier, King Clang, Zombie Mushmom, Faust, Dyle, Jr. Balrog | POLLUTED! \<2-Curse Eye\>, Jane and the Wild Boar                                                |
 | +5 WATK, +3 WACC, +1 LUK |     10% |             |              | Copper Drake                                                                          | The Alligators at the Swamp, Notice from the Excavation Team, Building a New House For Blackbull |
 
-### For knuckler
+### For knucklers
 
 | effect on pass           | P(pass) |       price | sold at | dropped by                                            | awarded by                                                                                       |
 | :----------------------- | ------: | ----------: | :------ | :---------------------------------------------------- | :----------------------------------------------------------------------------------------------- |

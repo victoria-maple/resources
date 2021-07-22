@@ -41,6 +41,8 @@ that is equippable by more than one archetype.
         - [Archer](#archer-1)
     - [Claws](#claws)
         - [Rogue](#rogue-1)
+    - [Knucklers](#knucklers)
+        - [Pirate](#pirate)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -403,6 +405,23 @@ that is equippable by more than one archetype.
 | Sapphire Gigantic  |    60 |     4 | 100 DEX, 170 LUK | 30 WATK, 4 LUK, 3 AVOID |     7 | Ice Drake                               |            |              |              |
 | Brown Scarab       |    70 |     4 | 110 DEX, 200 LUK | 34 WATK, 4 LUK, 3 WDEF  |     7 | Tauromacis, Jr. Balrog                  |            |              |              |
 | Black Scarab       |    70 |     4 | 110 DEX, 200 LUK | 34 WATK, 6 LUK, 5 WDEF  |     7 | Dyle                                    |            |              |              |
+
+### Knucklers
+
+#### Pirate
+
+| name                 | level | speed | stat reqs       | stats   | slots | dropped by                         | awarded by | sold at          | craftable at |
+| :------------------- | ----: | ----: | :-------------- | :------ | ----: | :--------------------------------- | :--------- | :--------------- | :----------- |
+| Steel Knuckler       |    10 |     5 |                 | 18 WATK |     7 | Slime                              |            | Nautilus Harbour |              |
+| Leather Arms         |    15 |     6 | 20 STR, 15 DEX  | 22 WATK |     7 | Stump, Green Mushroom              |            | Nautilus Harbour |              |
+| Double Tail Knuckler |    20 |     5 | 30 STR, 20 DEX  | 26 WATK |     7 | Jr. Necki                          |            | Nautilus Harbour |              |
+| Norman Grip          |    25 |     6 | 45 STR, 25 DEX  | 30 WATK |     7 | Evil Eye                           |            | Nautilus Harbour |              |
+| Prime Hands          |    30 |     5 | 60 STR, 30 DEX  | 34 WATK |     7 | Curse Eye                          |            | Nautilus Harbour |              |
+| Silver Maiden        |    35 |     6 | 75 STR, 35 DEX  | 38 WATK |     7 | Curse Eye                          |            |                  |              |
+| Neozard              |    40 |     6 | 90 STR, 40 DEX  | 42 WATK |     7 | Lorang                             |            |                  |              |
+| Fury Claw            |    50 |     5 | 120 STR, 50 DEX | 50 WATK |     7 | Clang, Faust                       |            |                  |              |
+| Psycho Claw          |    60 |     5 | 150 STR, 60 DEX | 58 WATK |     7 | Red Drake                          |            |                  |              |
+| Beia Crash           |    70 |     5 | 180 STR, 70 DEX | 62 WATK |     7 | Taurospear, Officer Skeleton, Dyle |            |                  |              |
 
 ## Hats
 
