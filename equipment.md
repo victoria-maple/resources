@@ -32,6 +32,7 @@ that is equippable by more than one archetype.
         - [Warrior/archer/rogue](#warrior-archer-rogue-4)
         - [Warrior](#warrior-7)
     - [Wands](#wands)
+        - [Mage](#mage)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -295,6 +296,19 @@ that is equippable by more than one archetype.
 | Metal Wand    |    18 |     6 | 55 INT, 20 LUK | 33 MATK, 21 WATK               |     7 | Red Snail  |                  | Ellinia | Ellinia      |
 | Heart Staff   |    54 |     5 | 43 LUK         | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
 | Heart Wand    |    54 |     5 |                | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
+
+#### Mage
+
+| name         | level | speed | stat reqs       | stats            | slots | dropped by                        | awarded by | sold at | craftable at |
+| :----------- | ----: | ----: | :-------------- | :--------------- | ----: | :-------------------------------- | :--------- | :------ | :----------- |
+| Ice Wand     |    23 |     6 | 70 INT, 25 LUK  | 38 MATK, 24 WATK |     7 | Rocky Mask                        |            | Ellinia | Ellinia      |
+| Mithril Wand |    28 |     6 | 85 INT, 30 LUK  | 43 MATK, 27 WATK |     7 | Zombie Mushroom, Fire Boar        |            | Ellinia | Ellinia      |
+| Wizard Wand  |    33 |     6 | 100 INT, 35 LUK | 48 MATK, 30 WATK |     7 | Axe Stump                         |            |         | Ellinia      |
+| Fairy Wand   |    38 |     6 | 115 INT, 40 LUK | 53 MATK, 33 WATK |     7 | Mushmom                           |            |         | Ellinia      |
+| Crystal Wand |    38 |     6 | 115 INT, 40 LUK | 53 MATK, 33 WATK |     7 | Fire Boar, Stone Golem, Red Drake |            |         |              |
+| Cromi        |    48 |     6 | 145 INT, 50 LUK | 63 MATK, 39 WATK |     7 | Faust                             |            |         | Ellinia      |
+| Evil Tale    |    58 |     6 | 175 INT, 60 LUK | 73 MATK, 45 WATK |     7 | Mixed Golem, Red Drake            |            |         |              |
+| Angel Wings  |    68 |     6 | 205 INT, 70 LUK | 83 MATK, 51 WATK |     7 | Dark Drake, Dyle                  |            |         |              |
 
 ## Hats
 
