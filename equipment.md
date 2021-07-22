@@ -33,6 +33,8 @@ that is equippable by more than one archetype.
         - [Warrior](#warrior-7)
     - [Wands](#wands)
         - [Mage](#mage)
+    - [Staves](#staves)
+        - [Mage](#mage-1)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -309,6 +311,24 @@ that is equippable by more than one archetype.
 | Cromi        |    48 |     6 | 145 INT, 50 LUK | 63 MATK, 39 WATK |     7 | Faust                             |            |         | Ellinia      |
 | Evil Tale    |    58 |     6 | 175 INT, 60 LUK | 73 MATK, 45 WATK |     7 | Mixed Golem, Red Drake            |            |         |              |
 | Angel Wings  |    68 |     6 | 205 INT, 70 LUK | 83 MATK, 51 WATK |     7 | Dark Drake, Dyle                  |            |         |              |
+
+### Staves
+
+#### Mage
+
+| name                | level | speed | stat reqs       | stats            | slots | dropped by                                | awarded by | sold at | craftable at |
+| :------------------ | ----: | ----: | :-------------- | :--------------- | ----: | :---------------------------------------- | :--------- | :------ | :----------- |
+| Wooden Staff        |    10 |     8 | 32 INT, 13 LUK  | 25 MATK, 20 WATK |     7 | Dark Stump                                |            | Ellinia | Ellinia      |
+| Sapphire Staff      |    15 |     8 | 48 INT, 18 LUK  | 30 MATK, 23 WATK |     7 |                                           |            | Ellinia | Ellinia      |
+| Emerald Staff       |    15 |     8 | 48 INT, 18 LUK  | 30 MATK, 23 WATK |     7 |                                           |            | Ellinia | Ellinia      |
+| Old Wooden Staff    |    20 |     8 | 62 INT, 23 LUK  | 35 MATK, 26 WATK |     7 | Axe Stump                                 |            | Ellinia | Ellinia      |
+| Wizard Staff        |    25 |     8 | 78 INT, 28 LUK  | 40 MATK, 29 WATK |     7 | Blue Mushroom                             |            | Ellinia | Ellinia      |
+| Circle-Winded Staff |    30 |     8 | 92 INT, 33 LUK  | 44 MATK, 30 WATK |     7 | Wild Boar, Lorang                         |            |         |              |
+| Hall Staff          |    40 |     8 | 123 INT, 43 LUK | 55 MATK, 38 WATK |     7 | Croco, Skeledog                           |            |         |              |
+| Arc Staff           |    45 |     8 | 138 INT, 48 LUK | 60 MATK, 41 WATK |     7 | Malady, Zombie Lupin, Copper Drake, Clang |            |         | Ellinia      |
+| Thorns              |    55 |     8 | 168 INT, 58 LUK | 70 MATK, 47 WATK |     7 | Drake, Wild Kargo, Faust                  |            |         |              |
+| Evil Wings          |    65 |     4 | 198 INT, 68 LUK | 80 MATK, 53 WATK |     7 | Dark Stone Golem, Jr. Balrog              |            |         |              |
+| Dark Ritual         |    75 |     8 | 228 INT, 78 LUK | 90 MATK, 59 WATK |     7 | Tauromacis, Taurospear, Dyle              |            |         |              |
 
 ## Hats
 
