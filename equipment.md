@@ -37,6 +37,8 @@ that is equippable by more than one archetype.
         - [Mage](#mage-1)
     - [Bows](#bows)
         - [Archer](#archer)
+    - [Crossbows](#crossbows)
+        - [Archer](#archer-1)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -349,6 +351,23 @@ that is equippable by more than one archetype.
 | Asianic Bow        |    60 |     6 | 65 STR, 185 DEX | 75 WATK           |     7 | Malady                                                        |            |         |              |
 | Red Hinkel         |    70 |     6 | 75 STR, 205 DEX | 80 WATK, 1 WACC   |     7 | Tauromacis, Jr. Balrog                                        |            |         |              |
 | Golden Hinkel      |    70 |     6 | 75 STR, 205 DEX | 80 WATK, 10 SPEED |     7 | Taurospear, Dyle                                              |            |         |              |
+
+### Crossbows
+
+#### Archer
+
+| name              | level | speed | stat reqs       | stats          | slots | dropped by                                 | awarded by | sold at | craftable at |
+| :---------------- | ----: | ----: | :-------------- | :------------- | ----: | :----------------------------------------- | :--------- | :------ | :----------- |
+| Crossbow          |    12 |     6 |                 | 29 WATK        |     7 |                                            |            | Henesys | Henesys      |
+| Battle Crossbow   |    18 |     6 | 18 STR, 55 DEX  | 34 WATK        |     7 | Green Mushroom                             |            | Henesys | Henesys      |
+| Balanche          |    22 |     6 | 22 STR, 70 DEX  | 39 WATK, 1 STR |     7 |                                            |            | Henesys | Henesys      |
+| Mountain Crossbow |    28 |     6 | 28 STR, 80 DEX  | 44 WATK        |     7 |                                            |            | Henesys | Henesys      |
+| Eagle Crow        |    32 |     6 | 32 STR, 100 DEX | 49 WATK        |     7 | Horny Mushroom, Wild Boar, Cold Eye, Drake |            |         | Henesys      |
+| Heckler           |    38 |     5 | 38 STR, 115 DEX | 54 WATK        |     7 | Fire Boar                                  |            |         | Henesys      |
+| Silver Crow       |    42 |     6 | 42 STR, 130 DEX | 59 WATK        |     7 | Zombie Lupin                               |            |         | Henesys      |
+| Rower             |    50 |     6 | 50 STR, 160 DEX | 68 WATK        |     7 | Zombie Lupin, Faust                        |            |         | Henesys      |
+| Golden Crow       |    60 |     6 | 60 STR, 190 DEX | 78 WATK        |     7 | Ice Drake                                  |            |         |              |
+| Gross Jaeger      |    70 |     6 | 70 STR, 210 DEX | 83 WATK        |     7 | Dyle, Jr. Balrog                           |            |         |              |
 
 ## Hats
 
