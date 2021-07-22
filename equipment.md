@@ -43,6 +43,8 @@ that is equippable by more than one archetype.
         - [Rogue](#rogue-1)
     - [Knucklers](#knucklers)
         - [Pirate](#pirate)
+    - [Guns](#guns)
+        - [Pirate](#pirate-1)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -422,6 +424,23 @@ that is equippable by more than one archetype.
 | Fury Claw            |    50 |     5 | 120 STR, 50 DEX | 50 WATK |     7 | Clang, Faust                       |            |                  |              |
 | Psycho Claw          |    60 |     5 | 150 STR, 60 DEX | 58 WATK |     7 | Red Drake                          |            |                  |              |
 | Beia Crash           |    70 |     5 | 180 STR, 70 DEX | 62 WATK |     7 | Taurospear, Officer Skeleton, Dyle |            |                  |              |
+
+### Guns
+
+#### Pirate
+
+| name              | level | speed | stat reqs       | stats   | slots | dropped by          | awarded by | sold at          | craftable at |
+| :---------------- | ----: | ----: | :-------------- | :------ | ----: | :------------------ | :--------- | :--------------- | :----------- |
+| Pistol            |    10 |     5 |                 | 13 WATK |     7 | Stump, Ribbon Pig   |            | Nautilus Harbour |              |
+| Dellinger Special |    15 |     6 | 15 STR, 25 DEX  | 18 WATK |     7 | Axe Stump, Bubbling |            | Nautilus Harbour |              |
+| The Negotiator    |    20 |     5 | 20 STR, 35 DEX  | 22 WATK |     7 | Horny Mushroom      |            | Nautilus Harbour |              |
+| Golden Hook       |    25 |     6 | 25 STR, 50 DEX  | 27 WATK |     7 | Zombie Mushroom     |            | Nautilus Harbour |              |
+| Cold Mind         |    30 |     5 | 30 STR, 70 DEX  | 31 WATK |     7 |                     |            | Nautilus Harbour |              |
+| Shooting Star     |    35 |     6 | 35 STR, 90 DEX  | 36 WATK |     7 | Jr. Wraith          |            |                  |              |
+| Lunar Shoter      |    40 |     5 | 40 STR, 105 DEX | 40 WATK |     7 | Curse Eye           |            |                  |              |
+| Mr. Rasfelt       |    50 |     5 | 50 STR, 140 DEX | 49 WATK |     7 | Faust               |            |                  |              |
+| Burning Hell      |    60 |     5 | 60 STR, 175 DEX | 58 WATK |     7 | Dark Stone Golem    |            |                  |              |
+| Abyss Shooter     |    70 |     5 | 70 STR, 210 DEX | 62 WATK |     7 | Dyle                |            |                  |              |
 
 ## Hats
 
