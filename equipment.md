@@ -21,6 +21,7 @@ that is equippable by more than one archetype.
     - [2H maces](#2h-maces)
         - [Warrior/archer/rogue](#warrior-archer-rogue-2)
         - [Warrior/rogue](#warrior-rogue-1)
+        - [Warrior](#warrior-5)
     - [Daggers](#daggers)
         - [Warrior/rogue](#warrior-rogue-2)
     - [Spears](#spears)
@@ -179,6 +180,17 @@ that is equippable by more than one archetype.
 | name    | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at | craftable at |
 | :------ | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------ | :----------- |
 | Pickaxe |    20 |     7 | 20 STR    | 42 WATK |     7 |            |            | Perion  |              |
+
+#### Warrior
+
+| name            | level | speed | stat reqs | stats   | slots | dropped by                   | awarded by | sold at | craftable at |
+| :-------------- | ----: | ----: | :-------- | :------ | ----: | :--------------------------- | :--------- | :------ | :----------- |
+| Heavy Mace      |    15 |     7 | 45 STR    | 37 WATK |     7 |                              |            | Perion  |              |
+| Square Hammer   |    20 |     7 | 70 STR    | 42 WATK |     7 |                              |            | Perion  |              |
+| Mithril Maul    |    30 |     6 | 100 STR   | 52 WATK |     7 | Evil Eye, Ligator            |            |         |              |
+| Titan           |    40 |     7 | 130 STR   | 62 WATK |     7 | Skeledog                     |            |         |              |
+| Golden Mole     |    50 |     7 | 160 STR   | 72 WATK |     7 | Faust                        |            |         |              |
+| Gigantic Sledge |    70 |     7 | 220 STR   | 87 WATK |     7 | Taurospear, Dyle, Jr. Balrog |            |         |              |
 
 ### Daggers
 
