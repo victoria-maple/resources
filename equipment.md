@@ -35,6 +35,8 @@ that is equippable by more than one archetype.
         - [Mage](#mage)
     - [Staves](#staves)
         - [Mage](#mage-1)
+    - [Bows](#bows)
+        - [Archer](#archer)
 - [Hats](#hats)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
@@ -329,6 +331,24 @@ that is equippable by more than one archetype.
 | Thorns              |    55 |     8 | 168 INT, 58 LUK | 70 MATK, 47 WATK |     7 | Drake, Wild Kargo, Faust                  |            |         |              |
 | Evil Wings          |    65 |     4 | 198 INT, 68 LUK | 80 MATK, 53 WATK |     7 | Dark Stone Golem, Jr. Balrog              |            |         |              |
 | Dark Ritual         |    75 |     8 | 228 INT, 78 LUK | 90 MATK, 59 WATK |     7 | Tauromacis, Taurospear, Dyle              |            |         |              |
+
+### Bows
+
+#### Archer
+
+| name               | level | speed | stat reqs       | stats             | slots | dropped by                                                    | awarded by | sold at | craftable at |
+| :----------------- | ----: | ----: | :-------------- | :---------------- | ----: | :------------------------------------------------------------ | :--------- | :------ | :----------- |
+| War Bow            |    10 |     6 |                 | 25 WATK           |     7 |                                                               |            | Henesys | Henesys      |
+| Composite Bow      |    15 |     6 | 20 STR, 40 DEX  | 30 WATK           |     7 | Stump, Green Mushroom                                         |            | Henesys | Henesys      |
+| Hunter&rsquo;s Bow |    20 |     6 | 25 STR, 65 DEX  | 35 WATK, 1 DEX    |     7 | Zombie Mushroom                                               |            | Henesys | Henesys      |
+| Battle Bow         |    25 |     5 | 30 STR, 80 DEX  | 40 WATK           |     7 | Jr. Wraith                                                    |            | Henesys | Henesys      |
+| Ryden              |    30 |     6 | 35 STR, 95 DEX  | 45 WATK, 2 DEX    |     7 | Stirge, Wild Boar, Fire Boar, Rocky Mask, Stone Golem, Lorang |            |         | Henesys      |
+| Red Viper          |    35 |     5 | 40 STR, 110 DEX | 50 WATK           |     7 |                                                               |            |         | Henesys      |
+| Vaulter 2000       |    40 |     6 | 45 STR, 125 DEX | 55 WATK           |     7 | Drake                                                         |            |         | Henesys      |
+| Olympus            |    50 |     6 | 55 STR, 160 DEX | 65 WATK           |     7 | Malady, Faust                                                 |            |         |              |
+| Asianic Bow        |    60 |     6 | 65 STR, 185 DEX | 75 WATK           |     7 | Malady                                                        |            |         |              |
+| Red Hinkel         |    70 |     6 | 75 STR, 205 DEX | 80 WATK, 1 WACC   |     7 | Tauromacis, Jr. Balrog                                        |            |         |              |
+| Golden Hinkel      |    70 |     6 | 75 STR, 205 DEX | 80 WATK, 10 SPEED |     7 | Taurospear, Dyle                                              |            |         |              |
 
 ## Hats
 
