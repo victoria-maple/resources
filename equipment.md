@@ -24,6 +24,7 @@ that is equippable by more than one archetype.
         - [Warrior](#warrior-5)
     - [Daggers](#daggers)
         - [Warrior/rogue](#warrior-rogue-2)
+        - [Rogue](#rogue)
     - [Spears](#spears)
         - [Warrior/archer/rogue](#warrior-archer-rogue-3)
     - [Polearms](#polearms)
@@ -209,6 +210,22 @@ that is equippable by more than one archetype.
 | Cass                 |    30 |     3 | 20 STR, 60 DEX  | 45 WATK |     7 |                               |            | Kerning City         |              |
 | Sai                  |    50 |     4 | 40 STR, 90 DEX  | 65 WATK |     7 | Drake, Copper Drake, Skeledog |            |                      |              |
 | Serpent&rsquo;s Coil |    60 |     4 | 50 STR, 100 DEX | 75 WATK |     7 | Officer Skeleton              |            |                      |              |
+| Golden River         |    70 |     4 | 55 STR, 110 DEX | 80 WATK |     7 | Jr. Balrog                    |            |                      |              |
+
+#### Rogue
+
+| name                  | level | speed | stat reqs        | stats   | slots | dropped by              | awarded by | sold at      | craftable at |
+| :-------------------- | ----: | ----: | :--------------- | :------ | ----: | :---------------------- | :--------- | :----------- | :----------- |
+| Triangular Zamadar    |    12 |     4 | 25 DEX, 25 LUK   | 27 WATK |     7 | Stump                   |            | Kerning City |              |
+| Triple-Tipped Zamadar |    17 |     4 | 35 DEX, 40 LUK   | 32 WATK |     7 |                         |            | Kerning City |              |
+| Stinger               |    22 |     4 | 40 DEX, 55 LUK   | 37 WATK |     7 |                         |            | Kerning City |              |
+| Forked Dagger         |    27 |     4 | 55 DEX, 70 LUK   | 42 WATK |     7 |                         |            | Kerning City |              |
+| Reef Claw             |    30 |     3 | 60 DEX, 80 LUK   | 45 WATK |     7 |                         |            | Kerning City |              |
+| Halfmoon Zamadar      |    32 |     4 | 65 DEX, 85 LUK   | 47 WATK |     7 | Blue Mushroom, Iron Hog |            |              |              |
+| Gephart               |    35 |     4 | 70 DEX, 95 LUK   | 50 WATK |     7 | Ligator                 |            |              |              |
+| Dragon Toenail        |    40 |     4 | 80 DEX, 110 LUK  | 55 WATK |     7 | Croco                   |            |              |              |
+| Shinkita              |    50 |     5 | 90 DEX, 150 LUK  | 62 WATK |     7 | Zombie Lupin, Malady    |            |              |              |
+| Kandine               |    70 |     4 | 110 DEX, 190 LUK | 77 WATK |     7 | Dyle, Jr. Balrog        |            |              |              |
 
 ### Spears
 
