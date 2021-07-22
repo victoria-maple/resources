@@ -27,6 +27,7 @@ that is equippable by more than one archetype.
         - [Rogue](#rogue)
     - [Spears](#spears)
         - [Warrior/archer/rogue](#warrior-archer-rogue-3)
+        - [Warrior](#warrior-6)
     - [Polearms](#polearms)
         - [Warrior/archer/rogue](#warrior-archer-rogue-4)
     - [Wands](#wands)
@@ -240,6 +241,16 @@ that is equippable by more than one archetype.
 | :-------------- | ----: | ----: | :-------- | :------ | ----: | :------------------------------- | :--------- | :------------------- | :----------- |
 | Spear           |    10 |     8 |           | 32 WATK |     7 | Slime, Orange Mushroom, Bubbling |            | Kerning City, Perion |              |
 | Fork on a Stick |    15 |     8 | 15 STR    | 37 WATK |     7 | Slime, Blue Mushroom             |            | Kerning City, Perion |              |
+
+#### Warrior
+
+| name                   | level | speed | stat reqs | stats           | slots | dropped by                            | awarded by | sold at | craftable at |
+| :--------------------- | ----: | ----: | :-------- | :-------------- | ----: | :------------------------------------ | :--------- | :------ | :----------- |
+| Forked Spear           |    30 |     8 | 100 STR   | 52 WATK         |     7 | Evil Eye                              |            |         |              |
+| Nakamaki               |    35 |     8 | 115 STR   | 57 WATK         |     7 | Zombie Mushroom, Wild Boar, Curse Eye |            |         |              |
+| Zeco                   |    40 |     6 | 130 STR   | 62 WATK         |     7 | Green Mushroom, Ligator               |            |         |              |
+| Serpent&rsquo;s Tongue |    50 |     6 | 160 STR   | 72 WATK         |     7 | Faust                                 |            |         |              |
+| Redemption             |    70 |     8 | 220 STR   | 87 WATK, 3 WACC |     7 | Dark Drake, Dyle, Jr. Balrog          |            |         |              |
 
 ### Polearms
 
