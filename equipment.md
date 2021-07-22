@@ -17,6 +17,7 @@ that is equippable by more than one archetype.
         - [Warrior](#warrior-3)
     - [1H maces](#1h-maces)
         - [Warrior/mage](#warrior-mage)
+        - [Warrior](#warrior-4)
     - [2H maces](#2h-maces)
         - [Warrior/archer/rogue](#warrior-archer-rogue-2)
         - [Warrior/rogue](#warrior-rogue-1)
@@ -135,16 +136,17 @@ that is equippable by more than one archetype.
 
 ### 1H maces
 
-| name             | level | speed | stat reqs | stats             | slots | dropped by       | awarded by         | sold at                   | craftable at |
-| :--------------- | ----: | ----: | :-------- | :---------------- | ----: | :--------------- | :----------------- | :------------------------ | :----------- |
-| Leather Purse    |    15 |     5 | 20 STR    | 34 WATK           |     7 | Red Snail, Slime |                    | Henesys, Nautilus Harbour |              |
-| Hard Briefcase   |    20 |     5 | 25 STR    | 39 WATK           |     7 |                  |                    | Henesys                   |              |
-| Plunger          |    25 |     5 | 30 STR    | 44 WATK           |     7 | Ligator          |                    | Kerning City              |              |
-| Red Flowery Tube |    25 |     5 |           | 40 WATK, 10 SPEED |     7 | Lorang           |                    |                           |              |
-| Pig Illustrated  |    25 |     3 |           | 42 WATK, 10 WACC  |     7 |                  | Camila&rsquo;s Gem |                           |              |
-| Purple Tube      |    40 |     5 |           | 55 WATK, 50 MP    |     7 | Lorang           |                    |                           |              |
-| Black Tube       |    50 |     5 |           | 65 WATK, 10 AVOID |     7 | Lorang, Tortie   |                    |                           |              |
-| Colorful Tube    |    70 |     5 |           | 85 WATK, 10 JUMP  |     7 | Tortie           |                    |                           |              |
+| name              | level | speed | stat reqs | stats             | slots | dropped by       | awarded by         | sold at                   | craftable at |
+| :---------------- | ----: | ----: | :-------- | :---------------- | ----: | :--------------- | :----------------- | :------------------------ | :----------- |
+| Blue Flowery Tube |     0 |     5 |           | 15 WATK, 10 WACC  |     7 | Bubbling, Lorang |                    |                           |              |
+| Leather Purse     |    15 |     5 | 20 STR    | 34 WATK           |     7 | Red Snail, Slime |                    | Henesys, Nautilus Harbour |              |
+| Hard Briefcase    |    20 |     5 | 25 STR    | 39 WATK           |     7 |                  |                    | Henesys                   |              |
+| Plunger           |    25 |     5 | 30 STR    | 44 WATK           |     7 | Ligator          |                    | Kerning City              |              |
+| Red Flowery Tube  |    25 |     5 |           | 40 WATK, 10 SPEED |     7 | Lorang           |                    |                           |              |
+| Pig Illustrated   |    25 |     3 |           | 42 WATK, 10 WACC  |     7 |                  | Camila&rsquo;s Gem |                           |              |
+| Purple Tube       |    40 |     5 |           | 55 WATK, 50 MP    |     7 | Lorang           |                    |                           |              |
+| Black Tube        |    50 |     5 |           | 65 WATK, 10 AVOID |     7 | Lorang, Tortie   |                    |                           |              |
+| Colorful Tube     |    70 |     5 |           | 85 WATK, 10 JUMP  |     7 | Tortie           |                    |                           |              |
 
 #### Warrior/mage
 
@@ -153,6 +155,15 @@ that is equippable by more than one archetype.
 | Mace        |    15 |     5 | 20 STR    | 34 WATK |     7 |            |            | Perion          |              |
 | Iron Mace   |    20 |     5 | 25 STR    | 39 WATK |     7 |            |            | Ellinia, Perion |              |
 | Fusion Mace |    25 |     3 | 25 STR    | 44 WATK |     7 |            |            | Perion          |              |
+
+#### Warrior
+
+| name          | level | speed | stat reqs | stats   | slots | dropped by                   | awarded by | sold at | craftable at |
+| :------------ | ----: | ----: | :-------- | :------ | ----: | :--------------------------- | :--------- | :------ | :----------- |
+| War Hammer    |    30 |     6 | 95 STR    | 49 WATK |     7 |                              |            | Perion  |              |
+| Jacker        |    40 |     6 | 125 STR   | 59 WATK |     7 | Copper Drake                 |            |         |              |
+| Knuckle Mace  |    50 |     6 | 155 STR   | 69 WATK |     7 | Iron Hog, Faust              |            |         |              |
+| The Judgement |    70 |     6 | 200 STR   | 83 WATK |     7 | Tauromacis, Dyle, Jr. Balrog |            |         |              |
 
 ### 2H maces
 
