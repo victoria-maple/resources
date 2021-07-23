@@ -46,6 +46,7 @@ that is equippable by more than one archetype.
     - [Guns](#guns)
         - [Pirate](#pirate-1)
 - [Hats](#hats)
+    - [Warrior](#warrior-8)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
 - [Tops](#tops)
@@ -458,6 +459,51 @@ that is equippable by more than one archetype.
 | Brown Bamboo Hat              |    25 |           | 3 LUK, 15 WDEF |     7 |              | KPQ, Maya and the Weird Medicine    |              |              |
 | Blue Bamboo Hat               |    25 | 30 STR    | 3 STR, 15 WDEF |     7 |              | KPQ                                 |              |              |
 | Green Bamboo Hat              |    25 | 30 DEX    | 3 DEX, 15 WDEF |     7 |              | KPQ                                 |              |              |
+
+### Warrior
+
+| name                     | level | stat reqs | stats                   | slots | dropped by                      | awarded by                                   | sold at | craftable at |
+| :----------------------- | ----: | :-------- | :---------------------- | ----: | :------------------------------ | :------------------------------------------- | :------ | :----------- |
+| Bronze Koif              |    10 |           | 10 WDEF                 |     7 | Orange Mushroom                 |                                              | Perion  |              |
+| Metal Koif               |    10 |           | 12 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Mithril Koif             |    10 |           | 15 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Bronze Helmet            |    12 | 40 STR    | 12 WDEF                 |     7 |                                 |                                              | Perion  |              |
+| Steel Helmet             |    12 | 40 STR    | 15 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Mithril Helmet           |    12 | 40 STR    | 18 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Bronze Full Helm         |    15 | 45 STR    | 15 WDEF                 |     7 |                                 |                                              | Perion  |              |
+| Steel Full Helm          |    15 | 45 STR    | 18 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Mithril Full Helm        |    15 | 45 STR    | 20 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Bronze Football Helmet   |    20 | 50 STR    | 20 WDEF                 |     7 | Dark Axe Stump, Wild Boar       |                                              |         |              |
+| Steel Football Helmet    |    20 | 50 STR    | 22 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Mithril Football Helmet  |    20 | 50 STR    | 25 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Bronze Viking Helm       |    20 | 50 STR    | 20 WDEF                 |     7 |                                 |                                              | Perion  |              |
+| Iron Viking Helm         |    20 | 50 STR    | 22 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Mithril Viking Helm      |    20 | 50 STR    | 25 WDEF                 |     7 | Wooden Mask                     |                                              |         | Perion       |
+| Steel Sharp Helm         |    22 | 45 STR    | 22 WDEF                 |     7 | Jr. Necki                       |                                              | Perion  |              |
+| Mithril Sharp Helm       |    22 | 45 STR    | 25 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Gold Sharp Helm          |    22 | 45 STR    | 1 STR, 28 WDEF          |     7 |                                 |                                              |         | Perion       |
+| Iron Burgernet Helm      |    25 | 60 STR    | 25 WDEF                 |     7 | Horny Mushroom, Zombie Mushroom |                                              | Perion  |              |
+| Gold Burgernet Helm      |    25 | 60 STR    | 27 WDEF                 |     7 | Mano                            |                                              |         | Perion       |
+| Orihalcon Burgernet Helm |    25 | 60 STR    | 30 WDEF                 |     7 |                                 |                                              |         | Perion       |
+| Great Brown Helmet       |    35 | 90 STR    | 1 STR, 35 WDEF          |     7 | Dark Stone Golem                |                                              |         |              |
+| Great Red Helmet         |    35 | 90 STR    | 10 HP, 38 WDEF          |     7 | Evil Eye, Skeledog              |                                              |         | Perion       |
+| Great Blue Helmet        |    35 | 90 STR    | 1 DEX, 38 WDEF          |     7 |                                 |                                              |         | Perion       |
+| Steel Nordic Helm        |    40 | 90 STR    | 40 WDEF                 |     7 |                                 | Rowen the Fairy and the Cursed Dolls         |         |              |
+| Mithril Nordic Helm      |    40 | 90 STR    | 1 STR, 42 WDEF          |     7 | Wraith                          |                                              |         | Perion       |
+| Gold Nordic Helm         |    40 | 90 STR    | 2 STR, 44 WDEF          |     7 | Cold Eye                        |                                              |         | Perion       |
+| Red Duke                 |    40 | 90 STR    | 10 HP, 40 WDEF          |     7 | Curse Eye, Clang                |                                              |         |              |
+| Yellow Duke              |    40 | 90 STR    | 1 STR, 40 WDEF          |     7 | Malady                          |                                              |         |              |
+| Blue Bone Helm           |    42 | 150 STR   | 1 DEX, 42 WDEF          |     7 | Copper Drake                    |                                              |         |              |
+| Bronze Crusader Helm     |    50 | 160 STR   | 50 WDEF, 20 MDEF        |     7 | Stone Golem                     |                                              |         |              |
+| Mithril Crusader Helm    |    50 | 160 STR   | 1 STR, 52 WDEF, 22 MDEF |     7 | Clang                           |                                              |         | Perion       |
+| Silver Crusader Helm     |    50 | 160 STR   | 2 STR, 54 WDEF, 24 MDEF |     7 | Sakura Cellion                  |                                              |         | Perion       |
+| Old Bronze Nordic Helm   |    55 | 160 STR   | 55 WDEF                 |     7 |                                 | Luke the Security Man&rsquo;s Wish to Travel |         |              |
+| Old Steel Nordic Helm    |    55 | 160 STR   | 1 DEX, 30 MP, 55 WDEF   |     7 | Dark Stone Golem                |                                              |         | Perion       |
+| Old Mithril Nordic Helm  |    55 | 160 STR   | 1 STR, 30 MP, 55 WDEF   |     7 |                                 |                                              |         | Perion       |
+| Red Oriental Helmet      |    60 | 150 STR   | 1 STR, 60 WDEF          |     7 | Mixed Golem, King Clang         |                                              |         |              |
+| Blue Oriental Helmet     |    60 | 150 STR   | 1 DEX, 60 WDEF          |     7 | Officer Skeleton                |                                              |         |              |
+| Silver Planet            |    70 | 180 STR   | 1 STR, 70 WDEF          |     7 | Skeleton Soldier                |                                              |         |              |
+| Mithril Planet           |    70 | 180 STR   | 1 DEX, 70 WDEF          |     7 | Tauromacis, Taurospear          |                                              |         |              |
 
 ## Earrings
 

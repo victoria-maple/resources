@@ -18,7 +18,7 @@ Event-only items are not represented here.
     - [For crossbows](#for-crossbows)
     - [For claws](#for-claws)
     - [For knucklers](#for-knucklers)
-    - [For gun](#for-gun)
+    - [For guns](#for-guns)
 - [For hats](#for-hats)
 - [For earrings](#for-earrings)
 - [For overalls](#for-overalls)
@@ -153,7 +153,7 @@ Event-only items are not represented here.
 | +5 WATK, +3 STR, +1 WDEF |     10% |             |         | Ligator, Ghost Stump, Lorang, Dark Stone Golem, Faust | The Alligators at the Swamp, Notice from the Excavation Team, Building a New House For Blackbull |
 | +3 WACC, +2 DEX, +1 WATK |     60% |             |         | Dyle                                                  |                                                                                                  |
 
-### For gun
+### For guns
 
 | effect on pass           | P(pass) |       price | sold at | dropped by            | awarded by                                                                                       |
 | :----------------------- | ------: | ----------: | :------ | :-------------------- | :----------------------------------------------------------------------------------------------- |
