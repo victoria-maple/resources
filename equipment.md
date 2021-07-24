@@ -47,6 +47,7 @@ that is equippable by more than one archetype.
         - [Pirate](#pirate-1)
 - [Hats](#hats)
     - [Warrior](#warrior-8)
+    - [Mage](#mage-2)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
 - [Tops](#tops)
@@ -505,6 +506,36 @@ that is equippable by more than one archetype.
 | Silver Planet            |    70 | 180 STR   | 1 STR, 70 WDEF          |     7 | Skeleton Soldier                |                                              |         |              |
 | Mithril Planet           |    70 | 180 STR   | 1 DEX, 70 WDEF          |     7 | Tauromacis, Taurospear          |                                              |         |              |
 
+### Mage
+
+| name                               | level | stat reqs       | stats                                 | slots | dropped by                              | awarded by                           | sold at | craftable at |
+| :--------------------------------- | ----: | :-------------- | :------------------------------------ | ----: | :-------------------------------------- | :----------------------------------- | :------ | :----------- |
+| Brown Apprentice Hat               |    10 | 32 INT, 13 LUK  | 5 WDEF, 15 MDEF                       |     7 |                                         |                                      | Ellinia |              |
+| Red Apprentice Hat                 |    10 | 32 INT, 13 LUK  | 5 WDEF, 15 MDEF                       |     7 | Bubbling                                |                                      |         |              |
+| Blue/Green/Dark/Brown Moon Conehat |    15 | 48 INT, 18 LUK  | 8 WDEF, 20 MDEF                       |     7 |                                         |                                      | Ellinia |              |
+| Pink Moon Conehat                  |    15 | 48 INT, 18 LUK  | 8 WDEF, 20 MDEF                       |     7 | Cold Eye                                |                                      | Ellinia |              |
+| Green Wizardry Hat                 |    20 | 62 INT, 23 LUK  | 5 WDEF, 25 MDEF                       |     7 |                                         |                                      | Ellinia |              |
+| Red Wizardry Hat                   |    20 | 62 INT, 23 LUK  | 5 WDEF, 25 MDEF                       |     7 | Mano                                    |                                      |         |              |
+| Bronze Pride                       |    30 | 92 INT, 33 LUK  | 5 WDEF, 35 MDEF                       |     7 | Wild Boar                               |                                      |         |              |
+| Steel Pride                        |    30 | 92 INT, 33 LUK  | 1 INT, 7 WDEF, 38 MDEF                |     7 |                                         |                                      |         | Ellinia      |
+| Golden Pride                       |    30 | 92 INT, 33 LUK  | 2 INT, 9 WDEF, 40 MDEF                |     7 |                                         |                                      |         | Ellinia      |
+| Blue Jester                        |    30 | 92 INT, 33 LUK  | 20 MP, 12 WDEF, 40 MDEF               |     7 | Wild Boar                               |                                      |         |              |
+| Pink Jester                        |    30 | 92 INT, 33 LUK  | 20 HP, 12 WDEF, 40 MDEF               |     7 | Zombie Mushroom                         |                                      |         |              |
+| Brown Jester                       |    30 | 92 INT, 33 LUK  | 5 SPEED, 12 WDEF, 40 MDEF             |     7 | Horny Mushroom, Lupin                   |                                      |         |              |
+| Red Matty                          |    35 | 108 INT, 38 LUK | 20 HP, 15 WDEF, 45 MDEF               |     7 | Fire Boar                               |                                      |         |              |
+| Brown Matty                        |    35 | 108 INT, 38 LUK | 1 INT, 1 LUK, 15 WDEF, 45 MDEF        |     7 | Skeledog                                |                                      |         |              |
+| Green Matty                        |    35 | 108 INT, 38 LUK | 2 INT, 15 WDEF, 45 MDEF               |     7 | Green Mushroom, Curse Eye               |                                      |         |              |
+| Blue Guiltian                      |    40 | 128 INT, 43 LUK | 20 MP, 18 WDEF, 50 MDEF               |     7 | Tortie                                  |                                      |         |              |
+| Dark Guiltian                      |    40 | 128 INT, 43 LUK | 2 LUK, 18 WDEF, 50 MDEF               |     7 |                                         | Rowen the Fairy and the Cursed Dolls |         |              |
+| Brown Guiltian                     |    40 | 128 INT, 43 LUK | 1 INT, 1 LUK, 18 WDEF, 50 MDEF        |     7 | Wild Boar, Iron Hog, Zombie Lupin       |                                      |         |              |
+| Orange Golden Circlet              |    50 | 158 INT, 53 LUK | 3 LUK, 24 WDEF, 55 MDEF               |     7 | Clang                                   |                                      |         |              |
+| Flame Golden Circlet               |    50 | 158 INT, 53 LUK | 1 INT, 2 LUK, 24 WDEF, 55 MDEF        |     7 | Wraith                                  |                                      |         |              |
+| Dark Golden Circlet                |    50 | 158 INT, 53 LUK | 3 INT, 24 WDEF, 55 MDEF               |     7 | Croco                                   |                                      |         |              |
+| Red Seraphis                       |    60 | 188 INT, 63 LUK | 2 INT, 2 LUK, 30 WDEF, 60 MDEF        |     7 | Dark Drake                              |                                      |         |              |
+| Dark Seraphis                      |    60 | 188 INT, 63 LUK | 4 INT, 30 WDEF, 60 MDEF               |     7 | Red Drake, Officer Skeleton, King Clang |                                      |         |              |
+| Red Infinium Circlet               |    70 | 218 INT, 73 LUK | 2 INT, 2 LUK, 25 MP, 36 WDEF, 65 MDEF |     7 | Skeleton Soldier                        |                                      |         |              |
+| Blue Galaxy                        |    80 | 248 INT, 83 LUK | 3 INT, 2 LUK, 42 WDEF, 70 MDEF        |     7 | Tauromacis                              |                                      |         |              |
+
 ## Earrings
 
 | name           | level | stat reqs | stats         | slots | dropped by | awarded by                           | sold at | craftable at |
@@ -538,15 +569,16 @@ that is equippable by more than one archetype.
 
 ## Capes
 
-| name                     | level | stat reqs | stats            | slots | dropped by       | awarded by                | sold at | craftable at |
-| :----------------------- | ----: | :-------- | :--------------- | ----: | :--------------- | :------------------------ | :------ | :----------- |
-| Old Raggedy Cape         |    25 |           | 10 AVOID         |     5 |                  | Mystery of Niora Hospital |         |              |
-| Amos&rsquo;s Royal Cape  |    50 |           | 20 WDEF, 18 MDEF |     5 |                  | APQ                       |         |              |
-| Amos&rsquo;s Spirit Cape |    50 |           | 18 WDEF, 20 MDEF |     5 |                  | APQ                       |         |              |
-| Red Magic Cape           |    60 |           | 16 WDEF, 21 MDEF |     5 | Wild Kargo       |                           |         |              |
-| Black Magic Cape         |    60 |           | 18 WDEF, 23 MDEF |     5 | Dark Stone Golem |                           |         |              |
-| Blue Seraph Cape         |    75 |           | 25 WDEF, 30 MDEF |     5 | Tauromacis       |                           |         |              |
-| Red Seraph Cape          |    75 |           | 25 WDEF, 30 MDEF |     5 | Taurospear       |                           |         |              |
+| name                                   | level | stat reqs | stats            | slots | dropped by       | awarded by                | sold at | craftable at |
+| :------------------------------------- | ----: | :-------- | :--------------- | ----: | :--------------- | :------------------------ | :------ | :----------- |
+| Old Raggedy Cape                       |    25 |           | 10 AVOID         |     5 |                  | Mystery of Niora Hospital |         |              |
+| Amos&rsquo;s Royal Cape                |    50 |           | 20 WDEF, 18 MDEF |     5 |                  | APQ                       |         |              |
+| Amos&rsquo;s Spirit Cape               |    50 |           | 18 WDEF, 20 MDEF |     5 |                  | APQ                       |         |              |
+| Red Magic Cape                         |    60 |           | 16 WDEF, 21 MDEF |     5 | Wild Kargo       |                           |         |              |
+| Black Magic Cape                       |    60 |           | 18 WDEF, 23 MDEF |     5 | Dark Stone Golem |                           |         |              |
+| Cecelia Cloak/The Legendary Elias Cape |    65 |           | 35 WDEF, 35 MDEF |     7 |                  | APQ                       |         |              |
+| Blue Seraph Cape                       |    75 |           | 25 WDEF, 30 MDEF |     5 | Tauromacis       |                           |         |              |
+| Red Seraph Cape                        |    75 |           | 25 WDEF, 30 MDEF |     5 | Taurospear       |                           |         |              |
 
 ## Gloves
 
