@@ -48,6 +48,7 @@ that is equippable by more than one archetype.
 - [Hats](#hats)
     - [Warrior](#warrior-8)
     - [Mage](#mage-2)
+    - [Archer](#archer-2)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
 - [Tops](#tops)
@@ -535,6 +536,38 @@ that is equippable by more than one archetype.
 | Dark Seraphis                      |    60 | 188 INT, 63 LUK | 4 INT, 30 WDEF, 60 MDEF               |     7 | Red Drake, Officer Skeleton, King Clang |                                      |         |              |
 | Red Infinium Circlet               |    70 | 218 INT, 73 LUK | 2 INT, 2 LUK, 25 MP, 36 WDEF, 65 MDEF |     7 | Skeleton Soldier                        |                                      |         |              |
 | Blue Galaxy                        |    80 | 248 INT, 83 LUK | 3 INT, 2 LUK, 42 WDEF, 70 MDEF        |     7 | Tauromacis                              |                                      |         |              |
+
+### Archer
+
+| name                              | level | stat reqs       | stats                        | slots | dropped by                    | awarded by                           | sold at | craftable at |
+| :-------------------------------- | ----: | :-------------- | :--------------------------- | ----: | :---------------------------- | :----------------------------------- | :------ | :----------- |
+| Brown/Green Winter Hat            |    10 |                 | 1 AVOID, 9 WDEF              |     7 |                               |                                      | Henesys |              |
+| Blue Feather Hat                  |    15 | 45 DEX          | 12 WDEF                      |     7 | Ghost Stump                   |                                      | Henesys |              |
+| Red/Green/Black/Brown Feather Hat |    15 | 45 DEX          | 12 WDEF                      |     7 |                               |                                      | Henesys |              |
+| Red Robin Hat                     |    20 | 60 DEX          | 5 HP, 15 WDEF                |     7 |                               |                                      | Henesys |              |
+| Blue Robin Hat                    |    20 | 60 DEX          | 5 HP, 15 WDEF                |     7 | Axe Stump                     |                                      | Henesys |              |
+| Green Robin Hat                   |    20 | 60 DEX          | 5 HP, 15 WDEF                |     7 | Stirge                        |                                      | Henesys |              |
+| Brown Robin Hat                   |    20 | 60 DEX          | 5 MP, 15 WDEF                |     7 | Wooden Mask                   |                                      | Henesys |              |
+| Red Robin Hat                     |    20 | 60 DEX          | 5 MP, 15 WDEF                |     7 |                               |                                      | Henesys |              |
+| Blue/Green/Red Hunter             |    25 | 25 STR, 90 DEX  | 5 HP, 18 WDEF                |     7 |                               |                                      | Henesys |              |
+| Brown Hunter                      |    25 | 25 STR, 90 DEX  | 5 MP, 18 WDEF                |     7 |                               |                                      | Henesys |              |
+| Black Hunter                      |    25 | 25 STR, 90 DEX  | 5 MP, 18 WDEF                |     7 | Malady                        |                                      | Henesys |              |
+| Blue Hawkeye                      |    30 | 30 STR, 95 DEX  | 10 MP, 21 WDEF               |     7 |                               |                                      | Henesys |              |
+| Red Hawkeye                       |    30 | 30 STR, 95 DEX  | 10 HP, 21 WDEF               |     7 |                               |                                      | Henesys |              |
+| Brown Hawkeye                     |    30 | 30 STR, 95 DEX  | 1 STR, 21 WDEF               |     7 |                               |                                      | Henesys |              |
+| Green/Dark Hawkeye                |    30 | 30 STR, 95 DEX  | 1 DEX, 21 WDEF               |     7 |                               |                                      | Henesys |              |
+| Blue Pole-Feather Hat             |    35 | 35 STR, 120 DEX | 10 MP, 24 WDEF               |     7 | Horny Mushroom, Copper Drake  |                                      |         |              |
+| Dark Pole-Feather Hat             |    35 | 35 STR, 120 DEX | 1 DEX, 24 WDEF               |     7 | Lupin                         |                                      |         |              |
+| Red Distinction                   |    40 | 40 STR, 130 DEX | 20 HP, 27 WDEF               |     7 | Wild Boar, Cold Eye           |                                      |         |              |
+| Brown Distinction                 |    40 | 40 STR, 130 DEX | 2 STR, 27 WDEF               |     7 | Cold Eye                      |                                      |         |              |
+| Green Distinction                 |    40 | 40 STR, 130 DEX | 2 DEX, 27 WDEF               |     7 | Malady                        |                                      |         |              |
+| Dark Distinction                  |    40 | 40 STR, 130 DEX | 2 DEX, 27 WDEF               |     7 | Stumpy                        | Rowen the Fairy and the Cursed Dolls |         |              |
+| Blue Maro                         |    50 | 160 DEX         | 2 STR, 1 DEX, 33 WDEF        |     7 | Wraith                        |                                      |         |              |
+| Red Maro                          |    50 | 160 DEX         | 1 STR, 2 DEX, 33 WDEF        |     7 | Wraith                        |                                      |         |              |
+| Blue Maro                         |    50 | 160 DEX         | 3 DEX, 33 WDEF               |     7 | Dark Stone Golem              |                                      |         |              |
+| White Polyfeather Hat             |    60 | 190 DEX         | 1 STR, 3 DEX, 39 WDEF        |     7 | Mixed Golem, Officer Skeleton |                                      |         |              |
+| Black Polyfeather Hat             |    60 | 190 DEX         | 4 DEX, 39 WDEF               |     7 | King Clang                    |                                      |         |              |
+| Beige Patriot                     |    70 | 220 DEX         | 2 STR, 2 DEX, 15 MP, 45 WDEF |     7 | Skeleton Soldier, Tauromacis  |                                      |         |              |
 
 ## Earrings
 
