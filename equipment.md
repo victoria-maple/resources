@@ -49,6 +49,7 @@ that is equippable by more than one archetype.
     - [Warrior](#warrior-8)
     - [Mage](#mage-2)
     - [Archer](#archer-2)
+    - [Rogue](#rogue-2)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
 - [Tops](#tops)
@@ -568,6 +569,43 @@ that is equippable by more than one archetype.
 | White Polyfeather Hat             |    60 | 190 DEX         | 1 STR, 3 DEX, 39 WDEF        |     7 | Mixed Golem, Officer Skeleton |                                      |         |              |
 | Black Polyfeather Hat             |    60 | 190 DEX         | 4 DEX, 39 WDEF               |     7 | King Clang                    |                                      |         |              |
 | Beige Patriot                     |    70 | 220 DEX         | 2 STR, 2 DEX, 15 MP, 45 WDEF |     7 | Skeleton Soldier, Tauromacis  |                                      |         |              |
+
+### Rogue
+
+| name                                     | level | stat reqs        | stats                        | slots | dropped by                               | awarded by                           | sold at      | craftable at |
+| :--------------------------------------- | ----: | :--------------- | :--------------------------- | ----: | :--------------------------------------- | :----------------------------------- | :----------- | :----------- |
+| Red/Blue/Brown/Black/Green Ghetto Beanie |    10 |                  | 9 WDEF                       |     7 |                                          |                                      | Kerning City |              |
+| Red Thief Hood                           |    15 | 30 DEX, 35 LUK   | 12 WDEF                      |     7 | Ghost Stump                              |                                      | Kerning City |              |
+| Blue/Green/Black/Yellow Thief Hood       |    15 | 30 DEX, 35 LUK   | 12 WDEF                      |     7 |                                          |                                      | Kerning City |              |
+| Green Loosecap                           |    20 | 40 DEX, 50 LUK   | 5 MP, 15 WDEF                |     7 | Wooden Mask                              |                                      | Kerning City |              |
+| Black Loosecap                           |    20 | 40 DEX, 50 LUK   | 5 MP, 15 WDEF                |     7 |                                          |                                      | Kerning City |              |
+| Red Loosecap                             |    20 | 40 DEX, 50 LUK   | 5 HP, 15 WDEF                |     7 | Blue Mushroom                            |                                      | Kerning City |              |
+| Blue Loosecap                            |    20 | 40 DEX, 50 LUK   | 5 HP, 15 WDEF                |     7 | Iron Hog                                 |                                      | Kerning City |              |
+| Brown Loosecap                           |    20 | 40 DEX, 50 LUK   | 5 HP, 15 WDEF                |     7 |                                          |                                      | Kerning City |              |
+| Brown/Dark Tiberian                      |    25 | 50 DEX, 65 LUK   | 5 MP, 18 WDEF                |     7 |                                          |                                      | Kerning City |              |
+| Red/Blue/Green Tiberian                  |    25 | 50 DEX, 65 LUK   | 5 HP, 18 WDEF                |     7 |                                          |                                      | Kerning City |              |
+| Red Guise                                |    30 | 60 DEX, 80 LUK   | 1 DEX, 21 WDEF               |     7 |                                          |                                      | Kerning City |              |
+| Blue Guise                               |    30 | 60 DEX, 80 LUK   | 1 DEX, 21 WDEF               |     7 | Lupin                                    |                                      | Kerning City |              |
+| Green/Brown/Dark Guise                   |    30 | 60 DEX, 80 LUK   | 1 LUK, 21 WDEF               |     7 |                                          |                                      | Kerning City |              |
+| Brown Burgler                            |    35 | 70 DEX, 95 LUK   | 1 STR, 24 WDEF               |     7 | Iron Hog                                 |                                      |              |              |
+| Green Burgler                            |    35 | 70 DEX, 95 LUK   | 1 DEX, 24 WDEF               |     7 | Blue Mushroom, Fire Boar, Skeledog       |                                      |              |              |
+| Dark Burgler                             |    35 | 70 DEX, 95 LUK   | 1 LUK, 24 WDEF               |     7 | Curse Eye                                |                                      |              |              |
+| Brown Pilfer                             |    40 | 80 DEX, 110 LUK  | 2 STR, 27 WDEF               |     7 | Iron Boar                                |                                      |              |              |
+| Blue Pilfer                              |    40 | 80 DEX, 110 LUK  | 2 DEX, 27 WDEF               |     7 | Horny Mushroom                           |                                      |              |              |
+| Green Pilfer                             |    40 | 80 DEX, 110 LUK  | 2 DEX, 27 WDEF               |     7 | Tortie                                   |                                      |              |              |
+| Dark Pilfer                              |    40 | 80 DEX, 110 LUK  | 2 LUK, 27 WDEF               |     7 | Zombie Lupin, Stumpy                     | Rowen the Fairy and the Cursed Dolls |              |              |
+| Green Sonata                             |    50 | 90 DEX, 140 LUK  | 3 DEX, 33 WDEF               |     7 | Dark Stone Golem                         |                                      |              |              |
+| Blue Sonata                              |    50 | 90 DEX, 140 LUK  | 2 DEX, 1 LUK, 33 WDEF        |     7 | Ice Drake, Dark Drake                    |                                      |              |              |
+| Red Sonata                               |    50 | 90 DEX, 140 LUK  | 1 DEX, 2 LUK 33 WDEF         |     7 | Wraith                                   |                                      |              |              |
+| Brown Sonata                             |    50 | 90 DEX, 140 LUK  | 3 LUK, 33 WDEF               |     7 | Croco                                    |                                      |              |              |
+| Bronze Identity                          |    60 | 100 DEX, 170 LUK | 1 STR, 3 LUK, 39 WDEF        |     7 | Stone Golem, Dark Drake                  |                                      |              |              |
+| Silver Identity                          |    60 | 100 DEX, 170 LUK | 1 DEX, 3 LUK, 39 WDEF        |     7 | Mixed Golem, Red Drake, Officer Skeleton |                                      |              |              |
+| Dark Identity                            |    60 | 100 DEX, 170 LUK | 4 LUK, 39 WDEF               |     7 | Dark Stone Golem, King Clang             |                                      |              |              |
+| Brown Nightfox                           |    70 | 110 DEX, 200 LUK | 2 STR, 2 LUK, 15 MP, 45 WDEF |     7 | Skeleton Soldier                         |                                      |              |              |
+| Purple Nightfox                          |    70 | 110 DEX, 200 LUK | 2 DEX, 2 LUK, 15 MP, 45 WDEF |     7 | Tauromacis                               |                                      |              |              |
+| White Nightfox                           |    70 | 110 DEX, 200 LUK | 1 DEX, 3 LUK, 15 MP, 45 WDEF |     7 | Taurospear                               |                                      |              |              |
+| Blood Nightfox                           |    70 | 110 DEX, 200 LUK | 1 DEX, 3 LUK, 15 MP, 45 WDEF |     7 | Officer Skeleton                         |                                      |              |              |
+| Brown Pireta Hat                         |    80 | 120 DEX, 220 LUK | 3 STR, 2 LUK, 51 WDEF        |     7 | Taurospear                               |                                      |              |              |
 
 ## Earrings
 
