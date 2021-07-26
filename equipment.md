@@ -50,6 +50,7 @@ that is equippable by more than one archetype.
     - [Mage](#mage-2)
     - [Archer](#archer-2)
     - [Rogue](#rogue-2)
+    - [Pirate](#pirate-2)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
 - [Tops](#tops)
@@ -606,6 +607,20 @@ that is equippable by more than one archetype.
 | White Nightfox                           |    70 | 110 DEX, 200 LUK | 1 DEX, 3 LUK, 15 MP, 45 WDEF |     7 | Taurospear                               |                                      |              |              |
 | Blood Nightfox                           |    70 | 110 DEX, 200 LUK | 1 DEX, 3 LUK, 15 MP, 45 WDEF |     7 | Officer Skeleton                         |                                      |              |              |
 | Brown Pireta Hat                         |    80 | 120 DEX, 220 LUK | 3 STR, 2 LUK, 51 WDEF        |     7 | Taurospear                               |                                      |              |              |
+
+### Pirate
+
+| name                         | level | stat reqs      | stats                          | slots | dropped by                                 | awarded by                           | sold at          | craftable at |
+| :--------------------------- | ----: | :------------- | :----------------------------- | ----: | :----------------------------------------- | :----------------------------------- | :--------------- | :----------- |
+| Brown Rocky Bandana          |    10 |                | 9 WDEF                         |     7 | Pig                                        |                                      | Nautilus Harbour |              |
+| Brown Lagger Cap             |    15 | 15 STR, 15 DEX | 12 WDEF                        |     7 | Blue Mushroom                              |                                      | Nautilus Harbour |              |
+| Brown Double Marine          |    20 | 20 STR, 20 DEX | 5 HP, 15 WDEF                  |     7 | Blue Mushroom, Dark Axe Stump, Wooden Mask |                                      | Nautilus Harbour |              |
+| Brown Pitz Bandana           |    25 | 25 STR, 25 DEX | 5 HP, 18 WDEF                  |     7 | Blue Mushroom                              |                                      | Nautilus Harbour |              |
+| White Oceania Cap            |    30 | 30 STR, 30 DEX | 1 STR, 21 WDEF                 |     7 | Ligator                                    |                                      |                  |              |
+| Red Misty                    |    40 | 40 STR, 40 DEX | 20 HP, 27 WDEF                 |     7 | Zombie Lupin                               | Rowen the Fairy and the Cursed Dolls |                  |              |
+| Brown Leather Ocean Hat      |    50 | 50 STR, 50 DEX | 2 STR, 1 DEX, 33 WDEF          |     7 | Mummydog, Drake                            |                                      |                  |              |
+| Purple Cast Linen            |    60 | 60 STR, 60 DEX | 3 STR, 1 DEX, 39 WDEF          |     7 | Ice Drake, King Clang                      |                                      |                  |              |
+| Black Pirate&rsquo;s Bandana |    70 | 70 STR, 70 DEX | 3 STR, 1 DEX, 1 AVOID, 45 WDEF |     7 | Tauromacis                                 |                                      |                  |              |
 
 ## Earrings
 
