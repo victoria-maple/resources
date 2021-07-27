@@ -3,16 +3,16 @@
 Event-only items are not represented here.
 
 - [HP](#hp)
-   - [Footnotes](#footnotes)
+    - [Footnotes](#footnotes)
 - [MP](#mp)
-   - [Footnotes](#footnotes-1)
+    - [Footnotes](#footnotes-1)
 - [Buffs](#buffs)
-   - [WATK](#watk)
-   - [MATK](#matk)
-   - [WACC](#wacc)
-   - [AVOID](#avoid)
-   - [SPEED](#speed)
-   - [WDEF](#wdef)
+    - [WATK](#watk)
+    - [MATK](#matk)
+    - [WACC](#wacc)
+    - [AVOID](#avoid)
+    - [SPEED](#speed)
+    - [WDEF](#wdef)
 - [Curatives](#curatives)
 
 ## HP

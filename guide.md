@@ -35,6 +35,21 @@
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+For maps that can be farmed by more or less any fighting style, the &ldquo;for
+who&rdquo; column is empty.
+
+Popularity legend:
+
+- &#x1f31f; Particularly well-known/popular training spot.
+- &#x2705; Excellent training spot.
+- &#x2696; Marginal training spot that can be excellent, depending on the
+  situation.
+
+| level range | for who    | map                     | primary species | other species             | popularity | comments                                                                                                 |
+| ----------: | :--------- | :---------------------- | :-------------- | :------------------------ | :--------: | :------------------------------------------------------------------------------------------------------- |
+| 25&ndash;50 | non-ranged | The Cave of Evil Eye II | Evil Eye        | Jr. Boogie                | &#x1f31f;  | Cramped map with extremely high spawn rates. Bring Eyedrops (and maybe also Tonics) for the Jr. Boogies. |
+| 42&ndash;55 |            | East Rocky Mountain VII | Copper Drake    | Fire Boar, Dark Axe Stump |  &#x2705;  | Large multi-layered map; best with a party.                                                              |
+
 ## Items
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
