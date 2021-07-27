@@ -449,20 +449,32 @@ that is equippable by more than one archetype.
 
 ## Hats
 
-| name                          | level | stat reqs | stats          | slots | dropped by   | awarded by                          | sold at      | craftable at |
-| :---------------------------- | ----: | :-------- | :------------- | ----: | :----------- | :---------------------------------- | :----------- | :----------- |
-| Red Headband                  |     5 |           | 1 WACC, 5 WDEF |     7 |              | Please Bring This Letter To Lucas   | Lith Harbour |              |
-| Blue Sporty Cap               |     5 |           | 30 MP, 3 WDEF  |     7 |              | New Life                            |              |              |
-| Red Sporty Cap                |     5 |           | 30 HP, 3 WDEF  |     7 |              | New Life                            |              |              |
-| Red Bandana                   |    10 |           | 1 WACC, 8 WDEF |     7 | Zombie Lupin |                                     |              |              |
-| Blue Bandana                  |    10 |           | 1 STR, 8 WDEF  |     7 | Skeledog     |                                     |              |              |
-| Yellow Metal Gear             |    15 |           | 1 DEX, 12 WDEF |     7 |              |                                     |              | Perion       |
-| Blue Metal Gear               |    15 |           | 1 STR, 12 WDEF |     7 |              |                                     |              | Perion       |
-| A Rice Cake on Top of My Head |    15 |           | 22 WDEF        |     7 |              | HPQ                                 |              |              |
-| Ribboned Pig Headband         |    25 |           | 50 HP, 12 WDEF |     7 |              | Mrs. Ming Ming&rsquo;s Second Worry |              |              |
-| Brown Bamboo Hat              |    25 |           | 3 LUK, 15 WDEF |     7 |              | KPQ, Maya and the Weird Medicine    |              |              |
-| Blue Bamboo Hat               |    25 | 30 STR    | 3 STR, 15 WDEF |     7 |              | KPQ                                 |              |              |
-| Green Bamboo Hat              |    25 | 30 DEX    | 3 DEX, 15 WDEF |     7 |              | KPQ                                 |              |              |
+| name                                | level | stat reqs | stats          | slots | dropped by                | awarded by                          | sold at                    | craftable at |
+| :---------------------------------- | ----: | :-------- | :------------- | ----: | :------------------------ | :---------------------------------- | :------------------------- | :----------- |
+| Brown Skullcap                      |     5 |           | 5 WDEF         |     7 | Pig                       | Please Bring This Letter To Lucas   | Lith Harbour, Henesys      |              |
+| Green/Red Skullcap                  |     5 |           | 5 WDEF         |     7 |                           | Please Bring This Letter To Lucas   |                            |              |
+| Green Headband                      |     5 |           | 5 WDEF         |     7 | Snail                     | Please Bring This Letter To Lucas   | Lith Harbour               |              |
+| Black/Yellow/Blue Headband          |     5 |           | 5 WDEF         |     7 |                           | Please Bring This Letter To Lucas   | Lith Harbour               |              |
+| Red Headband                        |     5 |           | 1 WACC, 5 WDEF |     7 |                           | Please Bring This Letter To Lucas   | Lith Harbour               |              |
+| Blue Sporty Cap                     |     5 |           | 30 MP, 3 WDEF  |     7 |                           | New Life                            |                            |              |
+| Red Sporty Cap                      |     5 |           | 30 HP, 3 WDEF  |     7 |                           | New Life                            |                            |              |
+| Black/Blue/Red Swimming Cap         |     8 |           | 7 WDEF         |     7 |                           |                                     | Lith Harbour               |              |
+| White Bandana                       |    10 |           | 8 WDEF         |     7 | Slime                     |                                     | Lith Harbour               |              |
+| Red Bandana                         |    10 |           | 1 WACC, 8 WDEF |     7 | Zombie Lupin              |                                     |                            |              |
+| Blue Bandana                        |    10 |           | 1 STR, 8 WDEF  |     7 | Skeledog                  |                                     |                            |              |
+| Old Wisconsin                       |    15 |           | 8 WDEF         |     7 |                           |                                     | Henesys                    |              |
+| Metal Gear                          |    15 |           | 10 WDEF        |     7 |                           |                                     | Lith Harbour, Kerning City |              |
+| Yellow Metal Gear                   |    15 |           | 1 DEX, 12 WDEF |     7 |                           |                                     |                            | Perion       |
+| Blue Metal Gear                     |    15 |           | 1 STR, 12 WDEF |     7 |                           |                                     |                            | Perion       |
+| A Rice Cake on Top of My Head       |    15 |           | 22 WDEF        |     7 |                           | HPQ                                 |                            |              |
+| Blue Baseball Cap                   |    20 |           | 5 WDEF         |     7 | Jr. Necki                 |                                     | Henesys                    |              |
+| Red/Black/Yellow/Brown Baseball Cap |    20 |           | 5 WDEF         |     7 |                           |                                     | Henesys                    |              |
+| Yellow Starry Bandana               |    25 |           | 18 WDEF        |     7 | Axe Stump, Dark Axe Stump |                                     | Kerning City               |              |
+| Red/Sky Blue Starry Bandana         |    25 |           | 18 WDEF        |     7 |                           |                                     | Kerning City               |              |
+| Ribboned Pig Headband               |    25 |           | 50 HP, 12 WDEF |     7 |                           | Mrs. Ming Ming&rsquo;s Second Worry |                            |              |
+| Brown Bamboo Hat                    |    25 |           | 3 LUK, 15 WDEF |     7 |                           | KPQ, Maya and the Weird Medicine    |                            |              |
+| Blue Bamboo Hat                     |    25 | 30 STR    | 3 STR, 15 WDEF |     7 |                           | KPQ                                 |                            |              |
+| Green Bamboo Hat                    |    25 | 30 DEX    | 3 DEX, 15 WDEF |     7 |                           | KPQ                                 |                            |              |
 
 ### Warrior
 
@@ -489,9 +501,9 @@ that is equippable by more than one archetype.
 | Iron Burgernet Helm      |    25 | 60 STR    | 25 WDEF                 |     7 | Horny Mushroom, Zombie Mushroom |                                              | Perion  |              |
 | Gold Burgernet Helm      |    25 | 60 STR    | 27 WDEF                 |     7 | Mano                            |                                              |         | Perion       |
 | Orihalcon Burgernet Helm |    25 | 60 STR    | 30 WDEF                 |     7 |                                 |                                              |         | Perion       |
-| Great Brown Helmet       |    35 | 90 STR    | 1 STR, 35 WDEF          |     7 | Dark Stone Golem                |                                              |         |              |
 | Great Red Helmet         |    35 | 90 STR    | 10 HP, 38 WDEF          |     7 | Evil Eye, Skeledog              |                                              |         | Perion       |
 | Great Blue Helmet        |    35 | 90 STR    | 1 DEX, 38 WDEF          |     7 |                                 |                                              |         | Perion       |
+| Great Brown Helmet       |    35 | 90 STR    | 1 STR, 35 WDEF          |     7 | Dark Stone Golem                |                                              |         |              |
 | Steel Nordic Helm        |    40 | 90 STR    | 40 WDEF                 |     7 |                                 | Rowen the Fairy and the Cursed Dolls         |         |              |
 | Mithril Nordic Helm      |    40 | 90 STR    | 1 STR, 42 WDEF          |     7 | Wraith                          |                                              |         | Perion       |
 | Gold Nordic Helm         |    40 | 90 STR    | 2 STR, 44 WDEF          |     7 | Cold Eye                        |                                              |         | Perion       |
@@ -504,10 +516,10 @@ that is equippable by more than one archetype.
 | Old Bronze Nordic Helm   |    55 | 160 STR   | 55 WDEF                 |     7 |                                 | Luke the Security Man&rsquo;s Wish to Travel |         |              |
 | Old Steel Nordic Helm    |    55 | 160 STR   | 1 DEX, 30 MP, 55 WDEF   |     7 | Dark Stone Golem                |                                              |         | Perion       |
 | Old Mithril Nordic Helm  |    55 | 160 STR   | 1 STR, 30 MP, 55 WDEF   |     7 |                                 |                                              |         | Perion       |
-| Red Oriental Helmet      |    60 | 150 STR   | 1 STR, 60 WDEF          |     7 | Mixed Golem, King Clang         |                                              |         |              |
 | Blue Oriental Helmet     |    60 | 150 STR   | 1 DEX, 60 WDEF          |     7 | Officer Skeleton                |                                              |         |              |
-| Silver Planet            |    70 | 180 STR   | 1 STR, 70 WDEF          |     7 | Skeleton Soldier                |                                              |         |              |
+| Red Oriental Helmet      |    60 | 150 STR   | 1 STR, 60 WDEF          |     7 | Mixed Golem, King Clang         |                                              |         |              |
 | Mithril Planet           |    70 | 180 STR   | 1 DEX, 70 WDEF          |     7 | Tauromacis, Taurospear          |                                              |         |              |
+| Silver Planet            |    70 | 180 STR   | 1 STR, 70 WDEF          |     7 | Skeleton Soldier                |                                              |         |              |
 
 ### Mage
 
