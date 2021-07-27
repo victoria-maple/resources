@@ -41,7 +41,7 @@ who&rdquo; column is empty.
 Popularity legend:
 
 - &#x1f31f; Particularly well-known/popular training spot.
-- &#x2705; Excellent training spot.
+- &#x2705; Excellent, decently popular, training spot.
 - &#x2696; Marginal training spot that can be excellent, depending on the
   situation.
 
