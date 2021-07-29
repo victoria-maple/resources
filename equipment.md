@@ -636,10 +636,30 @@ that is equippable by more than one archetype.
 
 ## Earrings
 
-| name           | level | stat reqs | stats         | slots | dropped by | awarded by                           | sold at | craftable at |
-| :------------- | ----: | :-------- | :------------ | ----: | :--------- | :----------------------------------- | :------ | :----------- |
-| Single Earring |    15 |           |               |     5 | Octopus    |                                      | Henesys |              |
-| Leaf Earrings  |    25 |           | 50 MP, 2 MDEF |     5 |            | Dr. Betty&rsquo;s Research on Plants |         |              |
+| name                     | level | stat reqs | stats            | slots | dropped by                       | awarded by                           | sold at | craftable at |
+| :----------------------- | ----: | :-------- | :--------------- | ----: | :------------------------------- | :----------------------------------- | :------ | :----------- |
+| Single Earring           |    15 |           |                  |     5 | Octopus                          |                                      | Henesys |              |
+| Amethyst Earrings        |    15 |           |                  |     5 | Red Snail, Axe Stump, Ribbon Pig |                                      | Henesys |              |
+| Yellow Square            |    20 |           |                  |     5 | Evil Eye                         | KPQ                                  |         |              |
+| Weighted Earrings\*      |    20 |           |                  |     5 | Zombie Mushroom, Wild Boar       |                                      |         |              |
+| Gold Earrings            |    25 |           | 5 MDEF           |     5 | Zombie Mushroom                  | KPQ, Alex the Runaway Kid            |         |              |
+| Red Cross Earrings       |    25 |           | 5 MDEF           |     5 |                                  | KPQ, Alex the Runaway Kid            |         |              |
+| Leaf Earrings            |    25 |           | 50 MP, 2 MDEF    |     5 |                                  | Dr. Betty&rsquo;s Research on Plants |         |              |
+| Lightning Earrings       |    30 |           | 10 MDEF          |     5 |                                  | KPQ, Alex the Runaway Kid            |         |              |
+| Emerald Earrings         |    30 |           | 10 MDEF          |     5 |                                  | KPQ, Alex the Runaway Kid            |         |              |
+| Star Earrings            |    30 |           | 10 MDEF          |     5 |                                  | KPQ                                  |         |              |
+| Cat&rsquo;s Eye          |    35 |           | 15 MDEF          |     5 | Evil Eye, Wraith                 | KPQ                                  |         |              |
+| Sapphire Earrings        |    35 |           | 15 MDEF          |     5 | Wild Boar                        | KPQ                                  |         |              |
+| Pansy Earrings           |    45 |           | 25 MDEF          |     5 | Iron Boar                        |                                      |         |              |
+| Skull Earrings           |    50 |           | 30 MDEF          |     5 |                                  | Manji&rsquo;s Old Gladius            |         |              |
+| Red-Hearted Earrings     |    50 |           | 30 MDEF          |     5 | Mushmom                          |                                      |         |              |
+| Crystal Flower Earrings  |    55 |           | 35 MDEF          |     5 | Malady                           |                                      |         |              |
+| Holy Cross Earrings      |    55 |           | 35 MDEF          |     5 | Dark Stone Golem                 |                                      |         |              |
+| Pink-Flowered Earrings   |    60 |           | 40 MDEF          |     5 | Zombie Mushmom                   |                                      |         |              |
+| Cecelia&rsquo;s Earrings |    60 |           | 10 WDEF, 55 MDEF |     5 |                                  | APQ                                  |         |              |
+
+\*A single pair of Weighted Earrings is required to complete the &ldquo;Dr.
+Betty&rsquo;s Research on Plants&rdquo; questline.
 
 ## Overalls
 
