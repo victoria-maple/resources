@@ -53,6 +53,7 @@ that is equippable by more than one archetype.
     - [Pirate](#pirate-2)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
+    - [Warrior](#warrior-9)
 - [Tops](#tops)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
@@ -667,6 +668,25 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | :---------------------------------------------- | ----: | :-------- | :---------------- | ----: | :--------- | :-------------------------------- | :------ | :----------- |
 | Bridesmaid&rsquo;s Dress/Groomsman&rsquo;s Suit |     0 |           |                   |     0 |            |                                   | Amoria  |              |
 | Red/Blue Sauna Robe                             |    30 |           | 10 AVOID, 30 WDEF |    10 |            | Mr. Wetbottom&rsquo;s Secret Book |         |              |
+
+### Warrior
+
+| name                           | level | stat reqs      | stats                          | slots | dropped by               | awarded by | sold at | craftable at |
+| :----------------------------- | ----: | :------------- | :----------------------------- | ----: | :----------------------- | :--------- | :------ | :----------- |
+| Steel Fitted Mail \[F\]        |    15 | 40 STR, 20 DEX | 1 WACC, 5 HP, 28 WDEF          |    10 | Blue Mushroom            |            | Perion  |              |
+| Red Kendo Robe \[M\]           |    20 | 65 STR         | 15 HP, 36 WDEF                 |    10 | Horny Mushroom           |            | Perion  |              |
+| White Kendo Robe \[M\]         |    20 | 65 STR         | 1 DEX, 5 MP, 36 WDEF           |    10 |                          |            | Perion  |              |
+| Blue Kendo Robe \[M\]          |    20 | 65 STR         | 1 STR, 5 HP, 36 WDEF           |    10 | Jr. Necki                |            | Perion  |              |
+| Black Dragon Robe \[M\]        |    30 | 100 STR        | 3 DEX, 52 WDEF                 |    10 |                          |            | Perion  |              |
+| Blue Engrit \[F\]              |    30 | 100 STR        | 30 MP, 52 WDEF                 |    10 | Evil Eye                 |            | Perion  |              |
+| Red Engrit \[F\]               |    30 | 100 STR        | 30 HP, 52 WDEF                 |    10 |                          |            | Perion  |              |
+| Yellow Engrit \[F\]            |    30 | 100 STR        | 3 DEX, 52 WDEF                 |    10 | Ligator                  |            | Perion  |              |
+| Dark Engrit \[F\]              |    30 | 100 STR        | 3 STR, 52 WDEF                 |    10 | Jr. Wraith               |            | Perion  |              |
+| Sapphire Fitted Mail \[F\]     |    35 | 110 STR        | 4 DEX, 5 HP, 60 WDEF, 20 MDEF  |    10 | Lupin                    |            |         |              |
+| Emerald Fitted Mail \[F\]      |    35 | 110 STR        | 4 STR, 5 HP, 60 WDEF, 20 MDEF  |    10 | Zombie Lupin             |            |         |              |
+| White Crusader Chainmail \[M\] |    35 | 110 STR        | 4 STR, 5 HP, 60 WDEF, 20 MDEF  |    10 | Evil Eye, Lorang         |            |         |              |
+| Dark Crusader Chainmail \[M\]  |    35 | 110 STR        | 4 STR, 5 HP, 60 WDEF, 20 MDEF  |    10 | Jr. Wraith, Copper Drake |            |         |              |
+| Blue Battle Road \[M\]         |    80 | 270 STR        | 5 STR, 3 DEX, 1 WACC, 132 WDEF |    10 | Ice Drake                |            |         |              |
 
 ## Tops
 
