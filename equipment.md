@@ -55,6 +55,7 @@ that is equippable by more than one archetype.
 - [Overalls](#overalls)
     - [Warrior](#warrior-9)
     - [Mage](#mage-3)
+    - [Archer](#archer-3)
 - [Tops](#tops)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
@@ -727,6 +728,25 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Brown Requierre \[F\]       |    68 | 205 INT, 70 LUK | 5 INT, 2 LUK, 30 MP, 60 WDEF, 30 MDEF |    10 | Wild Kargo, Commander Skeleton |            |         |              |
 | Dark Requierre \[F\]        |    68 | 205 INT, 70 LUK | 5 INT, 2 LUK, 30 MP, 60 WDEF, 30 MDEF |    10 | Tauromacis, Taurospear         |            |         |              |
 | Green Enigma \[F\]          |    78 | 235 INT, 80 LUK | 2 INT, 6 LUK, 35 MP, 68 WDEF, 34 MDEF |    10 | Taurospear                     |            |         |              |
+
+### Archer
+
+| name                    | level | stat reqs | stats                        | slots | dropped by                             | awarded by | sold at | craftable at |
+| :---------------------- | ----: | :-------- | :--------------------------- | ----: | :------------------------------------- | :--------- | :------ | :----------- |
+| Red-Lined Kismet \[M\]  |    50 | 180 DEX   | 4 STR, 55 WDEF, 1 AVOID      |    10 | Iron Hog                               |            |         |              |
+| Blue-Lined Kismet \[M\] |    50 | 180 DEX   | 4 DEX, 55 WDEF, 1 AVOID      |    10 | Iron Hog, Skeledog                     |            |         |              |
+| Blue Lumati \[F\]       |    50 | 160 DEX   | 4 STR, 55 WDEF, 1 AVOID      |    10 | Croco, Drake, Mixed Golem              |            |         |              |
+| Green Lumati \[F\]      |    50 | 160 DEX   | 4 DEX, 55 WDEF, 1 AVOID      |    10 | Croco                                  |            |         |              |
+| Red Lumati \[F\]        |    50 | 160 DEX   | 4 DEX, 55 WDEF, 1 AVOID      |    10 | Malady                                 |            |         |              |
+| Red Choro \[F\]         |    60 | 190 DEX   | 5 STR, 1 DEX, 20 MP, 65 WDEF |    10 | King Clang                             |            |         |              |
+| Brown Choro \[F\]       |    60 | 190 DEX   | 1 STR, 5 DEX, 20 MP, 65 WDEF |    10 | Ice Drake                              |            |         |              |
+| Orange Tai \[M\]        |    60 | 190 DEX   | 5 STR, 1 DEX, 20 MP, 65 WDEF |    10 | Sakura Cellion                         |            |         |              |
+| Blue Tai \[M\]          |    60 | 190 DEX   | 1 STR, 5 DEX, 20 MP, 65 WDEF |    10 | Dark Stone Golem, Skeleton Soldier     |            |         |              |
+| Red Tai \[M\]           |    60 | 190 DEX   | 1 STR, 5 DEX, 20 MP, 65 WDEF |    10 | Sakura Cellion, Wild Kargo, King Clang |            |         |              |
+| Blue Linnex \[M\]       |    70 | 220 DEX   | 5 STR, 2 DEX, 25 MP, 75 WDEF |    10 | Commander Skeleton                     |            |         |              |
+| Beige Lineros \[F\]     |    70 | 220 DEX   | 5 STR, 2 DEX, 25 MP, 75 WDEF |    10 | Commander Skeleton, Taurospear         |            |         |              |
+| Green Lineros \[F\]     |    70 | 220 DEX   | 2 STR, 5 DEX, 25 MP, 75 WDEF |    10 | Tauromacis                             |            |         |              |
+| Green Pris \[M\]        |    80 | 250 DEX   | 2 STR, 6 DEX, 30 MP, 85 WDEF |    10 | Taurospear                             |            |         |              |
 
 ## Tops
 
