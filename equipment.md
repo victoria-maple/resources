@@ -57,6 +57,7 @@ that is equippable by more than one archetype.
     - [Mage](#mage-3)
     - [Archer](#archer-3)
     - [Rogue](#rogue-3)
+    - [Pirate](#pirate-3)
 - [Tops](#tops)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
@@ -755,6 +756,19 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | :------------------- | ----: | :------------- | :------------------- | ----: | :-------------------- | :--------- | :------ | :----------- |
 | Blue Avenger \[F\]   |    35 | 70 DEX, 95 LUK | 4 DEX, 5 MP, 40 WDEF |    10 | Axe Stump, Jr. Wraith |            |         |              |
 | Purple Avenger \[F\] |    35 | 70 DEX, 95 LUK | 4 LUK, 5 MP, 40 WDEF |    10 | Zombie Lupin          |            |         |              |
+
+### Pirate
+
+| name                | level | stat reqs      | stats                        | slots | dropped by                        | awarded by | sold at          | craftable at |
+| :------------------ | ----: | :------------- | :--------------------------- | ----: | :-------------------------------- | :--------- | :--------------- | :----------- |
+| Brown Rocky Suit    |    10 |                | 15 WDEF                      |    10 | Snail, Red Snail, Orange Mushroom |            | Nautilus Harbour |              |
+| Brown Cotton Lagger |    15 | 15 STR, 15 DEX | 1 STR, 5 MP, 20 WDEF         |    10 | Ribbon Pig, Stirge                |            | Nautilus Harbour |              |
+| Beige Carribean     |    20 | 20 STR, 20 DEX | 1 STR, 10 MP, 25 WDEF        |    10 | Stirge                            |            | Nautilus Harbour |              |
+| Brown Turk Gally    |    25 | 25 STR, 25 DEX | 1 STR, 20 MP, 30 WDEF        |    10 | Horny Mushroom                    |            | Nautilus Harbour |              |
+| Brown Pollard       |    30 | 30 STR, 30 DEX | 2 STR, 10 MP, 35 WDEF        |    10 | Fire Boar                         |            | Nautilus Harbour |              |
+| Red Barbay          |    40 | 40 STR, 40 DEX | 4 STR, 10 HP, 40 WDEF        |    10 | Copper Drake                      |            |                  |              |
+| Black Royal Barone  |    60 | 60 STR, 60 DEX | 5 STR, 1 DEX, 10 HP, 65 WDEF |    10 | Croco, King Clang                 |            |                  |              |
+| Red Viska           |    70 | 70 STR, 70 DEX | 5 STR, 2 DEX, 10 HP, 75 WDEF |    10 | Dark Drake                        |            |                  |              |
 
 ## Tops
 
