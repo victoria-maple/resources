@@ -71,11 +71,14 @@ that is equippable by more than one archetype.
 
 ### 1H swords
 
-| name            | level | speed | stat reqs | stats             | slots | dropped by           | awarded by | sold at                                                       | craftable at |
-| :-------------- | ----: | ----: | :-------- | :---------------- | ----: | :------------------- | :--------- | :------------------------------------------------------------ | :----------- |
-| Long Sword      |    10 |     4 |           | 27 WATK           |     7 |                      |            | Kerning City, Perion, Henesys, Nautilus Harbour, Lith Harbour |              |
-| Red Whip        |    35 |     4 |           | 48 WATK, 15 SPEED |     7 | Wraith, Zombie Lupin |            |                                                               |              |
-| Yellow Umbrella |    40 |     5 |           | 52 WATK, 52 MATK  |     7 | Clang                |            |                                                               |              |
+| name              | level | speed | stat reqs | stats             | slots | dropped by           | awarded by                | sold at                                                       | craftable at |
+| :---------------- | ----: | ----: | :-------- | :---------------- | ----: | :------------------- | :------------------------ | :------------------------------------------------------------ | :----------- |
+| Old Gladius       |     0 |     4 |           | 10 WATK           |     0 |                      | Manji&rsquo;s Old Gladius |                                                               |              |
+| Sky Blue Umbrella |     0 |     5 |           | 15 WATK, 15 MATK  |     7 | Lorang               |                           |                                                               |              |
+| Sword             |     0 |     4 |           | 17 WATK           |     7 | Snail, Red Snail     | \[character creation\]    | Amherst, Lith Harbour                                         |              |
+| Long Sword        |    10 |     4 |           | 27 WATK           |     7 |                      |                           | Kerning City, Perion, Henesys, Nautilus Harbour, Lith Harbour |              |
+| Red Whip          |    35 |     4 |           | 48 WATK, 15 SPEED |     7 | Wraith, Zombie Lupin |                           |                                                               |              |
+| Yellow Umbrella   |    40 |     5 |           | 52 WATK, 52 MATK  |     7 | Clang                |                           |                                                               |              |
 
 #### Warrior/rogue
 
@@ -124,9 +127,10 @@ that is equippable by more than one archetype.
 
 ### 1H axes
 
-| name       | level | speed | stat reqs | stats   | slots | dropped by      | awarded by | sold at      | craftable at |
-| :--------- | ----: | ----: | :-------- | :------ | ----: | :-------------- | :--------- | :----------- | :----------- |
-| Double Axe |    10 |     5 |           | 27 WATK |     7 | Orange Mushroom |            | Lith Harbour |              |
+| name       | level | speed | stat reqs | stats   | slots | dropped by      | awarded by             | sold at               | craftable at |
+| :--------- | ----: | ----: | :-------- | :------ | ----: | :-------------- | :--------------------- | :-------------------- | :----------- |
+| Hand Axe   |     0 |     5 |           | 17 WATK |     7 | Shroom          | \[character creation\] | Amherst, Lith Harbour |              |
+| Double Axe |    10 |     5 |           | 27 WATK |     7 | Orange Mushroom |                        | Lith Harbour          |              |
 
 #### Warrior
 
@@ -165,17 +169,18 @@ that is equippable by more than one archetype.
 
 ### 1H maces
 
-| name              | level | speed | stat reqs | stats             | slots | dropped by       | awarded by         | sold at                   | craftable at |
-| :---------------- | ----: | ----: | :-------- | :---------------- | ----: | :--------------- | :----------------- | :------------------------ | :----------- |
-| Blue Flowery Tube |     0 |     5 |           | 15 WATK, 10 WACC  |     7 | Bubbling, Lorang |                    |                           |              |
-| Leather Purse     |    15 |     5 | 20 STR    | 34 WATK           |     7 | Red Snail, Slime |                    | Henesys, Nautilus Harbour |              |
-| Hard Briefcase    |    20 |     5 | 25 STR    | 39 WATK           |     7 |                  |                    | Henesys                   |              |
-| Plunger           |    25 |     5 | 30 STR    | 44 WATK           |     7 | Ligator          |                    | Kerning City              |              |
-| Red Flowery Tube  |    25 |     5 |           | 40 WATK, 10 SPEED |     7 | Lorang           |                    |                           |              |
-| Pig Illustrated   |    25 |     3 |           | 42 WATK, 10 WACC  |     7 |                  | Camila&rsquo;s Gem |                           |              |
-| Purple Tube       |    40 |     5 |           | 55 WATK, 50 MP    |     7 | Lorang           |                    |                           |              |
-| Black Tube        |    50 |     5 |           | 65 WATK, 10 AVOID |     7 | Lorang, Tortie   |                    |                           |              |
-| Colorful Tube     |    70 |     5 |           | 85 WATK, 10 JUMP  |     7 | Tortie           |                    |                           |              |
+| name              | level | speed | stat reqs | stats             | slots | dropped by       | awarded by             | sold at                   | craftable at |
+| :---------------- | ----: | ----: | :-------- | :---------------- | ----: | :--------------- | :--------------------- | :------------------------ | :----------- |
+| Wooden Club       |     0 |     5 |           | 19 WATK           |     7 | Stump            | \[character creation\] | Amherst, Lith Harbour     |              |
+| Blue Flowery Tube |     0 |     5 |           | 15 WATK, 10 WACC  |     7 | Bubbling, Lorang |                        |                           |              |
+| Leather Purse     |    15 |     5 | 20 STR    | 34 WATK           |     7 | Red Snail, Slime |                        | Henesys, Nautilus Harbour |              |
+| Hard Briefcase    |    20 |     5 | 25 STR    | 39 WATK           |     7 |                  |                        | Henesys                   |              |
+| Plunger           |    25 |     5 | 30 STR    | 44 WATK           |     7 | Ligator          |                        | Kerning City              |              |
+| Red Flowery Tube  |    25 |     5 |           | 40 WATK, 10 SPEED |     7 | Lorang           |                        |                           |              |
+| Pig Illustrated   |    25 |     3 |           | 42 WATK, 10 WACC  |     7 |                  | Camila&rsquo;s Gem     |                           |              |
+| Purple Tube       |    40 |     5 |           | 55 WATK, 50 MP    |     7 | Lorang           |                        |                           |              |
+| Black Tube        |    50 |     5 |           | 65 WATK, 10 AVOID |     7 | Lorang, Tortie   |                        |                           |              |
+| Colorful Tube     |    70 |     5 |           | 85 WATK, 10 JUMP  |     7 | Tortie           |                        |                           |              |
 
 #### Warrior/mage
 
@@ -224,6 +229,7 @@ that is equippable by more than one archetype.
 
 | name        | level | speed | stat reqs | stats                    | slots | dropped by        | awarded by                       | sold at      | craftable at |
 | :---------- | ----: | ----: | :-------- | :----------------------- | ----: | :---------------- | :------------------------------- | :----------- | :----------- |
+| Razor       |     5 |     4 |           | 20 WATK                  |     7 |                   | Mai&rsquo;s Training!            | Amherst      |              |
 | Fruit Knife |     8 |     3 |           | 22 WATK                  |     7 |                   | Bigg&rsquo;s Collection of Items | Lith Harbour |              |
 | Korean Fan  |    35 |     4 |           | 50 WATK, 5 WACC, 5 AVOID |     7 | Fire Boar, Lorang |                                  |              |              |
 
