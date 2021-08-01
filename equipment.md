@@ -60,6 +60,7 @@ that is equippable by more than one archetype.
     - [Pirate](#pirate-3)
 - [Tops](#tops)
     - [Warrior](#warrior-10)
+    - [Mage](#mage-4)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
 - [Gloves](#gloves)
@@ -826,6 +827,28 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Dark Orientican \[M\]           |    60 | 210 STR   | 4 STR, 1 DEX, 65 WDEF        |     7 | King Clang                                        |            |         |              |
 | Mithril Platine \[M\]           |    70 | 240 STR   | 4 STR, 2 DEX, 10 MP, 75 WDEF |     7 | Red Drake                                         |            |         |              |
 | Aqua Platina \[F\]              |    70 | 240 STR   | 2 STR, 4 DEX, 10 MP, 75 WDEF |     7 | Ice Drake, Dark Drake                             |            |         |              |
+
+### Mage
+
+| name                              | level | stat reqs       | stats                          | slots | dropped by                 | awarded by | sold at | craftable at |
+| :-------------------------------- | ----: | :-------------- | :----------------------------- | ----: | :------------------------- | :--------- | :------ | :----------- |
+| Black/Green Armine \[F\]          |     8 |                 | 7 WDEF, 5 MDEF                 |     7 |                            |            | Ellinia |              |
+| Grey / Brown Training Shirt \[M\] |     8 |                 | 7 WDEF, 5 MDEF                 |     7 | Blue Snail                 |            | Ellinia |              |
+| Blue Training Shirt \[M\]         |     8 |                 | 7 WDEF, 5 MDEF                 |     7 |                            |            | Ellinia |              |
+| Yellow Arianne \[F\]              |    13 | 40 INT, 15 LUK  | 3 SPEED, 12 WDEF, 10 MDEF      |     7 |                            |            | Ellinia |              |
+| Green Arianne \[F\]               |    13 | 40 INT, 15 LUK  | 10 MP, 12 WDEF, 8 MDEF         |     7 | Dark Stump, Green Mushroom |            | Ellinia |              |
+| Pink Arianne \[F\]                |    13 | 40 INT, 15 LUK  | 10 HP, 12 WDEF, 10 MDEF        |     7 |                            |            | Ellinia |              |
+| Purple Arianne \[F\]              |    13 | 40 INT, 15 LUK  | 1 INT, 12 WDEF, 8 MDEF         |     7 | Green Mushroom             |            | Ellinia |              |
+| Blue Split Piece \[M\]            |    18 | 55 INT, 20 LUK  | 10 MP, 15 WDEF, 10 MDEF        |     7 | Wooden Mask                |            | Ellinia |              |
+| Orange Split Piece \[M\]          |    18 | 55 INT, 20 LUK  | 10 HP, 15 WDEF, 10 MDEF        |     7 | Axe Stump                  |            | Ellinia |              |
+| Black Split Piece \[M\]           |    18 | 55 INT, 20 LUK  | 1 INT, 15 WDEF, 10 MDEF        |     7 | Ghost Stump                |            | Ellinia |              |
+| Purple Split \[F\]                |    18 | 55 INT, 20 LUK  | 10 MP, 15 WDEF, 10 MDEF        |     7 | Jr. Necki                  |            | Ellinia |              |
+| Red Split \[F\]                   |    18 | 55 INT, 20 LUK  | 10 HP, 15 WDEF, 10 MDEF        |     7 |                            |            | Ellinia |              |
+| Black Split \[F\]                 |    18 | 55 INT, 20 LUK  | 1 INT, 15 WDEF, 10 MDEF        |     7 | Wooden Mask                |            | Ellinia |              |
+| Blue Fairy Top \[F\]              |    28 | 85 INT, 30 LUK  | 20 MP, 21 WDEF, 15 MDEF        |     7 |                            |            | Ellinia |              |
+| Green Fairy Top \[F\]             |    28 | 85 INT, 30 LUK  | 1 INT, 10 MP, 21 WDEF, 15 MDEF |     7 |                            |            | Ellinia |              |
+| Purple Fairy Top \[F\]            |    28 | 85 INT, 30 LUK  | 2 INT, 21 WDEF, 15 MDEF        |     7 |                            |            | Ellinia |              |
+| Red Amoria Top \[F\]              |    33 | 100 INT, 35 LUK | 3 INT, 24 WDEF, 18 MDEF        |     7 | Ligator                    |            |         |              |
 
 ## Bottoms
 
