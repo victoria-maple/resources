@@ -56,6 +56,7 @@ that is equippable by more than one archetype.
     - [Warrior](#warrior-9)
     - [Mage](#mage-3)
     - [Archer](#archer-3)
+    - [Rogue](#rogue-3)
 - [Tops](#tops)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
@@ -747,6 +748,13 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Beige Lineros \[F\]     |    70 | 220 DEX   | 5 STR, 2 DEX, 25 MP, 75 WDEF |    10 | Commander Skeleton, Taurospear         |            |         |              |
 | Green Lineros \[F\]     |    70 | 220 DEX   | 2 STR, 5 DEX, 25 MP, 75 WDEF |    10 | Tauromacis                             |            |         |              |
 | Green Pris \[M\]        |    80 | 250 DEX   | 2 STR, 6 DEX, 30 MP, 85 WDEF |    10 | Taurospear                             |            |         |              |
+
+### Rogue
+
+| name                 | level | stat reqs      | stats                | slots | dropped by            | awarded by | sold at | craftable at |
+| :------------------- | ----: | :------------- | :------------------- | ----: | :-------------------- | :--------- | :------ | :----------- |
+| Blue Avenger \[F\]   |    35 | 70 DEX, 95 LUK | 4 DEX, 5 MP, 40 WDEF |    10 | Axe Stump, Jr. Wraith |            |         |              |
+| Purple Avenger \[F\] |    35 | 70 DEX, 95 LUK | 4 LUK, 5 MP, 40 WDEF |    10 | Zombie Lupin          |            |         |              |
 
 ## Tops
 
