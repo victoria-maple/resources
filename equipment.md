@@ -59,6 +59,7 @@ that is equippable by more than one archetype.
     - [Rogue](#rogue-3)
     - [Pirate](#pirate-3)
 - [Tops](#tops)
+    - [Warrior](#warrior-10)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
 - [Gloves](#gloves)
@@ -772,12 +773,59 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 
 ## Tops
 
-| name                         | level | stat reqs | stats   | slots | dropped by                  | awarded by | sold at      | craftable at |
-| :--------------------------- | ----: | :-------- | :------ | ----: | :-------------------------- | :--------- | :----------- | :----------- |
-| Pink Starry Shirt \[F\]      |    11 |           | 11 WDEF |     7 |                             |            | Lith Harbour |              |
-| Red-Striped T-Shirt \[F\]    |    11 |           | 11 WDEF |     7 | Blue Snail, Pig, Ribbon Pig |            | Lith Harbour |              |
-| Blue One-lined T-Shirt \[M\] |    11 |           | 11 WDEF |     7 | Blue Snail                  |            | Lith Harbour |              |
-| Orange Sporty T-Shirt \[M\]  |    11 |           | 11 WDEF |     7 | Ribbon Pig                  |            | Lith Harbour |              |
+| name                                | level | stat reqs | stats   | slots | dropped by                  | awarded by             | sold at      | craftable at |
+| :---------------------------------- | ----: | :-------- | :------ | ----: | :-------------------------- | :--------------------- | :----------- | :----------- |
+| White Undershirt \[M\]              |     0 |           | 3 WDEF  |     7 | Snail                       | \[character creation\] | Southperry   |              |
+| Undershirt \[M\]                    |     0 |           | 3 WDEF  |     7 | Blue Snail                  | \[character creation\] | Southperry   |              |
+| Grey T-Shirt \[M\]                  |     0 |           | 3 WDEF  |     7 |                             | \[character creation\] | Southperry   |              |
+| White Tubetop \[F\]                 |     0 |           | 3 WDEF  |     7 | Stump                       | \[character creation\] | Southperry   |              |
+| Yellow T-Shirt \[F\]                |     0 |           | 3 WDEF  |     7 | Red Snail                   | \[character creation\] | Southperry   |              |
+| Green T-Shirt/Red-Striped Top \[F\] |     0 |           | 3 WDEF  |     7 |                             | \[character creation\] | Southperry   |              |
+| Pink Starry Shirt \[F\]             |    11 |           | 11 WDEF |     7 |                             |                        | Lith Harbour |              |
+| Red-Striped T-Shirt \[F\]           |    11 |           | 11 WDEF |     7 | Blue Snail, Pig, Ribbon Pig |                        | Lith Harbour |              |
+| Blue One-lined T-Shirt \[M\]        |    11 |           | 11 WDEF |     7 | Blue Snail                  |                        | Lith Harbour |              |
+| Orange Sporty T-Shirt \[M\]         |    11 |           | 11 WDEF |     7 | Ribbon Pig                  |                        | Lith Harbour |              |
+
+### Warrior
+
+| name                            | level | stat reqs | stats                        | slots | dropped by                                        | awarded by | sold at | craftable at |
+| :------------------------------ | ----: | :-------- | :--------------------------- | ----: | :------------------------------------------------ | :--------- | :------ | :----------- |
+| Brown/Blue Lolico Armor \[M\]   |    10 |           | 15 WDEF                      |     7 |                                                   |            | Perion  |              |
+| Orange Lolica Armor \[F\]       |    10 |           | 15 WDEF                      |     7 | Pig                                               |            | Perion  |              |
+| Blueberry Lolica Armor \[F\]    |    10 |           | 15 WDEF                      |     7 |                                                   |            | Perion  |              |
+| Brown Corporal \[M\]            |    15 | 40 STR    | 10 MP, 20 WDEF               |     7 | Octopus                                           |            | Perion  |              |
+| Steel Corporal \[M\]            |    15 | 40 STR    | 10 MP, 20 WDEF               |     7 | Zombie Mushroom, Stirge                           |            | Perion  |              |
+| Red Sergeant \[M\]              |    20 | 65 STR    | 1 DEX, 25 WDEF               |     7 |                                                   |            | Perion  |              |
+| Blue Sergeant \[M\]             |    20 | 65 STR    | 1 STR, 25 WDEF               |     7 | Blue Mushroom                                     |            | Perion  |              |
+| Red Lamelle \[F\]               |    20 | 65 STR    | 10 HP, 25 WDEF               |     7 |                                                   |            | Perion  |              |
+| Green Lamelle \[F\]             |    20 | 65 STR    | 1 DEX, 25 WDEF               |     7 | Ligator                                           |            | Perion  |              |
+| Brown Lamelle \[F\]             |    20 | 65 STR    | 1 STR, 25 WDEF               |     7 | Jr. Necki                                         |            | Perion  |              |
+| Silver Master Sergeant \[M\]    |    25 | 80 STR    | 20 MP, 30 WDEF               |     7 |                                                   |            | Perion  |              |
+| Orihalcon Master Sergeant \[M\] |    25 | 80 STR    | 20 HP, 30 WDEF               |     7 |                                                   |            | Perion  |              |
+| Dark Master Sergeant \[M\]      |    25 | 80 STR    | 2 STR, 30 WDEF               |     7 |                                                   |            | Perion  |              |
+| Sky Shark \[F\]                 |    25 | 80 STR    | 7 SPEED, 30 WDEF             |     7 | Rocky Mask                                        |            | Perion  |              |
+| Red Shark \[F\]                 |    25 | 80 STR    | 20 HP, 30 WDEF               |     7 |                                                   |            | Perion  |              |
+| Blue Shark \[F\]                |    25 | 80 STR    | 2 STR, 30 WDEF               |     7 | Rocky Mask                                        |            | Perion  |              |
+| Red Hwarang Shirt \[M\]         |    30 | 100 STR   | 20 HP, 35 WDEF               |     7 | Zombie Mushroom, Evil Eye, Curse Eye              |            | Perion  |              |
+| Green Hwarang Shirt \[M\]       |    30 | 100 STR   | 2 DEX, 35 WDEF               |     7 | Zombie Mushroom, Fire Boar                        |            | Perion  |              |
+| Red Jangoon Armor \[F\]         |    40 | 130 STR   | 3 DEX, 10 MP, 45 WDEF        |     7 | Mummydog                                          |            |         |              |
+| Brown Jangoon Armor \[F\]       |    40 | 130 STR   | 3 STR, 10 MP, 45 WDEF        |     7 | Ice Drake                                         |            |         |              |
+| Black Jangoon Armor \[F\]       |    40 | 130 STR   | 3 STR, 10 MP, 45 WDEF        |     7 | Zombie Lupin                                      |            |         |              |
+| Yellow Jangoon Armor \[M\]      |    40 | 130 STR   | 3 DEX, 10 MP, 45 WDEF        |     7 | Zombie Lupin                                      |            |         |              |
+| Maroon Jangoon Armor \[M\]      |    40 | 130 STR   | 3 STR, 10 MP, 45 WDEF        |     7 | Wraith, Dark Stone Golem                          |            |         |              |
+| Blue Jangoon Armor \[M\]        |    40 | 130 STR   | 3 STR, 10 MP, 45 WDEF        |     7 | Malady                                            |            |         |              |
+| Umber Shouldermail \[M\]        |    50 | 180 STR   | 3 STR, 1 DEX, 55 WDEF        |     7 | Drake                                             |            |         |              |
+| Red Shouldermail \[F\]          |    50 | 180 STR   | 3 STR, 1 DEX, 55 WDEF        |     7 | Clang, Wild Kargo                                 |            |         |              |
+| Dark Shouldermail \[F\]         |    50 | 180 STR   | 3 STR, 1 DEX, 55 WDEF        |     7 | Sakura Cellion, Tortie                            |            |         |              |
+| Green Ice Queen \[F\]           |    60 | 210 STR   | 1 STR, 4 DEX, 65 WDEF        |     7 | Stone Golem, Ice Drake, Taurospear                |            |         |              |
+| Red Ice Queen \[F\]             |    60 | 210 STR   | 4 STR, 1 DEX, 65 WDEF        |     7 | Commander Skeleton, King Clang                    |            |         |              |
+| Blue Ice Queen \[F\]            |    60 | 210 STR   | 4 STR, 1 DEX, 65 WDEF        |     7 | Tauromacis                                        |            |         |              |
+| Green Orientican \[M\]          |    60 | 210 STR   | 1 STR, 4 DEX, 65 WDEF        |     7 | Malady                                            |            |         |              |
+| Blue Orientican \[M\]           |    60 | 210 STR   | 1 STR, 4 DEX, 65 WDEF        |     7 | Mixed Golem, Skeleton Soldier, Commander Skeleton |            |         |              |
+| Red Orientican \[M\]            |    60 | 210 STR   | 4 STR, 1 DEX, 65 WDEF        |     7 | Dark Stone Golem, Ice Drake, Dark Drake           |            |         |              |
+| Dark Orientican \[M\]           |    60 | 210 STR   | 4 STR, 1 DEX, 65 WDEF        |     7 | King Clang                                        |            |         |              |
+| Mithril Platine \[M\]           |    70 | 240 STR   | 4 STR, 2 DEX, 10 MP, 75 WDEF |     7 | Red Drake                                         |            |         |              |
+| Aqua Platina \[F\]              |    70 | 240 STR   | 2 STR, 4 DEX, 10 MP, 75 WDEF |     7 | Ice Drake, Dark Drake                             |            |         |              |
 
 ## Bottoms
 
