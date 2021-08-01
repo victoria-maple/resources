@@ -54,6 +54,7 @@ that is equippable by more than one archetype.
 - [Earrings](#earrings)
 - [Overalls](#overalls)
     - [Warrior](#warrior-9)
+    - [Mage](#mage-3)
 - [Tops](#tops)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
@@ -687,6 +688,45 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | White Crusader Chainmail \[M\] |    35 | 110 STR        | 4 STR, 5 HP, 60 WDEF, 20 MDEF  |    10 | Evil Eye, Lorang         |            |         |              |
 | Dark Crusader Chainmail \[M\]  |    35 | 110 STR        | 4 STR, 5 HP, 60 WDEF, 20 MDEF  |    10 | Jr. Wraith, Copper Drake |            |         |              |
 | Blue Battle Road \[M\]         |    80 | 270 STR        | 5 STR, 3 DEX, 1 WACC, 132 WDEF |    10 | Ice Drake                |            |         |              |
+
+### Mage
+
+| name                        | level | stat reqs       | stats                                 | slots | dropped by                     | awarded by | sold at | craftable at |
+| :-------------------------- | ----: | :-------------- | :------------------------------------ | ----: | :----------------------------- | :--------- | :------ | :----------- |
+| Blue Plain Robe \[M\]       |    13 | 40 INT, 15 LUK  | 15 MP, 16 WDEF, 8 MDEF                |    10 |                                |            | Ellinia |              |
+| Green Plain Robe \[M\]      |    13 | 40 INT, 15 LUK  | 15 HP, 16 WDEF, 8 MDEF                |    10 | Ghost Stump                    |            | Ellinia |              |
+| Beige Plain Robe \[M\]      |    13 | 40 INT, 15 LUK  | 1 INT, 5 MP, 16 WDEF, 8 MDEF          |    10 |                                |            | Ellinia |              |
+| Yellow Doros Robe \[M\]     |    23 | 70 INT, 25 LUK  | 30 MP, 24 WDEF, 12 MDEF               |    10 |                                |            | Ellinia |              |
+| Brown Doros Robe \[M\]      |    23 | 70 INT, 25 LUK  | 3 INT, 24 WDEF, 12 MDEF               |    10 |                                |            | Ellinia |              |
+| White Doros Robe \[M\]      |    23 | 70 INT, 25 LUK  | 3 INT, 24 WDEF, 12 MDEF               |    10 | Jr. Wraith                     |            | Ellinia |              |
+| Blue Doros Robe \[M\]       |    23 | 70 INT, 25 LUK  | 3 STR, 24 WDEF, 12 MDEF               |    10 |                                |            | Ellinia |              |
+| Purple Doroness Robe \[F\]  |    23 | 70 INT, 25 LUK  | 30 MP, 24 WDEF, 12 MDEF               |    10 | Dark Axe Stump, Wild Boar      |            | Ellinia |              |
+| Red Doroness Robe \[F\]     |    23 | 70 INT, 25 LUK  | 30 HP, 24 WDEF, 12 MDEF               |    10 | Wild Boar                      |            | Ellinia |              |
+| Brown Doroness Robe \[F\]   |    23 | 70 INT, 25 LUK  | 3 INT, 24 WDEF, 12 MDEF               |    10 | Dark Axe Stump, Jr. Wraith     |            | Ellinia |              |
+| Blue Wizard Robe \[M\]      |    28 | 85 INT, 30 LUK  | 30 MP, 28 WDEF, 14 MDEF               |    10 | Ghost Stump                    |            | Ellinia |              |
+| Green Wizard Robe \[M\]     |    28 | 85 INT, 30 LUK  | 30 MP, 28 WDEF, 14 MDEF               |    10 |                                |            | Ellinia |              |
+| White Wizard Robe \[M\]     |    28 | 85 INT, 30 LUK  | 3 INT, 28 WDEF, 14 MDEF               |    10 | Evil Eye                       |            | Ellinia |              |
+| Blue/White Chaos Robe \[M\] |    33 | 100 INT, 35 LUK | 4 LUK, 5 MP, 32 WDEF, 16 MDEF         |    10 | Zombie Mushroom                |            |         |              |
+| Blue Starlight \[M\]        |    38 | 115 INT, 40 LUK | 1 INT, 4 LUK, 36 WDEF, 18 MDEF        |    10 | Lorang                         |            |         |              |
+| Dark Starlight \[M\]        |    38 | 115 INT, 40 LUK | 4 INT, 1 LUK, 36 WDEF, 18 MDEF        |    10 | Zombie Lupin, Dark Stone Golem |            |         |              |
+| Blue Moonlight \[F\]        |    38 | 115 INT, 40 LUK | 1 INT, 4 LUK, 36 WDEF, 18 MDEF        |    10 | Curse Eye                      |            |         |              |
+| Blue Calaf \[F\]            |    48 | 145 INT, 50 LUK | 1 INT, 4 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Mummydog                       |            |         |              |
+| Dark Calaf \[F\]            |    48 | 145 INT, 50 LUK | 4 INT, 1 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Drake                          |            |         |              |
+| White Calaf \[F\]           |    48 | 145 INT, 50 LUK | 4 INT, 1 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Malady                         |            |         |              |
+| Orange Calaf \[F\]          |    48 | 145 INT, 50 LUK | 4 INT, 1 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Iron Hog                       |            |         |              |
+| Blue Calas \[M\]            |    48 | 145 INT, 50 LUK | 1 INT, 4 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Curse Eye                      |            |         |              |
+| Red Calas \[M\]             |    48 | 145 INT, 50 LUK | 1 INT, 4 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Croco, Copper Drake, Red Drake |            |         |              |
+| Orange Calas \[M\]          |    48 | 145 INT, 50 LUK | 4 INT, 1 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Iron Boar, Wild Kargo          |            |         |              |
+| White Calas \[M\]           |    48 | 145 INT, 50 LUK | 4 INT, 1 LUK, 20 MP, 44 WDEF, 22 MDEF |    10 | Mummydog, Stone Golem          |            |         |              |
+| Red Anakamoon \[M\]         |    58 | 175 INT, 60 LUK | 1 INT, 5 LUK, 25 MP, 52 WDEF, 26 MDEF |    10 | Sakura Cellion                 |            |         |              |
+| Dark Anakamoon \[M\]        |    58 | 175 INT, 60 LUK | 5 INT, 1 LUK, 25 MP, 52 WDEF, 26 MDEF |    10 | Red Drake, King Clang          |            |         |              |
+| Red Anakarune \[F\]         |    58 | 175 INT, 60 LUK | 1 INT, 5 LUK, 25 MP, 52 WDEF, 26 MDEF |    10 | Drake, Skeleton Soldier        |            |         |              |
+| White Anakarune \[F\]       |    58 | 175 INT, 60 LUK | 5 INT, 1 LUK, 25 MP, 52 WDEF, 26 MDEF |    10 | Ice Drake                      |            |         |              |
+| Dark Anakarune \[F\]        |    58 | 175 INT, 60 LUK | 5 INT, 1 LUK, 25 MP, 52 WDEF, 26 MDEF |    10 | King Clang, Taurospear         |            |         |              |
+| Blue Requiem \[M\]          |    68 | 205 INT, 70 LUK | 2 INT, 5 LUK, 30 MP, 60 WDEF, 30 MDEF |    10 | Tauromacis                     |            |         |              |
+| Brown Requierre \[F\]       |    68 | 205 INT, 70 LUK | 5 INT, 2 LUK, 30 MP, 60 WDEF, 30 MDEF |    10 | Wild Kargo, Commander Skeleton |            |         |              |
+| Dark Requierre \[F\]        |    68 | 205 INT, 70 LUK | 5 INT, 2 LUK, 30 MP, 60 WDEF, 30 MDEF |    10 | Tauromacis, Taurospear         |            |         |              |
+| Green Enigma \[F\]          |    78 | 235 INT, 80 LUK | 2 INT, 6 LUK, 35 MP, 68 WDEF, 34 MDEF |    10 | Taurospear                     |            |         |              |
 
 ## Tops
 
