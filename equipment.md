@@ -1,7 +1,6 @@
-# Particularly notable vicloc-available equipment
+# Vicloc-available equipment
 
-Event-only equipment is not represented here. This list focuses on equipment
-that is equippable by more than one archetype.
+Event-only equipment is not represented here.
 
 - [Weapons](#weapons)
     - [1H swords](#1h-swords)
@@ -61,6 +60,7 @@ that is equippable by more than one archetype.
 - [Tops](#tops)
     - [Warrior](#warrior-10)
     - [Mage](#mage-4)
+    - [Archer](#archer-4)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
 - [Gloves](#gloves)
@@ -855,6 +855,43 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Green Fairy Top \[F\]             |    28 | 85 INT, 30 LUK  | 1 INT, 10 MP, 21 WDEF, 15 MDEF |     7 |                            |            | Ellinia |              |
 | Purple Fairy Top \[F\]            |    28 | 85 INT, 30 LUK  | 2 INT, 21 WDEF, 15 MDEF        |     7 |                            |            | Ellinia |              |
 | Red Amoria Top \[F\]              |    33 | 100 INT, 35 LUK | 3 INT, 24 WDEF, 18 MDEF        |     7 | Ligator                    |            |         |              |
+
+### Archer
+
+| name                                                        | level | stat reqs      | stats                 | slots | dropped by                                    | awarded by | sold at | craftable at |
+| :---------------------------------------------------------- | ----: | :------------- | :-------------------- | ----: | :-------------------------------------------- | :--------- | :------ | :----------- |
+| Brown/Green Archer Top \[M\]                                |    10 |                | 10 WDEF               |     7 |                                               |            | Henesys |              |
+| Green Avelin \[F\]                                          |    10 |                | 10 WDEF               |     7 | Evil Eye                                      |            | Henesys |              |
+| Yellow Avelin \[F\]                                         |    10 |                | 10 WDEF               |     7 | Dark Stump                                    |            | Henesys |              |
+| Green Able Armor \[F\]                                      |    15 | 40 DEX         | 1 DEX, 14 WDEF        |     7 | Horny Mushroom                                |            | Henesys |              |
+| Yellow Able Armor \[F\]                                     |    15 | 40 DEX         | 1 DEX, 14 WDEF        |     7 | Bubbling, Ghost Stump                         |            | Henesys |              |
+| Grey Able Armor \[F\]                                       |    15 | 40 DEX         | 1 DEX, 14 WDEF        |     7 | Green Mushroom                                |            | Henesys |              |
+| Silver Leather Hoodwear \[M\]                               |    15 | 40 DEX         | 1 STR, 14 WDEF        |     7 | Ribbon Pig                                    |            | Henesys |              |
+| Green Leather Hoodwear \[M\]                                |    15 | 40 DEX         | 1 DEX, 14 WDEF        |     7 |                                               |            | Henesys |              |
+| Purple Shivermail \[F\]                                     |    20 | 65 DEX         | 10 MP, 18 WDEF        |     7 | Dark Axe Stump, Wild Boar                     |            | Henesys |              |
+| Red Shivermail \[F\]                                        |    20 | 65 DEX         | 10 HP, 18 WDEF        |     7 | Blue Mushroom                                 |            | Henesys |              |
+| Green Shivermail \[F\]                                      |    20 | 65 DEX         | 1 DEX, 18 WDEF        |     7 | Wild Boar                                     |            | Henesys |              |
+| Brown Hard Leather Top \[M\]                                |    20 | 65 DEX         | 1 DEX, 18 WDEF        |     7 |                                               |            | Henesys |              |
+| Blue Bennis Chainmail \[M\]/\[F\]                           |    25 | 25 STR, 90 DEX | 20 MP, 22 WDEF        |     7 |                                               |            | Henesys |              |
+| Red Bennis Chainmail \[M\]                                  |    25 | 25 STR, 90 DEX | 20 HP, 22 WDEF        |     7 | Mano                                          |            | Henesys |              |
+| Black Bennis Chainmail \[M\]                                |    25 | 25 STR, 90 DEX | 2 STR, 22 WDEF        |     7 |                                               |            | Henesys |              |
+| Green Bennis Chainmail \[M\]                                |    25 | 25 STR, 90 DEX | 2 DEX, 22 WDEF        |     7 | Green Mushroom, Ligator                       |            | Henesys |              |
+| Red Bennis Chainmail \[F\]                                  |    25 | 25 STR, 90 DEX | 20 HP, 22 WDEF        |     7 |                                               |            | Henesys |              |
+| Yellow Bennis Chainmail \[F\]                               |    25 | 25 STR, 90 DEX | 2 STR, 22 WDEF        |     7 |                                               |            | Henesys |              |
+| Green Bennis Chainmail \[F\]                                |    25 | 25 STR, 90 DEX | 2 DEX, 22 WDEF        |     7 | Evil Eye                                      |            | Henesys |              |
+| Blue Hunter&rsquo;s Armor \[M\]                             |    30 | 100 DEX        | 20 MP, 26 WDEF        |     7 |                                               |            | Henesys |              |
+| Red Hunter&rsquo;s Armor \[M\]/Red Huntress Armor \[F\]     |    30 | 100 DEX        | 20 HP, 26 WDEF        |     7 |                                               |            | Henesys |              |
+| Green Hunter&rsquo;s Armor \[M\]/Green Huntress Armor \[F\] |    30 | 100 DEX        | 2 DEX, 26 WDEF        |     7 |                                               |            | Henesys |              |
+| Dark Hunter&rsquo;s Armor \[M\]                             |    30 | 100 DEX        | 2 DEX, 26 WDEF        |     7 | Lupin                                         |            | Henesys |              |
+| Black Huntress Armor \[F\]                                  |    30 | 100 DEX        | 1 STR, 1 DEX, 26 WDEF |     7 |                                               |            | Henesys |              |
+| Dark Legolia \[F\]                                          |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Zombie Lupin                                  |            |         |              |
+| Green Legolier \[M\]                                        |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Zombie Lupin                                  |            |         |              |
+| Dark Legolier \[M\]                                         |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Lupin                                         |            |         |              |
+| Brown Piette \[M\]                                          |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Wild Boar, Curse Eye, Copper Drake, Red Drake |            |         |              |
+| Dark Piette \[M\]                                           |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Lorang, Red Drake                             |            |         |              |
+| Brown Piettra \[F\]                                         |    40 | 130 DEX        | 3 STR, 10 MP, 34 WDEF |     7 | Mummydog, Iron Boar, Clang                    |            |         |              |
+| White Piettra \[F\]                                         |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Tortie, Clang                                 |            |         |              |
+| Dark Piettra \[F\]                                          |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Stumpy                                        |            |         |              |
 
 ## Bottoms
 
