@@ -1,7 +1,5 @@
 # Vicloc-available equipment
 
-Event-only equipment is not represented here.
-
 - [Weapons](#weapons)
     - [1H swords](#1h-swords)
         - [Warrior/rogue](#warrior-rogue)
@@ -884,8 +882,7 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Green Hunter&rsquo;s Armor \[M\]/Green Huntress Armor \[F\] |    30 | 100 DEX        | 2 DEX, 26 WDEF        |     7 |                                               |            | Henesys |              |
 | Dark Hunter&rsquo;s Armor \[M\]                             |    30 | 100 DEX        | 2 DEX, 26 WDEF        |     7 | Lupin                                         |            | Henesys |              |
 | Black Huntress Armor \[F\]                                  |    30 | 100 DEX        | 1 STR, 1 DEX, 26 WDEF |     7 |                                               |            | Henesys |              |
-| Dark Legolia \[F\]                                          |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Zombie Lupin                                  |            |         |              |
-| Green Legolier \[M\]                                        |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Zombie Lupin                                  |            |         |              |
+| Dark Legolia \[F\]/Green Legolier \[M\]                     |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Zombie Lupin                                  |            |         |              |
 | Dark Legolier \[M\]                                         |    35 | 115 DEX        | 3 DEX, 30 WDEF        |     7 | Lupin                                         |            |         |              |
 | Brown Piette \[M\]                                          |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Wild Boar, Curse Eye, Copper Drake, Red Drake |            |         |              |
 | Dark Piette \[M\]                                           |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Lorang, Red Drake                             |            |         |              |
