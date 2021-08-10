@@ -943,11 +943,16 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 
 ## Bottoms
 
-| name                | level | stat reqs | stats         | slots | dropped by | awarded by | sold at      | craftable at |
-| :------------------ | ----: | :-------- | :------------ | ----: | :--------- | :--------- | :----------- | :----------- |
-| Ice Jeans           |    16 |           | 3 MP, 13 WDEF |     7 | Shroom     |            | Lith Harbour |              |
-| Sandblasted Jeans   |    16 |           | 3 HP, 13 WDEF |     7 |            |            | Lith Harbour |              |
-| Warfare Pants \[M\] |    26 |           | 5 HP, 19 WDEF |     7 |            |            | Henesys      |              |
+| name                                             | level | stat reqs | stats         | slots | dropped by            | awarded by             | sold at      | craftable at |
+| :----------------------------------------------- | ----: | :-------- | :------------ | ----: | :-------------------- | :--------------------- | :----------- | :----------- |
+| Blue Jean Shorts \[M\]                           |     0 |           | 2 WDEF        |     7 | Slime, Horny Mushroom | \[character creation\] | Southperry   |              |
+| Brown Cotton Shorts \[M\]/Indigo Miniskirt \[F\] |     0 |           | 2 WDEF        |     7 |                       | \[character creation\] | Southperry   |              |
+| Red Miniskirt \[F\]                              |     0 |           | 2 WDEF        |     7 | Snail                 | \[character creation\] | Southperry   |              |
+| Jean Capris \[M\]                                |     5 |           | 5 WDEF        |     7 | Shroom                |                        | Lith Harbour |              |
+| Grey Thick Sweat Pants \[M\]                     |    11 |           | 10 WDEF       |     7 | Blue Snail            |                        | Lith Harbour |              |
+| Ice Jeans                                        |    16 |           | 3 MP, 13 WDEF |     7 | Shroom                |                        | Lith Harbour |              |
+| Sandblasted Jeans                                |    16 |           | 3 HP, 13 WDEF |     7 |                       |                        | Lith Harbour |              |
+| Warfare Pants \[M\]                              |    26 |           | 5 HP, 19 WDEF |     7 |                       |                        | Henesys      |              |
 
 ## Capes
 
