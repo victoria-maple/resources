@@ -59,6 +59,7 @@
     - [Warrior](#warrior-10)
     - [Mage](#mage-4)
     - [Archer](#archer-4)
+    - [Rogue](#rogue-4)
 - [Bottoms](#bottoms)
 - [Capes](#capes)
 - [Gloves](#gloves)
@@ -666,7 +667,7 @@
 | Red-Hearted Earrings     |    50 |           | 30 MDEF          |     5 | Mushmom                          |                                      |         |              |
 | Crystal Flower Earrings  |    55 |           | 35 MDEF          |     5 | Malady                           |                                      |         |              |
 | Holy Cross Earrings      |    55 |           | 35 MDEF          |     5 | Dark Stone Golem                 |                                      |         |              |
-| Pink-Flowered Earrings   |    60 |           | 40 MDEF          |     5 | Zombie Mushmom                   |                                      |         |              |
+| Pink-Flowered Earrings   |    60 |           | 40 MDEF          |     5 | Zombie Mushmom                   | John&rsquo;s Last Present            |         |              |
 | Cecelia&rsquo;s Earrings |    60 |           | 10 WDEF, 55 MDEF |     5 |                                  | APQ                                  |         |              |
 
 \*A single pair of Weighted Earrings is required to complete the &ldquo;Dr.
@@ -889,6 +890,56 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Brown Piettra \[F\]                                         |    40 | 130 DEX        | 3 STR, 10 MP, 34 WDEF |     7 | Mummydog, Iron Boar, Clang                    |            |         |              |
 | White Piettra \[F\]                                         |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Tortie, Clang                                 |            |         |              |
 | Dark Piettra \[F\]                                          |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Stumpy                                        |            |         |              |
+
+### Rogue
+
+| name                                  | level | stat reqs        | stats                 | slots | dropped by                            | awarded by | sold at      | craftable at |
+| :------------------------------------ | ----: | :--------------- | :-------------------- | ----: | :------------------------------------ | :--------- | :----------- | :----------- |
+| Blue/Red/Black Cloth Vest \[M\]/\[F\] |    10 |                  | 10 WDEF               |     7 |                                       |            | Kerning City |              |
+| Blue Nightshift \[M\]                 |    15 | 30 DEX, 35 LUK   | 1 DEX, 14 WDEF        |     7 | Bubbling                              |            | Kerning City |              |
+| Dark Nightshift \[M\]                 |    15 | 30 DEX, 35 LUK   | 1 LUK, 14 WDEF        |     7 | Pig, Ribbon Pig                       |            | Kerning City |              |
+| Brown Nightshift \[F\]                |    15 | 30 DEX, 35 LUK   | 1 DEX, 14 WDEF        |     7 | Axe Stump                             |            | Kerning City |              |
+| Red Nightshift \[F\]                  |    15 | 30 DEX, 35 LUK   | 1 LUK, 14 WDEF        |     7 | Green Mushroom                        |            | Kerning City |              |
+| Red Pao \[M\]                         |    20 | 40 DEX, 50 LUK   | 1 STR, 18 WDEF        |     7 | Stirge                                |            | Kerning City |              |
+| Blue Pao \[M\]                        |    20 | 40 DEX, 50 LUK   | 1 DEX, 18 WDEF        |     7 | Rocky Mask                            |            | Kerning City |              |
+| Black Pao \[M\]                       |    20 | 40 DEX, 50 LUK   | 1 LUK, 18 WDEF        |     7 | Horny Mushroom, Zombie Mushroom       |            | Kerning City |              |
+| Blue Qi Pao \[F\]                     |    20 | 40 DEX, 50 LUK   | 1 STR, 18 WDEF        |     7 |                                       |            | Kerning City |              |
+| Red Qi Pao \[F\]                      |    20 | 40 DEX, 50 LUK   | 1 DEX, 18 WDEF        |     7 |                                       |            | Kerning City |              |
+| Pink Qi Pao \[F\]                     |    20 | 40 DEX, 50 LUK   | 1 LUK, 18 WDEF        |     7 | Stirge                                |            | Kerning City |              |
+| Black Sneak \[M\]                     |    25 | 50 DEX, 65 LUK   | 2 STR, 22 WDEF        |     7 |                                       |            | Kerning City |              |
+| Blue Sneak \[M\]                      |    25 | 50 DEX, 65 LUK   | 2 DEX, 22 WDEF        |     7 | Tortie                                |            | Kerning City |              |
+| Brown Sneak \[M\]                     |    25 | 50 DEX, 65 LUK   | 2 LUK, 22 WDEF        |     7 | Zombie Mushroom                       |            | Kerning City |              |
+| Blood Sneak \[F\]                     |    25 | 45 DEX, 30 LUK   | 20 HP, 22 WDEF        |     7 |                                       |            | Kerning City |              |
+| Sky Sneak \[F\]                       |    25 | 45 DEX, 30 LUK   | 2 DEX, 22 WDEF        |     7 |                                       |            | Kerning City |              |
+| Gold Sneak \[F\]                      |    25 | 45 DEX, 30 LUK   | 1 DEX, 1 LUK, 22 WDEF |     7 | Evil Eye                              |            | Kerning City |              |
+| Dark Sneak \[F\]                      |    25 | 45 DEX, 30 LUK   | 2 LUK, 22 WDEF        |     7 |                                       |            | Kerning City |              |
+| Red Gold Stealer \[M\]                |    30 | 60 DEX, 80 LUK   | 20 HP, 26 WDEF        |     7 |                                       |            | Kerning City |              |
+| Dark Silver Stealer \[M\]             |    30 | 60 DEX, 80 LUK   | 2 DEX, 26 WDEF        |     7 |                                       |            | Kerning City |              |
+| Silver Black Stealer \[M\]            |    30 | 60 DEX, 80 LUK   | 1 DEX, 1 LUK, 26 WDEF |     7 | Wraith                                |            | Kerning City |              |
+| Dark Brown Stealer \[M\]              |    30 | 60 DEX, 80 LUK   | 2 LUK, 26 WDEF        |     7 |                                       |            | Kerning City |              |
+| Red Steal \[F\]                       |    30 | 60 DEX, 80 LUK   | 20 HP, 26 WDEF        |     7 |                                       |            | Kerning City |              |
+| Blue Steal \[F\]                      |    30 | 60 DEX, 80 LUK   | 2 STR, 26 WDEF        |     7 |                                       |            | Kerning City |              |
+| Purple Steal \[F\]                    |    30 | 60 DEX, 80 LUK   | 2 DEX, 26 WDEF        |     7 | Lupin                                 |            | Kerning City |              |
+| Black Steal \[F\]                     |    30 | 60 DEX, 80 LUK   | 2 LUK, 26 WDEF        |     7 |                                       |            | Kerning City |              |
+| Black Knucklevest \[M\]               |    35 | 70 DEX, 95 LUK   | 3 DEX, 30 WDEF        |     7 | Curse Eye                             |            |              |              |
+| Green Knucklevest \[M\]               |    35 | 70 DEX, 95 LUK   | 3 LUK, 30 WDEF        |     7 | Wraith                                |            |              |              |
+| Marine Shadow \[M\]                   |    40 | 80 DEX, 110 LUK  | 3 LUK, 10 MP, 34 WDEF |     7 | Clang, Red Drake                      |            |              |              |
+| Dark Shadow \[M\]                     |    40 | 80 DEX, 110 LUK  | 3 LUK, 10 MP, 34 WDEF |     7 | Stone Golem                           |            |              |              |
+| Red Shadow \[F\]                      |    40 | 80 DEX, 110 LUK  | 3 DEX, 10 MP, 34 WDEF |     7 | Cold Eye                              |            |              |              |
+| Purple Shadow \[F\]                   |    40 | 80 DEX, 110 LUK  | 3 LUK, 10 MP, 34 WDEF |     7 | Lorang, Dark Stone Golem              |            |              |              |
+| Blue Moon \[F\]                       |    50 | 90 DEX, 140 LUK  | 1 STR, 3 LUK, 42 WDEF |     7 | Officer Skeleton                      |            |              |              |
+| Red Moon \[F\]                        |    50 | 90 DEX, 140 LUK  | 1 STR, 3 LUK, 42 WDEF |     7 | Stone Golem, Red Drake                |            |              |              |
+| Maroon Moon \[F\]                     |    50 | 90 DEX, 140 LUK  | 1 DEX, 3 LUK, 42 WDEF |     7 | Drake, Mixed Golem                    |            |              |              |
+| Brown Moon \[F\]                      |    50 | 90 DEX, 140 LUK  | 1 DEX, 3 LUK, 42 WDEF |     7 | Croco, Mummydog, Clang, Tortie, Drake |            |              |              |
+| Blue China \[M\]                      |    50 | 90 DEX, 140 LUK  | 1 STR, 3 LUK, 42 WDEF |     7 | Clang, Wild Kargo                     |            |              |              |
+| Red China \[M\]                       |    50 | 90 DEX, 140 LUK  | 1 DEX, 3 LUK, 42 WDEF |     7 | Sakura Cellion, Ice Drake             |            |              |              |
+| Light Scorpio \[M\]                   |    60 | 100 DEX, 170 LUK | 4 DEX, 1 LUK, 50 WDEF |     7 | Croco, Skeleton Soldier               |            |              |              |
+| Dark Scorpio \[M\]                    |    60 | 100 DEX, 170 LUK | 1 DEX, 4 LUK, 50 WDEF |     7 | King Clang, Red Drake, Tauromacis     |            |              |              |
+| Light Mantis \[F\]                    |    60 | 100 DEX, 170 LUK | 4 DEX, 1 LUK, 50 WDEF |     7 | Mixed Golem                           |            |              |              |
+| Bloody Mantis \[F\]                   |    60 | 100 DEX, 170 LUK | 1 DEX, 4 LUK, 50 WDEF |     7 | King Clang, Commander Skeleton        |            |              |              |
+| Umber Mantis \[F\]                    |    60 | 100 DEX, 170 LUK | 1 DEX, 4 LUK, 50 WDEF |     7 | Commander Skeleton                    |            |              |              |
+| Blue Mystique \[F\]                   |    70 | 110 DEX, 200 LUK | 4 DEX, 2 LUK, 58 WDEF |     7 | Dark Drake                            |            |              |              |
+| Red Mystique \[F\]                    |    70 | 110 DEX, 200 LUK | 2 DEX, 4 LUK, 58 WDEF |     7 | Wild Kargo, Taurospear                |            |              |              |
 
 ## Bottoms
 
