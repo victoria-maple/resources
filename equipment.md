@@ -61,6 +61,7 @@
     - [Archer](#archer-4)
     - [Rogue](#rogue-4)
 - [Bottoms](#bottoms)
+    - [Warrior](#warrior-11)
 - [Capes](#capes)
 - [Gloves](#gloves)
 - [Shields](#shields)
@@ -953,6 +954,44 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Ice Jeans                                        |    16 |           | 3 MP, 13 WDEF |     7 | Shroom                |                        | Lith Harbour |              |
 | Sandblasted Jeans                                |    16 |           | 3 HP, 13 WDEF |     7 |                       |                        | Lith Harbour |              |
 | Warfare Pants \[M\]                              |    26 |           | 5 HP, 19 WDEF |     7 |                       |                        | Henesys      |              |
+
+### Warrior
+
+| name                                                    | level | stat reqs | stats                  | slots | dropped by                                           | awarded by | sold at | craftable at |
+| :------------------------------------------------------ | ----: | :-------- | :--------------------- | ----: | :--------------------------------------------------- | :--------- | :------ | :----------- |
+| Brown/Blue Lolico Pants \[M\]/Rookie/Sophia Pants \[F\] |    10 |           | 12 WDEF                |     7 |                                                      |            | Perion  |              |
+| Brown Corporal Pants \[M\]                              |    15 | 40 STR    | 5 MP, 16 WDEF          |     7 | Octopus                                              |            | Perion  |              |
+| Steel Corporal Pants \[M\]                              |    15 | 40 STR    | 5 HP, 16 WDEF          |     7 | Stirge                                               |            | Perion  |              |
+| Red Sergeant Kilt \[M\]                                 |    20 | 65 STR    | 5 MP, 20 WDEF          |     7 |                                                      |            | Perion  |              |
+| Steel Sergeant Kilt \[M\]                               |    20 | 65 STR    | 5 HP, 20 WDEF          |     7 | Blue Mushroom                                        |            | Perion  |              |
+| Green Ramel Skirt \[F\]                                 |    20 | 65 STR    | 5 MP, 20 WDEF          |     7 | Ligator                                              |            | Perion  |              |
+| Red Ramel Skirt \[F\]                                   |    20 | 65 STR    | 5 HP, 20 WDEF          |     7 |                                                      |            | Perion  |              |
+| Brown Ramel Skirt \[F\]                                 |    20 | 65 STR    | 5 HP, 2 MP, 20 WDEF    |     7 | Jr. Necki                                            |            | Perion  |              |
+| Silver Master Sergeant Kilt \[M\]                       |    25 | 80 STR    | 1 DEX, 24 WDEF         |     7 |                                                      |            | Perion  |              |
+| Orihalcon/Dark Master Sergeant Kilt \[M\]               |    25 | 80 STR    | 1 STR, 24 WDEF         |     7 |                                                      |            | Perion  |              |
+| Sky Shark Skirt \[F\]                                   |    25 | 80 STR    | 5 SPEED, 24 WDEF       |     7 | Rocky Mask                                           |            | Perion  |              |
+| Red Shark Skirt \[F\]                                   |    25 | 80 STR    | 10 HP, 24 WDEF         |     7 |                                                      |            | Perion  |              |
+| Blue Shark Skirt \[F\]                                  |    25 | 80 STR    | 1 STR, 24 WDEF         |     7 | Rocky Mask                                           |            | Perion  |              |
+| Brown Martial Arts Pants \[M\]                          |    30 | 95 STR    | 10 MP, 28 WDEF         |     7 | Fire Boar                                            |            | Perion  |              |
+| Red Martial Arts Pants \[M\]                            |    30 | 95 STR    | 10 HP, 28 WDEF         |     7 | Zombie Mushroom                                      |            | Perion  |              |
+| White Martial Arts Pants \[M\]                          |    30 | 95 STR    | 1 DEX, 28 WDEF         |     7 |                                                      |            | Perion  |              |
+| Black Martial Arts Pants \[M\]                          |    30 | 95 STR    | 1 STR, 28 WDEF         |     7 | Curse Eye                                            |            | Perion  |              |
+| Brown Jangoon Pants \[M\]                               |    40 | 130 STR   | 1 DEX, 10 MP, 36 WDEF  |     7 | Mummydog                                             |            |         |              |
+| Black Jangoon Pants \[M\]                               |    40 | 130 STR   | 1 STR, 10 MP, 36 WDEF  |     7 | Malady                                               |            |         |              |
+| White Jangoon Pants \[M\]                               |    40 | 130 STR   | 1 STR, 10 MP, 36 WDEF  |     7 | Wraith, Dark Stone Golem                             |            |         |              |
+| Red Jangoon Skirt \[F\]                                 |    40 | 130 STR   | 1 DEX, 10 MP, 36 WDEF  |     7 | Ice Drake                                            |            |         |              |
+| Black Jangoon Skirt \[F\]                               |    40 | 130 STR   | 1 STR, 10 MP, 36 WDEF  |     7 | Zombie Lupin                                         |            |         |              |
+| Red Shouldermail Pants \[F\]                            |    50 | 180 STR   | 1 STR, 1 WACC, 44 WDEF |     7 | Clang                                                |            |         |              |
+| Dark Shouldermail Pants \[F\]                           |    50 | 180 STR   | 1 STR, 1 WACC, 44 WDEF |     7 | Sakura Cellion, Tortie                               |            |         |              |
+| Umber Shouldermail Pants \[M\]                          |    50 | 180 STR   | 1 STR, 1 WACC, 44 WDEF |     7 | Drake                                                |            |         |              |
+| Green Orientican Pants \[M\]                            |    60 | 210 STR   | 2 DEX, 1 WACC, 52 WDEF |     7 | Malady                                               |            |         |              |
+| Blue Orientican Pants \[M\]                             |    60 | 210 STR   | 2 DEX, 1 WACC, 52 WDEF |     7 | Skeleton Soldier, Mixed Golem, Commander Skeleton    |            |         |              |
+| Red Orientican Pants \[M\]                              |    60 | 210 STR   | 2 STR, 1 WACC, 52 WDEF |     7 | Dark Stone Golem, Mixed Golem, Ice Drake, Dark Drake |            |         |              |
+| Green Ice Queen Skirt \[F\]                             |    60 | 210 STR   | 2 DEX, 1 WACC, 52 WDEF |     7 | Stone Golem, Ice Drake, Taurospear                   |            |         |              |
+| Red Ice Queen Skirt \[F\]                               |    60 | 210 STR   | 2 STR, 1 WACC, 52 WDEF |     7 | Commander Skeleton                                   |            |         |              |
+| Blue Ice Queen Skirt \[F\]                              |    60 | 210 STR   | 2 STR, 1 WACC, 52 WDEF |     7 | Tauromacis                                           |            |         |              |
+| Aqua Platina Pants \[F\]                                |    70 | 240 STR   | 2 DEX, 2 WACC, 60 WDEF |     7 | Ice Drake, Dark Drake                                |            |         |              |
+| Mithril Platine Pants \[M\]                             |    70 | 240 STR   | 2 STR, 2 WACC, 60 WDEF |     7 | Red Drake                                            |            |         |              |
 
 ## Capes
 
