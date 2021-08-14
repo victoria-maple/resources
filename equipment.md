@@ -69,6 +69,7 @@
 - [Gloves](#gloves)
     - [Warrior](#warrior-12)
     - [Mage](#mage-6)
+    - [Archer](#archer-6)
 - [Shields](#shields)
 - [Shoes](#shoes)
 
@@ -1177,6 +1178,35 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Dark Manute     |    60 | 188 INT, 63 LUK | 3 INT, 1 LUK, 30 MP, 22 WDEF, 3 MDEF |     5 | Dark Stone Golem, King Clang            |                                                        |         | Ellinia      |
 | Brown Lorin     |    70 | 218 INT, 73 LUK | 2 INT, 26 WDEF, 5 MDEF               |     5 | Officer Skeleton, Ice Drake, Dark Drake |                                                        |         |              |
 | Dark Lorin      |    70 | 218 INT, 73 LUK | 4 INT, 1 LUK, 28 WDEF, 7 MDEF        |     5 | Taurospear                              |                                                        |         |              |
+
+### Archer
+
+| name                | level | stat reqs | stats                        | slots | dropped by                              | awarded by                                             | sold at | craftable at |
+| :------------------ | ----: | :-------- | :--------------------------- | ----: | :-------------------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Basic Archer Gloves |    15 | 40 DEX    | 4 WDEF                       |     5 | Orange Mushroom                         |                                                        |         | Henesys      |
+| Blue Diros          |    20 | 60 DEX    | 6 WDEF                       |     5 |                                         | Nella &amp; Kerning City Citizen&rsquo;s Request \[1\] |         | Henesys      |
+| Red Diros           |    20 | 60 DEX    | 1 DEX, 7 WDEF                |     5 |                                         |                                                        |         | Henesys      |
+| Green Diros         |    20 | 60 DEX    | 2 DEX, 8 WDEF                |     5 |                                         |                                                        |         | Henesys      |
+| Blue Savata         |    25 | 75 DEX    | 8 WDEF                       |     5 |                                         |                                                        |         | Henesys      |
+| Red Savata          |    25 | 75 DEX    | 1 DEX, 9 WDEF                |     5 |                                         |                                                        |         | Henesys      |
+| Dark Savata         |    25 | 75 DEX    | 2 DEX, 10 WDEF               |     5 | Ghost Stump                             |                                                        |         | Henesys      |
+| Brown Marker        |    30 | 95 DEX    | 10 WDEF                      |     5 |                                         |                                                        |         | Henesys      |
+| Green Marker        |    30 | 95 DEX    | 1 DEX, 11 WDEF               |     5 | Ligator, Rocky Mask                     |                                                        |         | Henesys      |
+| Black Marker        |    30 | 95 DEX    | 2 DEX, 12 WDEF               |     5 |                                         |                                                        |         | Henesys      |
+| Bronze Scaler       |    35 | 115 DEX   | 12 WDEF                      |     5 |                                         |                                                        |         | Henesys      |
+| Mithril Scaler      |    35 | 115 DEX   | 1 DEX, 13 WDEF               |     5 | Jr. Wraith                              |                                                        |         | Henesys      |
+| Gold Scaler         |    35 | 115 DEX   | 2 DEX, 14 WDEF               |     5 |                                         | John&rsquo;s Present                                   |         | Henesys      |
+| Aqua Brace          |    40 | 130 DEX   | 1 DEX, 14 WDEF               |     5 | Iron Boar                               |                                                        |         | Henesys      |
+| Gold Brace          |    40 | 130 DEX   | 2 DEX, 15 WDEF               |     5 |                                         |                                                        |         | Henesys      |
+| Dark Brace          |    40 | 130 DEX   | 3 DEX, 16 WDEF               |     5 |                                         |                                                        |         | Henesys      |
+| Blue Willow         |    50 | 165 DEX   | 1 DEX, 18 WDEF               |     5 |                                         |                                                        |         | Henesys      |
+| Red Willow          |    50 | 165 DEX   | 2 DEX, 10 MP, 19 WDEF        |     5 | Officer Skeleton                        |                                                        |         | Henesys      |
+| Dark Willow         |    50 | 165 DEX   | 3 DEX, 20 MP, 20 WDEF        |     5 | Drake                                   |                                                        |         | Henesys      |
+| Oaker Garner        |    60 | 190 DEX   | 1 STR, 1 DEX, 22 WDEF        |     5 | Mummydog                                |                                                        |         | Henesys      |
+| Sephia Garner       |    60 | 190 DEX   | 1 STR, 2 DEX, 15 MP, 23 WDEF |     5 | Wild Kargo                              |                                                        |         | Henesys      |
+| Dark Garner         |    60 | 190 DEX   | 1 STR, 3 DEX, 30 MP, 24 WDEF |     5 | King Clang                              |                                                        |         | Henesys      |
+| Blue Eyes           |    70 | 215 DEX   | 2 DEX, 26 WDEF               |     5 | Red Drake, Wild Kargo, Officer Skeleton |                                                        |         |              |
+| Red Cordon          |    80 | 240 DEX   | 1 STR, 2 DEX, 10 MP, 30 WDEF |     5 | Dark Drake                              |                                                        |         |              |
 
 ## Shields
 
