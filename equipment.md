@@ -1028,13 +1028,14 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 
 ## Gloves
 
-| name               | level | stat reqs | stats         | slots | dropped by | awarded by                                                                   | sold at | craftable at |
-| :----------------- | ----: | :-------- | :------------ | ----: | :--------- | :--------------------------------------------------------------------------- | :------ | :----------- |
-| Work Gloves        |    10 |           | 2 WDEF        |     5 | Stirge     | Nella &amp; Kerning City Citizen&rsquo;s Request \[1\], John&rsquo;s Present |         | Kerning City |
-| Yellow Work Gloves |    10 |           | 1 INT, 2 WDEF |     5 |            | \[one of the Maple Island quests with Lucas\]                                |         |              |
-| Red Work Gloves    |    10 |           | 1 STR, 2 WDEF |     5 |            | \[one of the Maple Island quests with Lucas\]                                |         |              |
-| Blue Work Gloves   |    10 |           | 1 DEX, 2 WDEF |     5 |            | \[one of the Maple Island quests with Lucas\]                                |         |              |
-| Purple Work Gloves |    10 |           | 1 LUK, 2 WDEF |     5 |            | \[one of the Maple Island quests with Lucas\]                                |         |              |
+| name               | level | stat reqs | stats          | slots | dropped by | awarded by                                                                                               | sold at | craftable at |
+| :----------------- | ----: | :-------- | :------------- | ----: | :--------- | :------------------------------------------------------------------------------------------------------- | :------ | :----------- |
+| Work Gloves        |    10 |           | 2 WDEF         |     5 | Stirge     | Protect Lucas&rsquo;s Farm, Nella &amp; Kerning City Citizen&rsquo;s Request \[1\], John&rsquo;s Present |         | Kerning City |
+| Grey Work Gloves   |    10 |           | 3 WDEF, 1 MDEF |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+| Red Work Gloves    |    10 |           | 1 STR, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+| Blue Work Gloves   |    10 |           | 1 DEX, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+| Yellow Work Gloves |    10 |           | 1 INT, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+| Purple Work Gloves |    10 |           | 1 LUK, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
 
 ## Shields
 
