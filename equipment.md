@@ -67,6 +67,7 @@
     - [Rogue](#rogue-5)
 - [Capes](#capes)
 - [Gloves](#gloves)
+    - [Warrior](#warrior-12)
 - [Shields](#shields)
 - [Shoes](#shoes)
 
@@ -1120,6 +1121,33 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Blue Work Gloves   |    10 |           | 1 DEX, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
 | Yellow Work Gloves |    10 |           | 1 INT, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
 | Purple Work Gloves |    10 |           | 1 LUK, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+
+### Warrior
+
+| name                    | level | stat reqs | stats                        | slots | dropped by                 | awarded by                                             | sold at | craftable at |
+| :---------------------- | ----: | :-------- | :--------------------------- | ----: | :------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Juno                    |    10 |           | 3 WDEF                       |     5 | Stump                      |                                                        |         | Perion       |
+| Steel Fingerless Gloves |    15 | 40 STR    | 5 WDEF                       |     5 | Horny Mushroom             |                                                        |         | Perion       |
+| Venon                   |    20 | 60 STR    | 7 WDEF                       |     5 |                            | Nella &amp; Kerning City Citizen&rsquo;s Request \[1\] |         | Perion       |
+| White Fingerless Gloves |    25 | 75 STR    | 9 WDEF                       |     5 |                            |                                                        |         | Perion       |
+| Bronze Missel           |    30 | 90 STR    | 11 WDEF                      |     5 |                            |                                                        |         | Perion       |
+| Steel Missel            |    30 | 90 STR    | 1 STR, 12 WDEF               |     5 |                            |                                                        |         | Perion       |
+| Orihalcon Missel        |    30 | 90 STR    | 2 STR, 13 WDEF               |     5 | Wooden Mask, Rocky Mask    |                                                        |         | Perion       |
+| Steel Briggon           |    35 | 125 STR   | 13 WDEF                      |     5 |                            |                                                        |         | Perion       |
+| Yellow Briggon          |    35 | 125 STR   | 1 STR, 14 WDEF               |     5 |                            |                                                        |         | Perion       |
+| Dark Briggon            |    35 | 125 STR   | 2 STR, 15 WDEF               |     5 |                            | John&rsquo;s Present                                   |         | Perion       |
+| Iron Knuckle            |    40 | 150 STR   | 1 STR, 15 WDEF               |     5 |                            |                                                        |         | Perion       |
+| Adamantium Knuckle      |    40 | 150 STR   | 2 STR, 16 WDEF               |     5 |                            |                                                        |         | Perion       |
+| Dark Knuckle            |    40 | 150 STR   | 3 STR, 17 WDEF               |     5 | Stumpy, Stone Golem        |                                                        |         | Perion       |
+| Steel Brist             |    50 | 180 STR   | 1 STR, 19 WDEF               |     5 | Dark Stone Golem           |                                                        |         | Perion       |
+| Mithril Brist           |    50 | 180 STR   | 2 STR, 1 DEX, 20 WDEF        |     5 | Mummydog, Officer Skeleton |                                                        |         | Perion       |
+| Gold Brist              |    50 | 180 STR   | 3 STR, 1 WACC, 21 WDEF       |     5 | Malady                     |                                                        |         | Perion       |
+| Bronze Clench           |    60 | 210 STR   | 1 STR, 23 WDEF               |     5 | Skeledog, Mummydog         |                                                        |         | Perion       |
+| Sapphire Clench         |    60 | 210 STR   | 2 STR, 1 WACC, 24 WDEF       |     5 |                            |                                                        |         | Perion       |
+| Dark Clench             |    60 | 210 STR   | 3 STR, 2 WACC, 25 WDEF       |     5 | King Clang, Wild Kargo     |                                                        |         | Perion       |
+| Bronze Husk             |    70 | 240 STR   | 2 STR, 27 WDEF               |     5 | Officer Skeleton           |                                                        |         |              |
+| Mithril Husk            |    70 | 240 STR   | 3 STR, 1 WACC, 28 WDEF       |     5 | Taurospear                 |                                                        |         |              |
+| Emerald Emperor         |    80 | 270 STR   | 3 STR, 2 DEX, 15 MP, 32 WDEF |     5 | Tauromacis                 |                                                        |         |              |
 
 ## Shields
 
