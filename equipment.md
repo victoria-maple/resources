@@ -64,6 +64,7 @@
     - [Warrior](#warrior-11)
     - [Mage](#mage-5)
     - [Archer](#archer-5)
+    - [Rogue](#rogue-5)
 - [Capes](#capes)
 - [Gloves](#gloves)
 - [Shields](#shields)
@@ -1039,6 +1040,57 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | White Piettra Skirt \[F\]       |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Tortie                                       |            |         |              |
 | Brown Piette Pants \[M\]        |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Wild Boar, Curse Eye, Mummydog, Copper Drake |            |         |              |
 | Dark Piette Pants \[M\]         |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Lorang, Red Drake                            |            |         |              |
+
+### Rogue
+
+| name                                                          | level | stat reqs        | stats                   | slots | dropped by                              | awarded by | sold at      | craftable at |
+| :------------------------------------------------------------ | ----: | :--------------- | :---------------------- | ----: | :-------------------------------------- | :--------- | :----------- | :----------- |
+| Blue/Red/Black Cloth Pants \[M\]/Blue/Black Cloth Pants \[F\] |    10 |                  | 9 WDEF                  |     7 |                                         |            | Kerning City |              |
+| Red Cloth Pants \[F\]                                         |    10 |                  | 9 WDEF                  |     7 | Red Snail                               |            | Kerning City |              |
+| Blue Nightshift Pants \[M\]                                   |    15 | 30 DEX, 35 LUK   | 5 MP, 12 WDEF           |     7 | Bubbling                                |            | Kerning City |              |
+| Dark Nightshift Pants \[M\]                                   |    15 | 30 DEX, 35 LUK   | 5 HP, 12 WDEF           |     7 | Ribbon Pig                              |            | Kerning City |              |
+| Brown Nightshift Pants \[F\]                                  |    15 | 30 DEX, 35 LUK   | 5 HP, 12 WDEF           |     7 | Axe Stump                               |            | Kerning City |              |
+| Red Nightshift Pants \[F\]                                    |    15 | 30 DEX, 35 LUK   | 5 HP, 12 WDEF           |     7 | Green Mushroom                          |            | Kerning City |              |
+| Blue Pao Bottom \[M\]                                         |    20 | 40 DEX, 50 LUK   | 5 MP, 15 WDEF           |     7 | Green Mushroom, Rocky Mask              |            | Kerning City |              |
+| Black Pao Bottom \[M\]                                        |    20 | 40 DEX, 50 LUK   | 5 MP, 15 WDEF           |     7 | Horny Mushroom                          |            | Kerning City |              |
+| Red Pao Bottom \[M\]                                          |    20 | 40 DEX, 50 LUK   | 5 HP, 15 WDEF           |     7 | Stirge                                  |            | Kerning City |              |
+| Red/Blue Qi Pao Pants \[F\]                                   |    20 | 40 DEX, 50 LUK   | 5 MP, 15 WDEF           |     7 |                                         |            | Kerning City |              |
+| Purple Qi Pao Pants \[F\]                                     |    20 | 40 DEX, 50 LUK   | 5 HP, 15 WDEF           |     7 |                                         |            | Kerning City |              |
+| Blue Qi Pao Skirt \[F\]                                       |    22 | 45 DEX, 55 LUK   | 1 STR, 16 WDEF          |     7 |                                         |            | Kerning City |              |
+| Red Qi Pao Skirt \[F\]                                        |    22 | 45 DEX, 55 LUK   | 1 DEX, 16 WDEF          |     7 |                                         |            | Kerning City |              |
+| Purple Qi Pao Skirt \[F\]                                     |    22 | 45 DEX, 55 LUK   | 1 LUK, 16 WDEF          |     7 | Stirge                                  |            | Kerning City |              |
+| Gold Sneak Pants \[F\]                                        |    25 | 50 DEX, 65 LUK   | 10 MP, 18 WDEF          |     7 | Evil Eye                                |            | Kerning City |              |
+| Blood Sneak Pants \[F\]                                       |    25 | 50 DEX, 65 LUK   | 10 HP, 18 WDEF          |     7 |                                         |            | Kerning City |              |
+| Sky Sneak Pants \[F\]                                         |    25 | 50 DEX, 65 LUK   | 1 DEX, 18 WDEF          |     7 |                                         |            | Kerning City |              |
+| Dark Sneak Pants \[F\]                                        |    25 | 50 DEX, 65 LUK   | 1 LUK, 18 WDEF          |     7 |                                         |            | Kerning City |              |
+| Black Sneak Pants \[M\]                                       |    25 | 50 DEX, 65 LUK   | 1 STR, 18 WDEF          |     7 |                                         |            | Kerning City |              |
+| Brown Sneak Pants \[M\]                                       |    25 | 50 DEX, 65 LUK   | 1 DEX, 18 WDEF          |     7 | Horny Mushroom, Zombie Mushroom         |            | Kerning City |              |
+| Dark Brown Sneak Pants \[M\]                                  |    25 | 50 DEX, 65 LUK   | 1 LUK, 18 WDEF          |     7 |                                         |            | Kerning City |              |
+| Silver / Black Stealer Pants \[M\]                            |    30 | 60 DEX, 80 LUK   | 10 MP, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Red / Gold Stealer Pants \[M\]                                |    30 | 60 DEX, 80 LUK   | 10 HP, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Dark Silver Stealer Pants \[M\]                               |    30 | 60 DEX, 80 LUK   | 1 DEX, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Dark Brown Stealer Pants \[M\]                                |    30 | 60 DEX, 80 LUK   | 1 LUK, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Red Steal Pants \[F\]                                         |    30 | 60 DEX, 80 LUK   | 10 HP, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Blue Steal Pants \[F\]                                        |    30 | 60 DEX, 80 LUK   | 1 STR, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Purple Steal Pants \[F\]                                      |    30 | 60 DEX, 80 LUK   | 1 DEX, 21 WDEF          |     7 | Lupin                                   |            | Kerning City |              |
+| Black Steal Pants \[F\]                                       |    30 | 60 DEX, 80 LUK   | 1 LUK, 21 WDEF          |     7 |                                         |            | Kerning City |              |
+| Blue Knucklevest Pants \[M\]                                  |    35 | 70 DEX, 95 LUK   | 1 LUK, 5 MP, 24 WDEF    |     7 | Wild Boar, Wraith                       |            |              |              |
+| Black Knucklevest Pants \[M\]                                 |    35 | 70 DEX, 95 LUK   | 1 LUK, 5 HP, 24 WDEF    |     7 | Curse Eye                               |            |              |              |
+| Khaki Shadow Pants \[M\]                                      |    40 | 80 DEX, 110 LUK  | 1 DEX, 10 MP, 27 WDEF   |     7 | Evil Eye                                |            |              |              |
+| Marine Shadow Pants \[M\]                                     |    40 | 80 DEX, 110 LUK  | 1 LUK, 10 MP, 27 WDEF   |     7 | Clang, Red Drake                        |            |              |              |
+| Red Shadow Pants \[F\]                                        |    40 | 80 DEX, 110 LUK  | 1 DEX, 10 MP, 27 WDEF   |     7 | Cold Eye                                |            |              |              |
+| Purple Shadow Pants \[F\]                                     |    40 | 80 DEX, 110 LUK  | 1 LUK, 10 MP, 27 WDEF   |     7 | Curse Eye, Lorang, Dark Stone Golem     |            |              |              |
+| Red Moon Pants \[F\]                                          |    50 | 90 DEX, 140 LUK  | 1 LUK, 1 WACC, 33 WDEF  |     7 | Stone Golem, Red Drake                  |            |              |              |
+| Maroon Moon Pants \[F\]                                       |    50 | 90 DEX, 140 LUK  | 1 LUK, 1 AVOID, 33 WDEF |     7 | Drake, Mixed Golem                      |            |              |              |
+| Brown Moon Pants \[F\]                                        |    50 | 90 DEX, 140 LUK  | 1 LUK, 1 AVOID, 33 WDEF |     7 | Ligator, Croco, Mummydog, Clang, Tortie |            |              |              |
+| Blue China Pants \[M\]                                        |    50 | 90 DEX, 140 LUK  | 1 LUK, 1 WACC, 33 WDEF  |     7 | Clang                                   |            |              |              |
+| Red China Pants \[M\]                                         |    50 | 90 DEX, 140 LUK  | 1 LUK, 1 AVOID, 33 WDEF |     7 | Sakura Cellion, Ice Drake               |            |              |              |
+| Light Scorpio Pants \[M\]                                     |    60 | 100 DEX, 170 LUK | 2 DEX, 1 AVOID, 39 WDEF |     7 | Croco, Skeleton Soldier                 |            |              |              |
+| Dark Scorpio Pants \[M\]                                      |    60 | 100 DEX, 170 LUK | 2 LUK, 1 AVOID, 39 WDEF |     7 | Red Drake, Tauromacis                   |            |              |              |
+| Light Mantis Pants \[F\]                                      |    60 | 100 DEX, 170 LUK | 2 DEX, 1 AVOID, 39 WDEF |     7 | Mixed Golem                             |            |              |              |
+| Bloody/Umber Mantis Pants \[F\]                               |    60 | 100 DEX, 170 LUK | 2 LUK, 1 AVOID, 39 WDEF |     7 | Commander Skeleton                      |            |              |              |
+| Blue Mystique Pants \[F\]                                     |    70 | 110 DEX, 200 LUK | 2 DEX, 2 AVOID, 45 WDEF |     7 | Dark Drake                              |            |              |              |
+| Red Mystique Pants \[F\]                                      |    70 | 110 DEX, 200 LUK | 2 LUK, 2 AVOID, 45 WDEF |     7 | Red Drake, Wild Kargo, Taurospear       |            |              |              |
 
 ## Capes
 
