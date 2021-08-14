@@ -63,6 +63,7 @@
 - [Bottoms](#bottoms)
     - [Warrior](#warrior-11)
     - [Mage](#mage-5)
+    - [Archer](#archer-5)
 - [Capes](#capes)
 - [Gloves](#gloves)
 - [Shields](#shields)
@@ -1013,6 +1014,32 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Purple Fairy Skirt \[F\]                                 |    28 | 85 INT, 30 LUK  | 1 INT, 16 WDEF, 12 MDEF       |     7 |                          |            | Ellinia |              |
 | Red Amoria Skirt \[F\]                                   |    33 | 100 INT, 35 LUK | 1 INT, 5 MP, 18 WDEF, 14 MDEF |     7 | Ligator                  |            |         |              |
 
+### Archer
+
+| name                            | level | stat reqs      | stats                 | slots | dropped by                                   | awarded by | sold at | craftable at |
+| :------------------------------ | ----: | :------------- | :-------------------- | ----: | :------------------------------------------- | :--------- | :------ | :----------- |
+| Green Avelin Skirt \[F\]        |    10 |                | 9 WDEF                |     7 | Shroom                                       |            | Henesys |              |
+| Yellow Avelin Skirt \[F\]       |    10 |                | 9 WDEF                |     7 | Dark Stump                                   |            | Henesys |              |
+| Archer Pants \[M\]              |    10 |                | 9 WDEF                |     7 |                                              |            | Henesys |              |
+| Green Able Armor Skirt \[F\]    |    15 | 40 DEX         | 5 MP, 12 WDEF         |     7 | Dark Axe Stump, Horny Mushroom, Wild Boar    |            | Henesys |              |
+| Brown Able Skirt \[F\]          |    15 | 40 DEX         | 5 MP, 12 WDEF         |     7 | Bubbling, Ghost Stump                        |            | Henesys |              |
+| Grey Able Skirt \[F\]           |    15 | 40 DEX         | 5 MP, 12 WDEF         |     7 | Green Mushroom                               |            | Henesys |              |
+| Brown Hard Leather Pants \[M\]  |    20 | 65 DEX         | 5 HP, 15 WDEF         |     7 | Pig                                          |            | Henesys |              |
+| Purple Shivermail Skirt \[F\]   |    20 | 65 DEX         | 5 MP, 15 WDEF         |     7 | Dark Axe Stump                               |            | Henesys |              |
+| Green Shivermail Skirt \[F\]    |    20 | 65 DEX         | 3 HP, 2 MP, 15 WDEF   |     7 | Wild Boar                                    |            | Henesys |              |
+| Red Shivermail Skirt \[F\]      |    20 | 65 DEX         | 5 HP, 15 WDEF         |     7 | Blue Mushroom                                |            | Henesys |              |
+| Bennis Chainpants \[M\]         |    25 | 25 STR, 90 DEX | 1 DEX, 18 WDEF        |     7 | Evil Eye                                     |            | Henesys |              |
+| Dark Hunter&rsquo;s Pants \[M\] |    30 | 100 DEX        | 1 DEX, 21 WDEF        |     7 | Lupin                                        |            |         |              |
+| Black Huntress Pants \[F\]      |    30 | 100 DEX        | 10 MP, 21 WDEF        |     7 |                                              |            | Henesys |              |
+| Red Huntress Pants \[F\]        |    30 | 100 DEX        | 10 HP, 21 WDEF        |     7 |                                              |            | Henesys |              |
+| Green Huntress Pants \[F\]      |    30 | 100 DEX        | 1 DEX, 21 WDEF        |     7 |                                              |            | Henesys |              |
+| Green Legolier Pants \[M\]      |    35 | 115 DEX        | 1 DEX, 5 MP, 24 WDEF  |     7 | Dark Axe Stump, Zombie Lupin                 |            |         |              |
+| Dark Legolier Pants \[M\]       |    35 | 115 DEX        | 1 DEX, 5 MP, 24 WDEF  |     7 | Lupin                                        |            |         |              |
+| Brown Piettra Skirt \[F\]       |    40 | 130 DEX        | 1 STR, 10 MP, 27 WDEF |     7 | Iron Boar, Clang                             |            |         |              |
+| White Piettra Skirt \[F\]       |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Tortie                                       |            |         |              |
+| Brown Piette Pants \[M\]        |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Wild Boar, Curse Eye, Mummydog, Copper Drake |            |         |              |
+| Dark Piette Pants \[M\]         |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Lorang, Red Drake                            |            |         |              |
+
 ## Capes
 
 | name                                   | level | stat reqs | stats            | slots | dropped by       | awarded by                | sold at | craftable at |
@@ -1039,10 +1066,10 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 
 ## Shields
 
-| name         | level | stat reqs | stats   | slots | dropped by     | awarded by                                    | sold at      | craftable at |
-| :----------- | ----: | :-------- | :------ | ----: | :------------- | :-------------------------------------------- | :----------- | :----------- |
-| Stolen Fence |     5 |           | 5 WDEF  |     7 | Dark Stump     | \[one of the Maple Island quests with Yoona\] | Lith Harbour |              |
-| Pan Lid      |    10 |           | 10 WDEF |     7 | Green Mushroom |                                               |              |              |
+| name         | level | stat reqs | stats   | slots | dropped by     | awarded by                     | sold at      | craftable at |
+| :----------- | ----: | :-------- | :------ | ----: | :------------- | :----------------------------- | :----------- | :----------- |
+| Stolen Fence |     5 |           | 5 WDEF  |     7 | Dark Stump     | Yoona&rsquo;s Quiz on Shopping | Lith Harbour |              |
+| Pan Lid      |    10 |           | 10 WDEF |     7 | Green Mushroom |                                |              |              |
 
 ## Shoes
 
