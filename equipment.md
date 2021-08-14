@@ -62,6 +62,7 @@
     - [Rogue](#rogue-4)
 - [Bottoms](#bottoms)
     - [Warrior](#warrior-11)
+    - [Mage](#mage-5)
 - [Capes](#capes)
 - [Gloves](#gloves)
 - [Shields](#shields)
@@ -992,6 +993,25 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Blue Ice Queen Skirt \[F\]                              |    60 | 210 STR   | 2 STR, 1 WACC, 52 WDEF |     7 | Tauromacis                                           |            |         |              |
 | Aqua Platina Pants \[F\]                                |    70 | 240 STR   | 2 DEX, 2 WACC, 60 WDEF |     7 | Ice Drake, Dark Drake                                |            |         |              |
 | Mithril Platine Pants \[M\]                             |    70 | 240 STR   | 2 STR, 2 WACC, 60 WDEF |     7 | Red Drake                                            |            |         |              |
+
+### Mage
+
+| name                                                     | level | stat reqs       | stats                         | slots | dropped by               | awarded by | sold at | craftable at |
+| :------------------------------------------------------- | ----: | :-------------- | :---------------------------- | ----: | :----------------------- | :--------- | :------ | :----------- |
+| Black/Green Armine Skirt \[F\]/Blue Training Pants \[M\] |     8 |                 | 6 WDEF, 4 MDEF                |     7 |                          |            | Ellinia |              |
+| Grey / Brown Training Pants \[M\]                        |     8 |                 | 6 WDEF, 4 MDEF                |     7 | Blue Snail               |            | Ellinia |              |
+| Yellow Arianne Skirt \[F\]                               |    13 | 40 INT, 15 LUK  | 5 MP, 10 WDEF, 6 MDEF         |     7 | Octopus                  |            | Ellinia |              |
+| Green Arianne Skirt \[F\]                                |    13 | 40 INT, 15 LUK  | 5 MP, 10 WDEF, 6 MDEF         |     7 | Dark Stump               |            | Ellinia |              |
+| Purple Arianne Skirt \[F\]                               |    13 | 40 INT, 15 LUK  | 5 HP, 10 WDEF, 6 MDEF         |     7 | Green Mushroom           |            | Ellinia |              |
+| Pink Arianne Skirt \[F\]                                 |    13 | 40 INT, 15 LUK  | 5 HP, 10 WDEF, 6 MDEF         |     7 |                          |            | Ellinia |              |
+| White Split Skirt \[F\]                                  |    18 | 55 INT, 20 LUK  | 5 MP, 12 WDEF, 8 MDEF         |     7 | Ribbon Pig, Jr. Necki    |            | Ellinia |              |
+| Black Split Skirt \[F\]                                  |    18 | 55 INT, 20 LUK  | 5 HP, 12 WDEF, 8 MDEF         |     7 |                          |            | Ellinia |              |
+| White Split Pants \[M\]                                  |    18 | 55 INT, 20 LUK  | 5 MP, 12 WDEF, 8 MDEF         |     7 | Axe Stump, Wooden Mask   |            | Ellinia |              |
+| Black Split Pants \[M\]                                  |    18 | 55 INT, 20 LUK  | 5 HP, 12 WDEF, 8 MDEF         |     7 | Ghost Stump, Wooden Mask |            | Ellinia |              |
+| Blue Fairy Skirt \[F\]                                   |    28 | 85 INT, 30 LUK  | 10 MP, 16 WDEF, 12 MDEF       |     7 |                          |            | Ellinia |              |
+| Green Fairy Skirt \[F\]                                  |    28 | 85 INT, 30 LUK  | 5 HP, 5 MP, 16 WDEF, 12 MDEF  |     7 |                          |            | Ellinia |              |
+| Purple Fairy Skirt \[F\]                                 |    28 | 85 INT, 30 LUK  | 1 INT, 16 WDEF, 12 MDEF       |     7 |                          |            | Ellinia |              |
+| Red Amoria Skirt \[F\]                                   |    33 | 100 INT, 35 LUK | 1 INT, 5 MP, 18 WDEF, 14 MDEF |     7 | Ligator                  |            |         |              |
 
 ## Capes
 
