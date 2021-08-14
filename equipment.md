@@ -68,6 +68,7 @@
 - [Capes](#capes)
 - [Gloves](#gloves)
     - [Warrior](#warrior-12)
+    - [Mage](#mage-6)
 - [Shields](#shields)
 - [Shoes](#shoes)
 
@@ -1148,6 +1149,34 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Bronze Husk             |    70 | 240 STR   | 2 STR, 27 WDEF               |     5 | Officer Skeleton           |                                                        |         |              |
 | Mithril Husk            |    70 | 240 STR   | 3 STR, 1 WACC, 28 WDEF       |     5 | Taurospear                 |                                                        |         |              |
 | Emerald Emperor         |    80 | 270 STR   | 3 STR, 2 DEX, 15 MP, 32 WDEF |     5 | Tauromacis                 |                                                        |         |              |
+
+### Mage
+
+| name            | level | stat reqs       | stats                                | slots | dropped by                              | awarded by                                             | sold at | craftable at |
+| :-------------- | ----: | :-------------- | :----------------------------------- | ----: | :-------------------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Lemona          |    15 | 48 INT, 18 LUK  | 4 WDEF                               |     5 | Slime                                   |                                                        |         | Ellinia      |
+| Blue Morrican   |    20 | 62 INT, 23 LUK  | 6 WDEF                               |     5 |                                         | Nella &amp; Kerning City Citizen&rsquo;s Request \[1\] |         | Ellinia      |
+| Green Morrican  |    20 | 62 INT, 23 LUK  | 1 INT, 7 WDEF                        |     5 |                                         |                                                        |         | Ellinia      |
+| Purple Morrican |    20 | 62 INT, 23 LUK  | 2 INT, 8 WDEF                        |     5 |                                         |                                                        |         | Ellinia      |
+| Ocean Mesana    |    25 | 78 INT, 28 LUK  | 8 WDEF                               |     5 | Evil Eye, Wooden Mask                   |                                                        |         | Ellinia      |
+| Blood Mesana    |    25 | 78 INT, 28 LUK  | 1 INT, 9 WDEF                        |     5 |                                         |                                                        |         | Ellinia      |
+| Dark Mesana     |    25 | 78 INT, 28 LUK  | 2 INT, 10 WDEF                       |     5 | Mano                                    |                                                        |         | Ellinia      |
+| Red Lutia       |    30 | 92 INT, 33 LUK  | 10 WDEF                              |     5 | Rocky Mask                              |                                                        |         | Ellinia      |
+| Blue Lutia      |    30 | 92 INT, 33 LUK  | 1 INT, 11 WDEF                       |     5 | Fire Boar                               |                                                        |         | Ellinia      |
+| Black Lutia     |    30 | 92 INT, 33 LUK  | 2 INT, 12 WDEF                       |     5 |                                         |                                                        |         | Ellinia      |
+| Red Noel        |    35 | 108 INT, 38 LUK | 12 WDEF                              |     5 |                                         |                                                        |         | Ellinia      |
+| Blue Noel       |    35 | 108 INT, 38 LUK | 1 INT, 13 WDEF                       |     5 |                                         |                                                        |         | Ellinia      |
+| Dark Noel       |    35 | 108 INT, 38 LUK | 2 INT, 14 WDEF                       |     5 | Jr. Wraith, Lorang                      | John&rsquo;s Present                                   |         | Ellinia      |
+| Red Arten       |    40 | 128 INT, 43 LUK | 1 INT, 14 WDEF                       |     5 | Zombie Mushroom                         |                                                        |         | Ellinia      |
+| Blue Arten      |    40 | 128 INT, 43 LUK | 2 INT, 15 WDEF                       |     5 |                                         |                                                        |         | Ellinia      |
+| Dark Arten      |    40 | 128 INT, 43 LUK | 3 INT, 16 WDEF                       |     5 | Copper Drake                            |                                                        |         | Ellinia      |
+| Red Pennance    |    50 | 145 INT, 50 LUK | 1 INT, 18 WDEF, 1 MDEF               |     5 |                                         |                                                        |         | Ellinia      |
+| Blue Pennance   |    50 | 145 INT, 50 LUK | 2 INT, 15 MP, 19 WDEF, 2 MDEF        |     5 | Officer Skeleton                        |                                                        |         | Ellinia      |
+| Steel Manute    |    60 | 188 INT, 63 LUK | 1 INT, 1 LUK, 22 WDEF, 3 MDEF        |     5 |                                         |                                                        |         | Ellinia      |
+| Gold Manute     |    60 | 188 INT, 63 LUK | 2 INT, 1 LUK, 15 MP, 22 WDEF, 3 MDEF |     5 | Mixed Golem                             |                                                        |         | Ellinia      |
+| Dark Manute     |    60 | 188 INT, 63 LUK | 3 INT, 1 LUK, 30 MP, 22 WDEF, 3 MDEF |     5 | Dark Stone Golem, King Clang            |                                                        |         | Ellinia      |
+| Brown Lorin     |    70 | 218 INT, 73 LUK | 2 INT, 26 WDEF, 5 MDEF               |     5 | Officer Skeleton, Ice Drake, Dark Drake |                                                        |         |              |
+| Dark Lorin      |    70 | 218 INT, 73 LUK | 4 INT, 1 LUK, 28 WDEF, 7 MDEF        |     5 | Taurospear                              |                                                        |         |              |
 
 ## Shields
 
