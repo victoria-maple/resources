@@ -7,10 +7,10 @@
     - **Clarification:** Maple Islanders (i.e. “islanders” in the traditional
       sense) are considered to be effectively vicloc for the purpose of all of
       these rules. The reason for this is that we can think of Maple Islanders
-      as vicloc characters who simply have not left Maple Island yet.
-2. You may not receive any items/mesos from
-   [PC](https://en.wikipedia.org/wiki/Player_character)s that are not vicloc.
-   This includes (viz. all of the items in the following list are disallowed):
+      as vicloc [PC](https://en.wikipedia.org/wiki/Player_character)s who
+      simply have not left Maple Island yet.
+2. You may not receive any items/mesos from PCs that are not vicloc. This
+   includes (viz. all of the items in the following list are disallowed):
     - Selling items to non-vicloc PCs.
     - Buying items from non-vicloc PCs.
     - Trading items and/or mesos with non-vicloc PCs.
@@ -22,9 +22,9 @@
    You may, however, give away items/mesos to any PCs (vicloc or not).
 
     - **Exception:** A maximum of 20 [Soft
-      Feathers](https://maplelegends.com/lib/etc?id=4003005) per vicloc
-      character may be transferred from a non-vicloc character to a vicloc
-      character, for the express purpose of marriage.
+      Feathers](https://maplelegends.com/lib/etc?id=4003005) per vicloc PC may
+      be transferred from a non-vicloc PC to a vicloc PC, for the express
+      purpose of marriage.
     - **Exception:** This rule does not apply to PQ (party quest) items. PQ
       items are items that are automatically destroyed upon entering the PQ
       that they originate from (unless successfully “smuggled” in, of course).
@@ -43,8 +43,8 @@
       means in this context.
 3. You may not operate [gachapon
    machine](https://maplelegends.com/lib/npc?id=9100100)s. Any gachapon tickets
-   that you accrue may be transferred to other characters via the Cash Shop
-   inventory (similar to the situation with islanders).
+   that you accrue may be transferred to non-vicloc PCs via the Cash Shop
+   inventory (similar to the situation with Maple Islanders).
 4. You may not make use of [Myo Myo the Traveling
    Salesman](https://maplelegends.com/lib/cash?id=5450000) (an NX/Cash Shop
    item).
