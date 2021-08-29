@@ -72,11 +72,11 @@
     - **Exception:** This rule does not apply to “just for fun” weapons that
       are otherwise useless (or only seriously used by odd-jobbed characters).
       This includes, but is not limited to:
-        - [Sweet Fork Cake](https://maplelegends.com/lib/equip?id=01472088).
-        - [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063).
-        - [Torch](https://maplelegends.com/lib/equip?id=01302084).
-        - [Maple Flag](https://maplelegends.com/lib/equip?id=01302033).
-        - [Blue Maple Flag](https://maplelegends.com/lib/equip?id=01302065).
+        - [Sweet Fork Cake](https://maplelegends.com/lib/equip?id=01472088),
+        - [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063),
+        - [Torch](https://maplelegends.com/lib/equip?id=01302084),
+        - [Maple Flag](https://maplelegends.com/lib/equip?id=01302033),
+        - [Blue Maple Flag](https://maplelegends.com/lib/equip?id=01302065),
         - [Pumpkin Basket](https://maplelegends.com/lib/equip?id=01302034).
 
 ---
