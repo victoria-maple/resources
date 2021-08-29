@@ -1,9 +1,13 @@
 # Vicloc rules
 
 1. You must leave Maple Island, but upon doing so, you must never leave
-   Victoria Island. “Victoria Island” is defined as the union of: the main
-   continent (Lith Harbour, Perion, Ellinia, Henesys, Kerning City, Nautilus
-   Harbour, Sleepywood), Amoria, & Florina Beach.
+   Victoria Island. “Victoria Island” is defined as the [union][union] of: the
+   main continent (Lith Harbour, Perion, Ellinia, Henesys, Kerning City,
+   Nautilus Harbour, Sleepywood), Amoria, & Florina Beach.
+    - **Clarification:** Maple Islanders (i.e. “islanders” in the traditional
+      sense) are considered to be effectively vicloc for the purpose of all of
+      these rules. The reason for this is that we can think of Maple Islanders
+      as vicloc characters who simply have not left Maple Island yet.
 2. You may not receive any items/mesos from
    [PC](https://en.wikipedia.org/wiki/Player_character)s that are not also
    vicloc, regardless of whether or not you are trading/buying/selling. For
@@ -31,3 +35,5 @@
    ([HS](https://maplelegends.com/lib/skill?id=2311003) mules,
    [SE](https://maplelegends.com/lib/skill?id=3121002) mules,
    [HB](https://maplelegends.com/lib/skill?id=1301007) mules, etc.).
+
+[union]: https://en.wikipedia.org/wiki/Union_(set_theory)
