@@ -78,6 +78,17 @@
         - [Maple Flag](https://maplelegends.com/lib/equip?id=01302033),
         - [Blue Maple Flag](https://maplelegends.com/lib/equip?id=01302065),
         - [Pumpkin Basket](https://maplelegends.com/lib/equip?id=01302034).
+10. The following items — all of which are exclusively obtainable from the
+    Amoria Party Quest (APQ) — may not be acquired by vicloc PCs, unless they
+    are obtained from an APQ run whose participants are all vicloc PCs:
+    - [Onyx Apple](https://maplelegends.com/lib/use?id=2022179),
+    - [Victoria’s Amorian Basket](https://maplelegends.com/lib/use?id=2022181),
+    - [Crystalized Pineapple
+      Chew](https://maplelegends.com/lib/use?id=2022182).
+
+    Vicloc PCs who come into possession of any of these items in an illicit
+    context (i.e. an APQ with one or more non-vicloc participants) may give
+    them away to non-vicloc PCs, or destroy them outright.
 
 ---
 
