@@ -54,7 +54,8 @@
    (including zero).
 7. You may not HP wash nor MP wash. Obviously you can still “bloodwash” (add AP
    into HP permanently) and/or “bluewash” (add AP into MP permanently), as
-   these are not actually washing at all.
+   these [are not actually washing at
+   all](https://en.wiktionary.org/wiki/misnomer).
 8. You may not make use of buff mules
    ([HS](https://maplelegends.com/lib/skill?id=2311003) mules,
    [SE](https://maplelegends.com/lib/skill?id=3121002) mules,
