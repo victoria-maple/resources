@@ -66,6 +66,6 @@
 a: The term “\[to\] white \[a monster\]” is from the sense of getting a
 white-coloured EXP notification when the monster dies. Whiting a monster means
 dealing a plurality (a.k.a. relative majority) of the damage that the monster
-took over its lifetime.
+takes over its entire lifetime.
 
 [union]: https://en.wikipedia.org/wiki/Union_(set_theory)
