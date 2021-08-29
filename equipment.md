@@ -253,18 +253,18 @@
 
 #### Rogue
 
-| name                  | level | speed | stat reqs        | stats   | slots | dropped by              | awarded by | sold at      | craftable at |
-| :-------------------- | ----: | ----: | :--------------- | :------ | ----: | :---------------------- | :--------- | :----------- | :----------- |
-| Triangular Zamadar    |    12 |     4 | 25 DEX, 25 LUK   | 27 WATK |     7 | Stump                   |            | Kerning City |              |
-| Triple-Tipped Zamadar |    17 |     4 | 35 DEX, 40 LUK   | 32 WATK |     7 |                         |            | Kerning City |              |
-| Stinger               |    22 |     4 | 40 DEX, 55 LUK   | 37 WATK |     7 |                         |            | Kerning City |              |
-| Forked Dagger         |    27 |     4 | 55 DEX, 70 LUK   | 42 WATK |     7 |                         |            | Kerning City |              |
-| Reef Claw             |    30 |     3 | 60 DEX, 80 LUK   | 45 WATK |     7 |                         |            | Kerning City |              |
-| Halfmoon Zamadar      |    32 |     4 | 65 DEX, 85 LUK   | 47 WATK |     7 | Blue Mushroom, Iron Hog |            |              |              |
-| Gephart               |    35 |     4 | 70 DEX, 95 LUK   | 50 WATK |     7 | Ligator                 |            |              |              |
-| Dragon Toenail        |    40 |     4 | 80 DEX, 110 LUK  | 55 WATK |     7 | Croco                   |            |              |              |
-| Shinkita              |    50 |     5 | 90 DEX, 150 LUK  | 62 WATK |     7 | Zombie Lupin, Malady    |            |              |              |
-| Kandine               |    70 |     4 | 110 DEX, 190 LUK | 77 WATK |     7 | Dyle, Jr. Balrog        |            |              |              |
+| name                  | level | speed | stat reqs        | stats            | slots | dropped by              | awarded by | sold at      | craftable at |
+| :-------------------- | ----: | ----: | :--------------- | :--------------- | ----: | :---------------------- | :--------- | :----------- | :----------- |
+| Triangular Zamadar    |    12 |     4 | 25 DEX, 25 LUK   | 27 WATK          |     7 | Stump                   |            | Kerning City |              |
+| Triple-Tipped Zamadar |    17 |     4 | 35 DEX, 40 LUK   | 32 WATK          |     7 |                         |            | Kerning City |              |
+| Stinger               |    22 |     4 | 40 DEX, 55 LUK   | 37 WATK          |     7 |                         |            | Kerning City |              |
+| Forked Dagger         |    27 |     4 | 55 DEX, 70 LUK   | 42 WATK          |     7 |                         |            | Kerning City |              |
+| Reef Claw             |    30 |     3 | 60 DEX, 80 LUK   | 45 WATK          |     7 |                         |            | Kerning City |              |
+| Halfmoon Zamadar      |    32 |     4 | 65 DEX, 85 LUK   | 47 WATK          |     7 | Blue Mushroom, Iron Hog |            |              |              |
+| Gephart               |    35 |     4 | 70 DEX, 95 LUK   | 50 WATK          |     7 | Ligator                 |            |              |              |
+| Dragon Toenail        |    40 |     4 | 80 DEX, 110 LUK  | 55 WATK          |     7 | Croco                   |            |              |              |
+| Shinkita              |    50 |     5 | 90 DEX, 150 LUK  | 62 WATK          |     7 | Zombie Lupin, Malady    |            |              |              |
+| Kandine               |    70 |     4 | 110 DEX, 190 LUK | 77 WATK, 3 AVOID |     7 | Dyle, Jr. Balrog        |            |              |              |
 
 ### Spears
 
