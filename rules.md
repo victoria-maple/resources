@@ -60,6 +60,35 @@
    ([HS](https://maplelegends.com/lib/skill?id=2311003) mules,
    [SE](https://maplelegends.com/lib/skill?id=3121002) mules,
    [HB](https://maplelegends.com/lib/skill?id=1301007) mules, etc.).
+9. You may not possess equipment items that exclusively originate from event
+   (e.g. anniversary event, summer event, Christmas event, etc.) sources.
+   Vicloc PCs who are in possession of such items may either give them away to
+   non-vicloc PCs, or destroy them outright.
+    - **Exception:** This rule does not apply to event-only equipment items
+      that do not confer game-mechanical benefits. This includes e.g. most NX
+      equipment, and even [Maple Bandana
+      White](https://maplelegends.com/lib/equip?id=01002515), as it has the
+      same number (7) of slots as any ordinary hat.
+    - **Exception:** This rule does not apply to “just for fun” weapons that
+      are otherwise useless (or only seriously used by odd-jobbed characters).
+      This includes, but is not limited to:
+        - [Sweet Fork Cake](https://maplelegends.com/lib/equip?id=01472088),
+        - [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063),
+        - [Torch](https://maplelegends.com/lib/equip?id=01302084),
+        - [Maple Flag](https://maplelegends.com/lib/equip?id=01302033),
+        - [Blue Maple Flag](https://maplelegends.com/lib/equip?id=01302065),
+        - [Pumpkin Basket](https://maplelegends.com/lib/equip?id=01302034).
+10. The following items — all of which are exclusively obtainable from the
+    Amoria Party Quest (APQ) — may not be acquired by vicloc PCs, unless they
+    are obtained from an APQ run whose participants are all vicloc PCs:
+    - [Onyx Apple](https://maplelegends.com/lib/use?id=2022179),
+    - [Victoria’s Amorian Basket](https://maplelegends.com/lib/use?id=2022181),
+    - [Crystalized Pineapple
+      Chew](https://maplelegends.com/lib/use?id=2022182).
+
+    Vicloc PCs who come into possession of any of these items in an illicit
+    context (i.e. an APQ with one or more non-vicloc participants) may give
+    them away to non-vicloc PCs, or destroy them outright.
 
 ---
 
