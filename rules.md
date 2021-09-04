@@ -3,7 +3,7 @@
 1. You must leave Maple Island, but upon doing so, you must never leave
    Victoria Island. “Victoria Island” is defined as the [union][union] of: the
    main continent (Lith Harbour, Perion, Ellinia, Henesys, Kerning City,
-   Nautilus Harbour, Sleepywood), Amoria, & Florina Beach.
+   Nautilus Harbour, Sleepywood), the Free Market, Amoria, & Florina Beach.
     - **Clarification:** Maple Islanders (i.e. “islanders” in the traditional
       sense) are considered to be effectively vicloc for the purpose of all of
       these rules. The reason for this is that we can think of Maple Islanders
@@ -60,6 +60,9 @@
    ([HS](https://maplelegends.com/lib/skill?id=2311003) mules,
    [SE](https://maplelegends.com/lib/skill?id=3121002) mules,
    [HB](https://maplelegends.com/lib/skill?id=1301007) mules, etc.).
+    - **Clarification:** Public buffs (GM buffs, [Echo of
+      Hero](https://maplelegends.com/lib/skill?id=0001005)) are not considered
+      to be “muling” for the purpose of this rule.
 9. You may not possess equipment items that exclusively originate from event
    (e.g. anniversary event, summer event, Christmas event, etc.) sources.
    Vicloc PCs who are in possession of such items may either give them away to
