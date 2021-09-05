@@ -9,6 +9,10 @@
       these rules. The reason for this is that we can think of Maple Islanders
       as vicloc [PC](https://en.wikipedia.org/wiki/Player_character)s who
       simply have not left Maple Island yet.
+    - **Exception:** Event-only maps (maps that are only accessible for a
+      limited time, during events like anniversary event, summer event,
+      Christmas event, etc.) count as part of Victoria Island for the purpose
+      of this rule.
 2. You may not receive any items/mesos from PCs that are not vicloc. This
    includes (viz. all of the items in the following list are disallowed):
     - Selling items to non-vicloc PCs.
