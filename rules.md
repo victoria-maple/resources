@@ -85,6 +85,10 @@
         - [Maple Flag](https://maplelegends.com/lib/equip?id=01302033),
         - [Blue Maple Flag](https://maplelegends.com/lib/equip?id=01302065),
         - [Pumpkin Basket](https://maplelegends.com/lib/equip?id=01302034).
+    - **Exception:** This rule does not apply to equipment items that are
+      deemed well-balanced (i.e. not overpowered, not game-breaking) for use by
+      vicloc PCs. Exactly what terms like “well-balanced”, “overpowered”,
+      “game-breaking” mean, is left to the reader to decide.
 10. The following items — all of which are exclusively obtainable from the
     Amoria Party Quest (APQ) — may not be acquired by vicloc PCs, unless they
     are obtained from an APQ run whose participants are all vicloc PCs:
