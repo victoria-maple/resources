@@ -170,7 +170,7 @@ Event-only items are not represented here.
 | +3 DEX                    |     10% |             |                       | Dyle                                                                        |                                |
 | +5 HP                     |    100% | 35&nbsp;000 | Kerning City          |                                                                             |                                |
 | +10 HP                    |     60% |             |                       | King Clang, Mushmom, Dyle                                                   |                                |
-| +30 HP                    |     10% |             |                       | Jr. Wraith                                                                  |                                |
+| +30 HP                    |     10% |             |                       | Jr. Wraith                                                                  | APQ                            |
 | +1 WDEF                   |    100% | 35&nbsp;000 | Ellinia, Kerning City |                                                                             | Pia and the Blue Mushroom      |
 | +2 WDEF, +2 MDEF          |     60% |             |                       | Orange Mushroom, Cold Eye, Wild Kargo, Ice Drake, Dark Drake, Mano, Mushmom | Pia and the Blue Mushroom      |
 | +5 WDEF, +3 MDEF, +1 WACC |     10% |             |                       | Snail, Mano                                                                 | KPQ, Pia and the Blue Mushroom |
@@ -219,14 +219,18 @@ Event-only items are not represented here.
 | :----------------------- | ------: | ----: | :------ | :---------------------------------------------------------- | :----------------------------------------------------- |
 | +1 INT                   |    100% |       |         | Bubbling                                                    |                                                        |
 | +2 INT                   |     60% |       |         | Wooden Mask, Mano, Stumpy, Faust                            | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 INT                   |     30% |       |         |                                                             | APQ                                                    |
 | +3 INT                   |     10% |       |         | Stumpy, Faust                                               |                                                        |
 | +1 DEX                   |    100% |       |         | Slime, Sakura Cellion                                       |                                                        |
 | +2 DEX                   |     60% |       |         |                                                             | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 DEX                   |     30% |       |         |                                                             | APQ                                                    |
 | +3 DEX                   |     10% |       |         | Green Mushroom                                              |                                                        |
 | +2 STR                   |     60% |       |         | Tortie, King Clang                                          | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 STR                   |     30% |       |         |                                                             | APQ                                                    |
 | +3 STR                   |     10% |       |         | Mummydog                                                    |                                                        |
 | +1 LUK                   |    100% |       |         | Pig                                                         |                                                        |
 | +2 LUK                   |     60% |       |         | King Clang                                                  | POLLUTED! \<2-Curse Eye\>, The Alligators at the Swamp |
+| +3 LUK                   |     30% |       |         |                                                             | APQ                                                    |
 | +5 HP                    |    100% |       |         | Blue Snail                                                  |                                                        |
 | +10 HP                   |     60% |       |         | Shroom                                                      |                                                        |
 | +20 HP                   |     10% |       |         | Stump, Dyle                                                 |                                                        |
