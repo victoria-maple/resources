@@ -72,6 +72,7 @@
     - [Archer](#archer-6)
 - [Shields](#shields)
 - [Shoes](#shoes)
+- [Rings](#rings)
 
 ## Weapons
 
@@ -175,18 +176,19 @@
 
 ### 1H maces
 
-| name              | level | speed | stat reqs | stats             | slots | dropped by       | awarded by             | sold at                   | craftable at |
-| :---------------- | ----: | ----: | :-------- | :---------------- | ----: | :--------------- | :--------------------- | :------------------------ | :----------- |
-| Wooden Club       |     0 |     5 |           | 19 WATK           |     7 | Stump            | \[character creation\] | Amherst, Lith Harbour     |              |
-| Blue Flowery Tube |     0 |     5 |           | 15 WATK, 10 WACC  |     7 | Bubbling, Lorang |                        |                           |              |
-| Leather Purse     |    15 |     5 | 20 STR    | 34 WATK           |     7 | Red Snail, Slime |                        | Henesys, Nautilus Harbour |              |
-| Hard Briefcase    |    20 |     5 | 25 STR    | 39 WATK           |     7 |                  |                        | Henesys                   |              |
-| Plunger           |    25 |     5 | 30 STR    | 44 WATK           |     7 | Ligator          |                        | Kerning City              |              |
-| Red Flowery Tube  |    25 |     5 |           | 40 WATK, 10 SPEED |     7 | Lorang           |                        |                           |              |
-| Pig Illustrated   |    25 |     3 |           | 42 WATK, 10 WACC  |     7 |                  | Camila&rsquo;s Gem     |                           |              |
-| Purple Tube       |    40 |     5 |           | 55 WATK, 50 MP    |     7 | Lorang           |                        |                           |              |
-| Black Tube        |    50 |     5 |           | 65 WATK, 10 AVOID |     7 | Lorang, Tortie   |                        |                           |              |
-| Colorful Tube     |    70 |     5 |           | 85 WATK, 10 JUMP  |     7 | Tortie           |                        |                           |              |
+| name              | level | speed | stat reqs | stats                     | slots | dropped by       | awarded by                     | sold at                   | craftable at |
+| :---------------- | ----: | ----: | :-------- | :------------------------ | ----: | :--------------- | :----------------------------- | :------------------------ | :----------- |
+| Wooden Club       |     0 |     5 |           | 19 WATK                   |     7 | Stump            | \[character creation\]         | Amherst, Lith Harbour     |              |
+| Blue Flowery Tube |     0 |     5 |           | 15 WATK, 10 WACC          |     7 | Bubbling, Lorang |                                |                           |              |
+| Leather Purse     |    15 |     5 | 20 STR    | 34 WATK                   |     7 | Red Snail, Slime |                                | Henesys, Nautilus Harbour |              |
+| Hard Briefcase    |    20 |     5 | 25 STR    | 39 WATK                   |     7 |                  |                                | Henesys                   |              |
+| Plunger           |    25 |     5 | 30 STR    | 44 WATK                   |     7 | Ligator          |                                | Kerning City              |              |
+| Red Flowery Tube  |    25 |     5 |           | 40 WATK, 10 SPEED         |     7 | Lorang           |                                |                           |              |
+| Pig Illustrated   |    25 |     3 |           | 42 WATK, 10 WACC          |     7 |                  | Camila&rsquo;s Gem             |                           |              |
+| Purple Tube       |    40 |     5 |           | 55 WATK, 50 MP            |     7 | Lorang           |                                |                           |              |
+| Duck Tube         |    50 |     5 |           | 65 WATK, 3 AVOID, 5 SPEED |     7 |                  | Onyx Chest for Bride and Groom |                           |              |
+| Black Tube        |    50 |     5 |           | 65 WATK, 10 AVOID         |     7 | Lorang, Tortie   |                                |                           |              |
+| Colorful Tube     |    70 |     5 |           | 85 WATK, 10 JUMP          |     7 | Tortie           |                                |                           |              |
 
 #### Warrior/mage
 
@@ -325,13 +327,13 @@
 
 ### Wands
 
-| name          | level | speed | stat reqs      | stats                          | slots | dropped by | awarded by       | sold at | craftable at |
-| :------------ | ----: | ----: | :------------- | :----------------------------- | ----: | :--------- | :--------------- | :------ | :----------- |
-| Wooden Wand   |     8 |     6 |                | 23 MATK, 15 WATK               |     7 |            |                  | Ellinia | Ellinia      |
-| Hardwood Wand |    13 |     6 | 40 INT, 15 LUK | 28 MATK, 18 WATK               |     7 |            |                  | Ellinia | Ellinia      |
-| Metal Wand    |    18 |     6 | 55 INT, 20 LUK | 33 MATK, 21 WATK               |     7 | Red Snail  |                  | Ellinia | Ellinia      |
-| Heart Staff   |    54 |     5 | 43 LUK         | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
-| Heart Wand    |    54 |     5 |                | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | premium weddings |         |              |
+| name          | level | speed | stat reqs      | stats                          | slots | dropped by | awarded by | sold at | craftable at |
+| :------------ | ----: | ----: | :------------- | :----------------------------- | ----: | :--------- | :--------- | :------ | :----------- |
+| Wooden Wand   |     8 |     6 |                | 23 MATK, 15 WATK               |     7 |            |            | Ellinia | Ellinia      |
+| Hardwood Wand |    13 |     6 | 40 INT, 15 LUK | 28 MATK, 18 WATK               |     7 |            |            | Ellinia | Ellinia      |
+| Metal Wand    |    18 |     6 | 55 INT, 20 LUK | 33 MATK, 21 WATK               |     7 | Red Snail  |            | Ellinia | Ellinia      |
+| Heart Staff   |    54 |     5 | 43 LUK         | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | Onyx Chest |         |              |
+| Heart Wand    |    54 |     5 |                | 68 MATK, 2 INT, 45 WATK, 50 HP |     7 |            | Onyx Chest |         |              |
 
 #### Mage
 
@@ -468,32 +470,34 @@
 
 ## Hats
 
-| name                                | level | stat reqs | stats          | slots | dropped by                | awarded by                          | sold at                    | craftable at |
-| :---------------------------------- | ----: | :-------- | :------------- | ----: | :------------------------ | :---------------------------------- | :------------------------- | :----------- |
-| Brown Skullcap                      |     5 |           | 5 WDEF         |     7 | Pig                       | Please Bring This Letter To Lucas   | Lith Harbour, Henesys      |              |
-| Green/Red Skullcap                  |     5 |           | 5 WDEF         |     7 |                           | Please Bring This Letter To Lucas   |                            |              |
-| Green Headband                      |     5 |           | 5 WDEF         |     7 | Snail                     | Please Bring This Letter To Lucas   | Lith Harbour               |              |
-| Black/Yellow/Blue Headband          |     5 |           | 5 WDEF         |     7 |                           | Please Bring This Letter To Lucas   | Lith Harbour               |              |
-| Red Headband                        |     5 |           | 1 WACC, 5 WDEF |     7 |                           | Please Bring This Letter To Lucas   | Lith Harbour               |              |
-| Blue Sporty Cap                     |     5 |           | 30 MP, 3 WDEF  |     7 |                           | New Life                            |                            |              |
-| Red Sporty Cap                      |     5 |           | 30 HP, 3 WDEF  |     7 |                           | New Life                            |                            |              |
-| Black/Blue/Red Swimming Cap         |     8 |           | 7 WDEF         |     7 |                           |                                     | Lith Harbour               |              |
-| White Bandana                       |    10 |           | 8 WDEF         |     7 | Slime                     |                                     | Lith Harbour               |              |
-| Red Bandana                         |    10 |           | 1 WACC, 8 WDEF |     7 | Zombie Lupin              |                                     |                            |              |
-| Blue Bandana                        |    10 |           | 1 STR, 8 WDEF  |     7 | Skeledog                  |                                     |                            |              |
-| Old Wisconsin                       |    15 |           | 8 WDEF         |     7 |                           |                                     | Henesys                    |              |
-| Metal Gear                          |    15 |           | 10 WDEF        |     7 |                           |                                     | Lith Harbour, Kerning City |              |
-| Yellow Metal Gear                   |    15 |           | 1 DEX, 12 WDEF |     7 |                           |                                     |                            | Perion       |
-| Blue Metal Gear                     |    15 |           | 1 STR, 12 WDEF |     7 |                           |                                     |                            | Perion       |
-| A Rice Cake on Top of My Head       |    15 |           | 22 WDEF        |     7 |                           | HPQ                                 |                            |              |
-| Blue Baseball Cap                   |    20 |           | 5 WDEF         |     7 | Jr. Necki                 |                                     | Henesys                    |              |
-| Red/Black/Yellow/Brown Baseball Cap |    20 |           | 5 WDEF         |     7 |                           |                                     | Henesys                    |              |
-| Yellow Starry Bandana               |    25 |           | 18 WDEF        |     7 | Axe Stump, Dark Axe Stump |                                     | Kerning City               |              |
-| Red/Sky Blue Starry Bandana         |    25 |           | 18 WDEF        |     7 |                           |                                     | Kerning City               |              |
-| Ribboned Pig Headband               |    25 |           | 50 HP, 12 WDEF |     7 |                           | Mrs. Ming Ming&rsquo;s Second Worry |                            |              |
-| Brown Bamboo Hat                    |    25 |           | 3 LUK, 15 WDEF |     7 |                           | KPQ, Maya and the Weird Medicine    |                            |              |
-| Blue Bamboo Hat                     |    25 | 30 STR    | 3 STR, 15 WDEF |     7 |                           | KPQ                                 |                            |              |
-| Green Bamboo Hat                    |    25 | 30 DEX    | 3 DEX, 15 WDEF |     7 |                           | KPQ                                 |                            |              |
+| name                                | level | stat reqs | stats            | slots | dropped by                | awarded by                          | sold at                    | craftable at |
+| :---------------------------------- | ----: | :-------- | :--------------- | ----: | :------------------------ | :---------------------------------- | :------------------------- | :----------- |
+| Brown Skullcap                      |     5 |           | 5 WDEF           |     7 | Pig                       | Please Bring This Letter To Lucas   | Lith Harbour, Henesys      |              |
+| Green/Red Skullcap                  |     5 |           | 5 WDEF           |     7 |                           | Please Bring This Letter To Lucas   |                            |              |
+| Green Headband                      |     5 |           | 5 WDEF           |     7 | Snail                     | Please Bring This Letter To Lucas   | Lith Harbour               |              |
+| Black/Yellow/Blue Headband          |     5 |           | 5 WDEF           |     7 |                           | Please Bring This Letter To Lucas   | Lith Harbour               |              |
+| Red Headband                        |     5 |           | 1 WACC, 5 WDEF   |     7 |                           | Please Bring This Letter To Lucas   | Lith Harbour               |              |
+| Blue Sporty Cap                     |     5 |           | 30 MP, 3 WDEF    |     7 |                           | New Life                            |                            |              |
+| Red Sporty Cap                      |     5 |           | 30 HP, 3 WDEF    |     7 |                           | New Life                            |                            |              |
+| Black/Blue/Red Swimming Cap         |     8 |           | 7 WDEF           |     7 |                           |                                     | Lith Harbour               |              |
+| White Bandana                       |    10 |           | 8 WDEF           |     7 | Slime                     |                                     | Lith Harbour               |              |
+| Pink Bandana                        |    10 |           | 3 SPEED, 8 WDEF  |     7 |                           | Onyx Chest                          |                            |              |
+| Red Bandana                         |    10 |           | 1 WACC, 8 WDEF   |     7 | Zombie Lupin              |                                     |                            |              |
+| Blue Bandana                        |    10 |           | 1 STR, 8 WDEF    |     7 | Skeledog                  |                                     |                            |              |
+| Old Wisconsin                       |    15 |           | 8 WDEF           |     7 |                           |                                     | Henesys                    |              |
+| Metal Gear                          |    15 |           | 10 WDEF          |     7 |                           |                                     | Lith Harbour, Kerning City |              |
+| Yellow Metal Gear                   |    15 |           | 1 DEX, 12 WDEF   |     7 |                           |                                     |                            | Perion       |
+| Blue Metal Gear                     |    15 |           | 1 STR, 12 WDEF   |     7 |                           |                                     |                            | Perion       |
+| A Rice Cake on Top of My Head       |    15 |           | 22 WDEF          |     7 |                           | HPQ                                 |                            |              |
+| Blue Baseball Cap                   |    20 |           | 5 WDEF           |     7 | Jr. Necki                 |                                     | Henesys                    |              |
+| Red/Black/Yellow/Brown Baseball Cap |    20 |           | 5 WDEF           |     7 |                           |                                     | Henesys                    |              |
+| Red Old Wisconsin                   |    20 |           | 7 AVOID, 12 WDEF |     7 |                           | Onyx Chest for Bride and Groom      |                            |              |
+| Yellow Starry Bandana               |    25 |           | 18 WDEF          |     7 | Axe Stump, Dark Axe Stump |                                     | Kerning City               |              |
+| Red/Sky Blue Starry Bandana         |    25 |           | 18 WDEF          |     7 |                           |                                     | Kerning City               |              |
+| Ribboned Pig Headband               |    25 |           | 50 HP, 12 WDEF   |     7 |                           | Mrs. Ming Ming&rsquo;s Second Worry |                            |              |
+| Brown Bamboo Hat                    |    25 |           | 3 LUK, 15 WDEF   |     7 |                           | KPQ, Maya and the Weird Medicine    |                            |              |
+| Blue Bamboo Hat                     |    25 | 30 STR    | 3 STR, 15 WDEF   |     7 |                           | KPQ                                 |                            |              |
+| Green Bamboo Hat                    |    25 | 30 DEX    | 3 DEX, 15 WDEF   |     7 |                           | KPQ                                 |                            |              |
 
 ### Warrior
 
@@ -667,11 +671,12 @@
 | Lightning Earrings       |    30 |           | 10 MDEF          |     5 |                                  | KPQ, Alex the Runaway Kid            |         |              |
 | Emerald Earrings         |    30 |           | 10 MDEF          |     5 |                                  | KPQ, Alex the Runaway Kid            |         |              |
 | Star Earrings            |    30 |           | 10 MDEF          |     5 |                                  | KPQ                                  |         |              |
+| Red Emerald Earrings     |    30 |           | 2 INT, 5 MDEF    |     5 |                                  | Onyx Chest for Bride and Groom       |         |              |
 | Cat&rsquo;s Eye          |    35 |           | 15 MDEF          |     5 | Evil Eye, Wraith                 | KPQ                                  |         |              |
 | Sapphire Earrings        |    35 |           | 15 MDEF          |     5 | Wild Boar                        | KPQ                                  |         |              |
 | Pansy Earrings           |    45 |           | 25 MDEF          |     5 | Iron Boar                        |                                      |         |              |
 | Skull Earrings           |    50 |           | 30 MDEF          |     5 |                                  | Manji&rsquo;s Old Gladius            |         |              |
-| Red-Hearted Earrings     |    50 |           | 30 MDEF          |     5 | Mushmom                          |                                      |         |              |
+| Red-Hearted Earrings     |    50 |           | 30 MDEF          |     5 | Mushmom                          | Onyx Chest                           |         |              |
 | Crystal Flower Earrings  |    55 |           | 35 MDEF          |     5 | Malady                           |                                      |         |              |
 | Holy Cross Earrings      |    55 |           | 35 MDEF          |     5 | Dark Stone Golem                 |                                      |         |              |
 | Pink-Flowered Earrings   |    60 |           | 40 MDEF          |     5 | Zombie Mushmom                   | John&rsquo;s Last Present            |         |              |
@@ -1119,10 +1124,13 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | :----------------- | ----: | :-------- | :------------- | ----: | :--------- | :------------------------------------------------------------------------------------------------------- | :------ | :----------- |
 | Work Gloves        |    10 |           | 2 WDEF         |     5 | Stirge     | Protect Lucas&rsquo;s Farm, Nella &amp; Kerning City Citizen&rsquo;s Request \[1\], John&rsquo;s Present |         | Kerning City |
 | Grey Work Gloves   |    10 |           | 3 WDEF, 1 MDEF |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
-| Red Work Gloves    |    10 |           | 1 STR, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+| Red Work Gloves    |    10 |           | 1 STR, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm, Onyx Chest                                                                   |         |              |
 | Blue Work Gloves   |    10 |           | 1 DEX, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
 | Yellow Work Gloves |    10 |           | 1 INT, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
 | Purple Work Gloves |    10 |           | 1 LUK, 2 WDEF  |     5 |            | Protect Lucas&rsquo;s Farm                                                                               |         |              |
+| Purple Marker      |    20 |           | 2 DEX, 7 WDEF  |     5 |            | Onyx Chest for Bride and Groom                                                                           |         |              |
+| Red Marker         |    20 |           | 2 INT, 7 WDEF  |     5 |            | Onyx Chest for Bride and Groom                                                                           |         |              |
+| Pink Marker        |    20 |           | 2 LUK, 7 WDEF  |     5 |            | Onyx Chest, Onyx Chest for Bride and Groom                                                               |         |              |
 
 ### Warrior
 
@@ -1222,3 +1230,15 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | White Gomushin    |    11 |           | 2 SPEED, 4 WDEF                                      |     5 | Orange Mushroom |            | Kerning City |              |
 | Whitebottom Boots |    26 |           | 3 SPEED, 13 WDEF                                     |     5 |                 |            | Henesys      |              |
 | Squishy Shoes     |    30 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 3 SPEED, 10 WDEF, 5 MDEF |     5 | King Slime      |            |              |              |
+
+## Rings
+
+| name                         | level | stat reqs | stats                                     | slots | dropped by | awarded by                        | sold at | craftable at |
+| :--------------------------- | ----: | :-------- | :---------------------------------------- | ----: | :--------- | :-------------------------------- | :------ | :----------- | --- |
+| Silver Swan Wedding Ring     |     0 |           | 10 MDEF                                   |     2 |            | \[wedding\]                       |         |              | `   |
+| Golden Heart Wedding Ring    |     0 |           | 10 MDEF                                   |     2 |            | \[wedding\]                       |         |              |
+| Star Gem Wedding Ring        |     0 |           | 30 MDEF                                   |     3 |            | \[wedding\]                       |         |              |
+| Moonstone Wedding Ring       |     0 |           | 30 MDEF                                   |     3 |            | \[wedding\]                       |         |              |
+| Monster Book Ring            |     0 |           |                                           |     0 |            | Introduction to Monster Book      |         |              |
+| Monster Book Ring \<Tier 1\> |     0 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 50 HP, 25 MP  |     0 |            | Upgrading the Monster Book Ring 1 |         |              |
+| Monster Book Ring \<Tier 2\> |     0 |           | 2 STR, 2 DEX, 2 INT, 2 LUK, 100 HP, 50 MP |     0 |            | Upgrading the Monster Book Ring 2 |         |              |
