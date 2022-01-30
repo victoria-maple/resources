@@ -1,10 +1,10 @@
 # Vicloc rules
 
-1. You must leave Maple Island, but upon doing so, you must never leave
-   Victoria Island. “Victoria Island” is defined as the [union][union] of: the
-   main continent (Lith Harbour, Perion, Ellinia, Henesys, Kerning City,
-   Nautilus Harbour, Sleepywood), the Free Market, Amoria, & Florina Beach.
-    - **Clarification:** Maple Islanders (i.e. “islanders” in the traditional
+1. If you leave Maple Island, you must never leave Victoria Island. “Victoria
+   Island” is defined as the [union][union] of: the main continent (Lith
+   Harbour, Perion, Ellinia, Henesys, Kerning City, Nautilus Harbour,
+   Sleepywood), the Free Market, Amoria, & Florina Beach.
+    - **Clarification:** Maple Islanders (i\.e. “islanders” in the traditional
       sense) are considered to be effectively vicloc for the purpose of all of
       these rules. The reason for this is that we can think of Maple Islanders
       as vicloc [PC](https://en.wikipedia.org/wiki/Player_character)s who
@@ -14,7 +14,7 @@
       Christmas event, etc.) count as part of Victoria Island for the purpose
       of this rule.
 2. You may not receive any items/mesos from PCs that are not vicloc. This
-   includes (viz. all of the items in the following list are disallowed):
+   includes (that is, all of the items in the following list are disallowed):
     - Selling items to non-vicloc PCs.
     - Buying items from non-vicloc PCs.
     - Trading items and/or mesos with non-vicloc PCs.
@@ -33,11 +33,11 @@
       items are items that are automatically destroyed upon entering the PQ
       that they originate from (unless successfully “smuggled” in, of course).
     - \***Clarification:** The asterisked (\*) list item above hinges on the
-      fact that if a monster is “whited”ᵃ by a PC, then only that PC — and any
-      other PCs in their party — are immediately capable of looting the
-      items/mesos dropped by said monster. Other PCs must wait for the
-      items’/mesos’ looting restrictions to wear off, and/or must wait to join
-      the party of the PC who whited.
+      fact that if a monster is “whited”<sup>\[a\]</sup> by a PC, then only
+      that PC — and any other PCs in their party — are immediately capable of
+      looting the items/mesos dropped by said monster. Other PCs must wait for
+      the items’/mesos’ looting restrictions to wear off, and/or must wait to
+      join the party of the PC who whited.
     - \***Restriction:** Looting items/mesos dropped by a monster that you did
       not white is usually allowed, provided that the PC who whited was vicloc
       and/or a fellow party member at the time of the monster’s death. However,
@@ -53,7 +53,7 @@
    Salesman](https://maplelegends.com/lib/cash?id=5450000) (an NX/Cash Shop
    item).
 5. You may not make use of Cash Shop “Weather” effects that grant
-   game-mechanical benefits, e.g. WATK/MATK/WDEF/etc. buffs.
+   game-mechanical benefits, e\.g. WATK/MATK/WDEF/etc. buffs.
 6. You may not receive leech, from anyone (vicloc or not), for any price
    (including zero).
 7. You may not HP wash nor MP wash. Obviously you can still “bloodwash” (add AP
@@ -68,11 +68,11 @@
       Hero](https://maplelegends.com/lib/skill?id=0001005)) are not considered
       to be “muling” for the purpose of this rule.
 9. You may not possess equipment items that exclusively originate from event
-   (e.g. anniversary event, summer event, Christmas event, etc.) sources.
+   (e\.g. anniversary event, summer event, Christmas event, etc.) sources.
    Vicloc PCs who are in possession of such items may either give them away to
    non-vicloc PCs, or destroy them outright.
     - **Exception:** This rule does not apply to event-only equipment items
-      that do not confer game-mechanical benefits. This includes e.g. most NX
+      that do not confer game-mechanical benefits. This includes e\.g. most NX
       equipment, and even [Maple Bandana
       White](https://maplelegends.com/lib/equip?id=01002515), as it has the
       same number (7) of slots as any ordinary hat.
@@ -85,6 +85,19 @@
         - [Maple Flag](https://maplelegends.com/lib/equip?id=01302033),
         - [Blue Maple Flag](https://maplelegends.com/lib/equip?id=01302065),
         - [Pumpkin Basket](https://maplelegends.com/lib/equip?id=01302034).
+    - **Exception:** This rule does not apply to equipment items that fill an
+      equipment slot that cannot ordinarily be filled by vicloc-available
+      items. _Typically_, this includes:
+        - pendants,
+        - rings (Monster Book Rings and wedding rings may exist, but cannot
+          fill all four ring slots),
+        - eye accessories,
+        - face accessories,
+        - and all NX equipment items.
+    - **Exception:** In limited cases, event equipment items that would
+      otherwise be disallowed may be allowed if the player deems them to be
+      sufficiently “not overpowered”. It is left to the reader to decide what
+      exactly “overpowered” means in this context.
 10. The following items — all of which are exclusively obtainable from the
     Amoria Party Quest (APQ) — may not be acquired by vicloc PCs, unless they
     are obtained from an APQ run whose participants are all vicloc PCs:
@@ -94,14 +107,14 @@
       Chew](https://maplelegends.com/lib/use?id=2022182).
 
     Vicloc PCs who come into possession of any of these items in an illicit
-    context (i.e. an APQ with one or more non-vicloc participants) may give
+    context (i\.e. an APQ with one or more non-vicloc participants) may give
     them away to non-vicloc PCs, or destroy them outright.
 
----
+## Footnotes
 
-a: The term “\[to\] white \[a monster\]” is from the sense of getting a
+**\[a\]:** The term “\[to\] white \[a monster\]” is from the sense of getting a
 white-coloured EXP notification when the monster dies. Whiting a monster means
-dealing a plurality (a.k.a. relative majority) of the damage that the monster
+dealing a plurality (a\.k\.a. relative majority) of the damage that the monster
 takes over its entire lifetime.
 
 [union]: https://en.wikipedia.org/wiki/Union_(set_theory)

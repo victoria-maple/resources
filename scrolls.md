@@ -1,4 +1,4 @@
-# Particularly notable vicloc-available scrolls
+# Vicloc-available scrolls
 
 Event-only items are not represented here.
 

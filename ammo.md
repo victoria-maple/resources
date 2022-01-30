@@ -1,4 +1,4 @@
-# Particularly notable vicloc-available ammunitions
+# Vicloc-available ammunitions
 
 Event-only items are not represented here.
 
