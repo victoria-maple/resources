@@ -76,6 +76,8 @@
       equipment, and even [Maple Bandana
       White](https://maplelegends.com/lib/equip?id=01002515), as it has the
       same number (7) of slots as any ordinary hat.
+    - **Exception:** This rule does not apply to items that can be obtained
+      ordinarily via vicloc-available (non-event) means.
     - **Exception:** This rule does not apply to “just for fun” weapons that
       are otherwise useless (or only seriously used by odd-jobbed characters).
       This includes, but is not limited to:
