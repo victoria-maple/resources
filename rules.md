@@ -71,13 +71,13 @@
    (e\.g. anniversary event, summer event, Christmas event, etc.) sources.
    Vicloc PCs who are in possession of such items may either give them away to
    non-vicloc PCs, or destroy them outright.
+    - **Clarification:** This rule does not apply to items that can be obtained
+      ordinarily via vicloc-available (non-event) means.
     - **Exception:** This rule does not apply to event-only equipment items
       that do not confer game-mechanical benefits. This includes e\.g. most NX
       equipment, and even [Maple Bandana
       White](https://maplelegends.com/lib/equip?id=01002515), as it has the
       same number (7) of slots as any ordinary hat.
-    - **Exception:** This rule does not apply to items that can be obtained
-      ordinarily via vicloc-available (non-event) means.
     - **Exception:** This rule does not apply to “just for fun” weapons that
       are otherwise useless (or only seriously used by odd-jobbed characters).
       This includes, but is not limited to:
