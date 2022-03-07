@@ -15,9 +15,113 @@
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+&ldquo;Vicloc&rdquo; (a\.k\.a. &ldquo;viclock&rdquo;) stands for
+&ldquo;Victoria-Island-locked&rdquo;. Characters playing in this style of
+MapleStory (who may be called &ldquo;viclockers&rdquo; or &ldquo;Victoria
+Islanders&rdquo;) leave Maple Island<sup>\[1\]</sup>, but upon doing so, never
+leave Victoria Island (a\.k\.a. &ldquo;Vic Island&rdquo; or simply
+&ldquo;Vic&rdquo;). We define Victoria Island as the [union] of the following
+regions of the Maple World:
+
+- The main continent:
+    - Lith Harbour
+    - Perion
+    - Ellinia
+    - Henesys
+    - Kerning City
+    - Nautilus Harbour
+    - Sleepywood
+- Amoria
+- Florina Beach
+- The Free Market
+
+Like Maple Islanders (a\.k\.a. &ldquo;islanders&rdquo;), Victoria Islanders are
+largely isolated from &ldquo;outlanders&rdquo; (non-vicloc characters), albeit
+to a lesser degree. They cannot trade with, nor receive items/mesos from,
+outlanders. They also cannot use [gachapon
+machines](https://maplelegends.com/lib/npc?id=9100100), nor certain Cash Shop
+items like e\.g. [Myo Myo](https://maplelegends.com/lib/cash?id=5450000). For a
+full list of the rules of vicloc, please see [rules\.md](./rules.md).
+
+Because they can never leave Vic Island, viclockers can never advance beyond
+second job. This reflects an earlier version of MapleStory, wherein the
+Training Camp, Maple Island, and Victoria Island collectively made up the known
+Maple World. However, vicloc can be played even in advanced versions of the
+game, which may have other continents (e\.g. Ossyria), pirates, fourth job,
+etc. For this reason, we consider new canonical additions to Victoria Island —
+e\.g. Nautilus Harbour and Amoria — to be part of Victoria Island for the
+purpose of vicloc.
+
+<details>
+<summary>Footnotes for &ldquo;What is &lsquo;vicloc&rsquo;?&rdquo;</summary>
+
+\[1\]: For technical reasons, we consider campers (who never leave the Training
+Camp) and Maple Islanders (who never leave Maple Island) to be [special
+cases][degeneracy] of vicloc characters; however, this is _not usually_ what we
+mean by &ldquo;vicloc&rdquo;.
+
+</details>
+
+[union]: https://en.wikipedia.org/wiki/Union_(set_theory)
+[degeneracy]: https://en.wikipedia.org/wiki/Degeneracy_(mathematics)
+
 ### Why vicloc?
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+Ultimately, the simple answer to this question is: because it&rsquo;s fun. But
+it&rsquo;s worth exploring a little bit about what makes vicloc so special.
+
+When compared to usual MapleStory play in most servers, vicloc settling for
+less &mdash; viz. no third job, no fourth job, and generally lower-level
+characters &mdash; is actually a huge asset. In gameplay styles with these
+higher-powered characters, the higher jobs and higher levels are wildly
+different from the earlier parts of the game, and the rest of the game gets
+warped around them. Thus, the average player&rsquo;s goal is merely to get to
+&ldquo;the endgame&rdquo; as quickly as possible, ultimately forgetting what
+makes MapleStory so good to begin with! Along with this comes undesirable modes
+of gameplay (or lack of gameplay) like washing, leeching, etc., as well as
+serious balance issues due to the inflated power of almost all truly useful
+skills in the game.
+
+With vicloc, there is only MapleStory. Victoria Island is a lot bigger than you
+think, if you care to explore it. And you&rsquo;ll find that vicloc suffers
+from fewer issues of game balance, giving you more time to explore the world
+and do fun stuff with your friends, without having to worry about that stuff.
+
+When compared to Maple Islanding (&ldquo;islanding&rdquo; in the usual sense),
+vicloc is obviously less restrictive, has more content to explore, and more
+jobs &amp; character builds to try out. Vicloc is a [strict
+superset](https://en.wikipedia.org/wiki/Subset) of Maple Islanding, adding just
+enough to the game to make it richer, without running into the issues discussed
+above. Depending on the server/implementation that you&rsquo;re playing on,
+viclockers may have access to off-Maple-Island content such as&hellip;:
+
+- Classes such as:
+    - Warriors (sword(wo)men, fighters, pages, spear(wo)men).
+    - Mages (magicians, fire/poison magicians, ice/lightning magicians,
+      clerics).
+    - Archers (archers, hunters, crossbow(o)men).
+    - Thieves (rogues, assassins, bandits).
+    - Pirates (pirates, brawlers, gunslingers).
+- [Henesys Party Quest](https://maplelegends.com/lib/map?id=910010000) (HPQ).
+- [Kerning Party Quest](https://maplelegends.com/lib/map?id=103000800) (KPQ).
+- [Amoria Party Quest](https://maplelegends.com/lib/map?id=670010100) (APQ).
+- [Sharenian Party Quest](https://maplelegends.com/lib/map?id=990000000) (SPQ;
+  a\.k\.a. Guild Party Quest, GPQ).
+- Many quests &amp; questlines!
+- Area bosses such as:
+    - [Mano](https://maplelegends.com/lib/monster?id=2220000).
+    - [Stumpy](https://maplelegends.com/lib/monster?id=3220000).
+    - [Faust](https://maplelegends.com/lib/monster?id=5220002).
+    - [Mushmom](https://maplelegends.com/lib/monster?id=6130101).
+    - [King Clang](https://maplelegends.com/lib/monster?id=5220000).
+    - [Zombie Mushmom](https://maplelegends.com/lib/monster?id=6300005).
+    - [Dyle](https://maplelegends.com/lib/monster?id=6220000).
+    - [Jr. Balrog](https://maplelegends.com/lib/monster?id=8130100).
+- Countless equipment items to use &amp; to upgrade.
+- Jump quests.
+- The whole island of Victoria to explore, with all of its flora &amp; fauna!
 
 ## General guidelines for viclocking
 
@@ -36,7 +140,7 @@
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
 For maps that can be farmed by more or less any fighting style, the &ldquo;for
-who&rdquo; column is empty. The “abbr.” column lists common
+who&rdquo; column is empty. The &ldquo;abbr.&rdquo; column lists common
 abbreviations/nicknames for the map name, if any.
 
 Popularity legend:
