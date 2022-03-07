@@ -132,8 +132,8 @@ viclockers may have access to off-Maple-Island content such as&hellip;:
   monsters that you can find, and carve your own path.
 - There is always difficulty at the beginning. Vicloc is pretty brutal when
   first starting out, and you&rsquo;ll be aching for potion money. However,
-  with some shrewdness and determination, anyone can surpass this level of
-  financial despair!
+  with some shrewdness and determination, anyone can overcome this financial
+  despair!
 - Defences (WDEF and MDEF) actually matter in vicloc. Yes, you heard that
   right.
 - &hellip;
