@@ -3,7 +3,7 @@
 - [What is &ldquo;vicloc&rdquo;?](#what-is-ldquo-vicloc-rdquo)
     - [Why vicloc?](#why-vicloc)
 - [General guidelines for viclocking](#general-guidelines-for-viclocking)
-- [What does each job actually do, if there are no 3rd/4th jobs, and fewer items?](#what-does-each-job-actually-do-if-there-are-no-3rd-4th-jobs-and-fewer-items)
+- [A comparison of vicloc classes/jobs](#a-comparison-of-vicloc-classes-jobs)
 - [Levelling up](#levelling-up)
     - [Training areas](#training-areas)
 - [Items](#items)
@@ -127,7 +127,19 @@ viclockers may have access to off-Maple-Island content such as&hellip;:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
-## What does each job actually do, if there are no 3rd/4th jobs, and fewer items?
+- Victoria Island is your domain. It&rsquo;s your duty to explore it in all of
+  its niches and obscurities: do the quests that you can find, kill the
+  monsters that you can find, and carve your own path.
+- There is always difficulty at the beginning. Vicloc is pretty brutal when
+  first starting out, and you&rsquo;ll be aching for potion money. However,
+  with some shrewdness and determination, anyone can surpass this level of
+  financial despair!
+- Defences (WDEF and MDEF) actually matter in vicloc. Yes, you heard that
+  right.
+- &hellip;
+- Have fun!!
+
+## A comparison of vicloc classes/jobs
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
