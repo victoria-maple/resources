@@ -902,6 +902,8 @@ Cons:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![A Mixed Golem](./img/mixed-golem.webp "A Mixed Golem")
+
 ### Training areas
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
