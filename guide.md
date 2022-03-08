@@ -904,6 +904,10 @@ Cons:
 
 ![A Mixed Golem](./img/mixed-golem.webp "A Mixed Golem")
 
+Vicloc is similar to some other styles of MapleStory in that EXP mostly comes
+from three sources: grinding, questing, and party questing. This section covers
+grinding/training and party questing for the purpose of gaining EXP.
+
 ### Training areas
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
@@ -943,6 +947,33 @@ Popularity legend:
 ### Party quests
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+Viclockers typically have access to the following four party quests:
+
+- [Henesys Party Quest](https://maplelegends.com/lib/map?id=910010000) (HPQ).
+- [Kerning Party Quest](https://maplelegends.com/lib/map?id=103000800) (KPQ).
+- [Amoria Party Quest](https://maplelegends.com/lib/map?id=670010100) (APQ).
+- [Sharenian Party Quest](https://maplelegends.com/lib/map?id=990000000) (SPQ;
+  a\.k\.a. Guild Party Quest, GPQ).
+
+Of these four, only the first three are typically thought of as useful sources
+of EXP. [Ergoth](https://maplelegends.com/lib/monster?id=9300028), the main
+boss of SPQ, does give some EXP. However, Ergoth is _so_ expensive to kill,
+that by the time you do so, the EXP will likely be modest at best, and
+criminally small considering the resources &amp; effort expended.
+
+The following table compares the remaining three PQs. &ldquo;%&#x29f8;run
+(low)&rdquo; is the percentage of a level that you gain in one run at the
+lowest possible character level. &ldquo;%&#x29f8;run (high)&rdquo; is the
+percentage of a level that you gain in one run at a high character level; for
+HPQ, a &ldquo;high&rdquo; level is considered to be 20, and for APQ, a
+&ldquo;high&rdquo; level is considered to be 80.
+
+| PQ  |        level | EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
+| :-- | -----------: | -------------: | -----------------: | ------------------: |
+| HPQ | 10&ndash;200 |           TODO |               TODO |                TODO |
+| KPQ |  21&ndash;30 |           TODO |               TODO |                TODO |
+| APQ | 40&ndash;200 |           TODO |               TODO |                TODO |
 
 ## Items
 
