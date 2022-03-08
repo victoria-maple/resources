@@ -741,6 +741,7 @@ Pros:
 Cons:
 
 - No multi-target attacks.
+- Not quite as impressive DPS as the assassin.
 - Not ranged, and thus has to constantly be adjacent to their foe(s). Haste
   helps to ameliorate this issue relative to warriors and beginners.
 - Extremely squishy, having no defences whatsoever.
