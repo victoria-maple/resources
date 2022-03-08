@@ -210,10 +210,10 @@ From a bird&rsquo;s-eye view, most warriors (with the exception of some odd
 ones) tend to play very similarly: their bread-and-butter is the use of [Power
 Strike](https://maplelegends.com/lib/skill?id=1001004) and [Slash
 Blast](https://maplelegends.com/lib/skill?id=1001005) in conjunction with melee
-weapons. In addition, warriors make for very strong support, as well: each of
-the three warrior second-job classes has its own party support skill (or two
-such skills, in the case of spear(wo)man). And, last but not least, warriors
-are also characterised by their natural durability.
+weapons. In addition, warriors make for very strong support: each of the three
+warrior second-job classes has its own party support skill (or two such skills,
+in the case of spear(wo)man). And, last but not least, warriors are also
+characterised by their extremely high natural durability.
 
 Their ability to easily survive and support the party, combined with their
 ability to effectively deal multi-target and single-target DPS from first job
