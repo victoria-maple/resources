@@ -767,9 +767,9 @@ combatant. But the comparison to warriors &amp; archers is not enough &mdash;
 pirates have a large arsenal of unique abilities that makes them a stunningly
 unique addition to the vicloc class r&#xe9;pertoire.
 
-All pirates benefit from relatively comfortable WACC (gunslingers much more so
-than brawlers, but brawlers are still better off than warriors), and from the
-mobility granted by [Dash](https://maplelegends.com/lib/skill?id=5001005).
+All pirates benefit from relatively comfortable accuracy (gunslingers much more
+so than brawlers, but brawlers are still better off than warriors), and from
+the mobility granted by [Dash](https://maplelegends.com/lib/skill?id=5001005).
 
 #### Brawler
 
