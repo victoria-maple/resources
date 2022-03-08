@@ -962,18 +962,33 @@ boss of SPQ, does give some EXP. However, Ergoth is _so_ expensive to kill,
 that by the time you do so, the EXP will likely be modest at best, and
 criminally small considering the resources &amp; effort expended.
 
-The following table compares the remaining three PQs. &ldquo;%&#x29f8;run
+The following table compares the remaining three PQs. &ldquo;Stage EXP&rdquo;
+is the EXP granted by a single complete run of the PQ, from clearing the stages
+alone (i\.e. not counting EXP from killing monsters). &ldquo;%&#x29f8;run
 (low)&rdquo; is the percentage of a level that you gain in one run at the
 lowest possible character level. &ldquo;%&#x29f8;run (high)&rdquo; is the
 percentage of a level that you gain in one run at a high character level; for
 HPQ, a &ldquo;high&rdquo; level is considered to be 20, and for APQ, a
-&ldquo;high&rdquo; level is considered to be 80.
+&ldquo;high&rdquo; level is considered to be 80. The EXP values for APQ do not
+take into account the EXP gained from farming [Lip Lock
+Key](https://maplelegends.com/lib/etc?id=4031593)s.
 
-| PQ  |        level | EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
-| :-- | -----------: | -------------: | -----------------: | ------------------: |
-| HPQ | 10&ndash;200 |           TODO |               TODO |                TODO |
-| KPQ |  21&ndash;30 |           TODO |               TODO |                TODO |
-| APQ | 40&ndash;200 |           TODO |               TODO |                TODO |
+| PQ  | party size |        level |    stage EXP | EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
+| :-- | ---------: | -----------: | -----------: | -------------: | -----------------: | ------------------: |
+| HPQ |  3&ndash;6 | 10&ndash;200 |  3&numsp;200 |    4&numsp;600 |           268\.07% |             22\.75% |
+| KPQ |  3&ndash;6 |  21&ndash;30 |  6&numsp;000 |   14&numsp;900 |            61\.06% |             15\.57% |
+| APQ |  6&ndash;6 | 40&ndash;200 | 72&numsp;000 |   73&numsp;000 |            24\.81% |              2\.08% |
+
+<!--
+HPQ  3-run avg:  4635.333...
+KPQ 10-run avg: 14913.0
+APQ  1-run avg: 72350.0
+-->
+
+As you can see, APQ is only a good source of EXP prior to probably about level
+&#x2248;60, although it allows characters of any level 40 and above. Note that
+APQ cannot be spammed like HPQ and KPQ can; typically, you can only do up to
+two APQs per day (although three is technically possible).
 
 ## Items
 
