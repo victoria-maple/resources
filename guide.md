@@ -948,6 +948,11 @@ Popularity legend:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![A selection of vicloc-available overalls: Red Sauna Robe, Dark Crusader
+Chainmail, Dark Requierre, Red Tai, Purple Avenger, Red
+Viska](./img/overalls.webp
+"A selection of vicloc-available overalls: Red Sauna Robe, Dark Crusader Chainmail, Dark Requierre, Red Tai, Purple Avenger, Red Viska")
+
 ### Making money
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
@@ -963,10 +968,18 @@ and that its implementation is the same as MapleLegends&rsquo;s.
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![A maple leaf in a
+box](./img/maple-leaf-in-a-box.webp "A maple leaf in a box")
+
 ## Marriage
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Moonstone Wedding
+Ring](./img/moonstone-wedding-ring.webp "Moonstone Wedding Ring")
+
 ## Endgame
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Ergoth](./img/ergoth.webp "Ergoth")
