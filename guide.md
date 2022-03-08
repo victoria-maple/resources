@@ -20,9 +20,12 @@
     - [🏴‍☠️ Pirates](#️-pirates)
 - [Levelling up](#levelling-up)
     - [Training areas](#training-areas)
+    - [Party quests](#party-quests)
 - [Items](#items)
     - [Making money](#making-money)
     - [Monster Book Ring](#monster-book-ring)
+- [Notable quests](#notable-quests)
+- [Marriage](#marriage)
 - [Endgame](#endgame)
 
 ## What is &ldquo;vicloc&rdquo;?
@@ -158,7 +161,9 @@ viclockers may have access to off-Maple-Island content such as&hellip;:
   despair!
 - Defences (WDEF and MDEF) actually matter in vicloc. Yes, you heard that
   right.
-- \[&hellip;\]
+- Events are your best friend. Events allow viclockers access to activities,
+  locations, and items that they wouldn&rsquo;t otherwise have access to.
+- \[&hellip;TODO&hellip;\]
 - Have fun!!
 
 ## A comparison of vicloc classes/jobs
@@ -684,6 +689,10 @@ Popularity legend:
 |  50&ndash;60 | ranged          | [Golem&rsquo;s Castle Ruins](https://maplelegends.com/lib/map?id=105040320)           |                    | Stone&nbsp;Golem                           | Mixed&nbsp;Golem                                                   |  &#x2696;  | Small map with lots of safe spots.                                                                                                                                          |
 | 55&ndash;200 |                 | [The forest of Golem](https://maplelegends.com/lib/map?id=105040306)                  | FoG, TfoG          | Mixed&nbsp;Golem                           | Dark&nbsp;Stone&nbsp;Golem, Curse&nbsp;Eye, Lupin                  | &#x1f31f;  |                                                                                                                                                                             |
 
+### Party quests
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
 ## Items
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
@@ -693,6 +702,17 @@ Popularity legend:
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
 ### Monster Book Ring
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+**NOTE:** This section assumes that your implementation has the Monster Book,
+and that its implementation is the same as MapleLegends&rsquo;s.
+
+## Notable quests
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+## Marriage
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
