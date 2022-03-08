@@ -20,6 +20,8 @@
         - [Assassin](#assassin)
         - [Bandit](#bandit)
     - [&#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
+        - [Brawler](#brawler)
+        - [Gunslinger](#gunslinger)
 - [Levelling up](#levelling-up)
     - [Training areas](#training-areas)
     - [Party quests](#party-quests)
@@ -239,7 +241,7 @@ Pros:
 
 - Rage is by far the most powerful sustainable damage buff in the game.
 - Good multi-target and single-target DPS from first job onwards, and
-  comfortability and melee combat.
+  comfortability in melee combat.
     - Their solid multi-target DPS and comfortability in melee combat makes
       them extremely good at farming crowded maps like
       [FoG](https://maplelegends.com/lib/map?id=105040306).
@@ -291,7 +293,7 @@ Pros:
 - Threaten is a powerful party support skill with both offensive and defensive
   effects, very useful during boss fights.
 - Good multi-target and single-target DPS from first job onwards, and
-  comfortability and melee combat.
+  comfortability in melee combat.
     - Their solid multi-target DPS and comfortability in melee combat makes
       them extremely good at farming crowded maps like
       [FoG](https://maplelegends.com/lib/map?id=105040306).
@@ -338,7 +340,7 @@ Pros:
 - Hyper Body &amp; Iron Will form the most powerful party-defence arsenal in
   the game.
 - Good multi-target and single-target DPS from first job onwards, and
-  comfortability and melee combat.
+  comfortability in melee combat.
     - Their solid multi-target DPS and comfortability in melee combat makes
       them extremely good at farming crowded maps like
       [FoG](https://maplelegends.com/lib/map?id=105040306).
@@ -691,6 +693,8 @@ Pros:
 - Naturally high AVOID.
 - No accuracy issues.
 - Benefits abnormally highly from increases in WATK (e\.g. Rage).
+- Has the ability to use [Dark
+  Sight](https://maplelegends.com/lib/skill?id=4001003).
 
 Cons:
 
@@ -701,7 +705,8 @@ Cons:
 - Not _quite_ as long-ranged as archers. Also not quite as accurate.
 - Due to their extreme sensitivity to WATK, the DPS of an assassin is difficult
   to optimise. Truly powerful stars are hard to come by, and scrolling claws is
-  a nightmare. Also crippled more by lack of good WATK buffs.
+  a nightmare. Also crippled more (in comparison to other classes) by lack of
+  good WATK buffs.
 
 </details>
 
@@ -737,6 +742,8 @@ Pros:
 - Naturally high AVOID.
 - No accuracy issues.
 - Benefits abnormally highly from all-stat equipment items.
+- Has the ability to use [Dark
+  Sight](https://maplelegends.com/lib/skill?id=4001003).
 
 Cons:
 
@@ -752,6 +759,144 @@ Cons:
 ### &#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+The two main paths of the pirate are quite dissimilar from one another: the
+brawler takes after the warrior, being a sturdy STR-based melee combatant,
+whereas the gunslinger takes after the archer, being a squishy DEX-based ranged
+combatant. But the comparison to warriors &amp; archers is not enough &mdash;
+pirates have a large arsenal of unique abilities that makes them a stunningly
+unique addition to the vicloc class r&#xe9;pertoire.
+
+All pirates benefit from relatively comfortable WACC (gunslingers much more so
+than brawlers, but brawlers are still better off than warriors), and from the
+mobility granted by [Dash](https://maplelegends.com/lib/skill?id=5001005).
+
+#### Brawler
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+**Elevator pitch:** The most versatile bully in all the land.
+
+Brawlers are, like warriors, sturdy STR-based melee combatants. However, unlike
+warriors, their weapon of choice is the knuckler; as such, they enjoy a more
+fluid &amp; versatile method of combat. Brawlers have more attacks at their
+disposal than any other class in the game, and a skilled brawler is capable of
+controlling &amp; eliminating monsters in a way that is unmatched by any other
+class. Furthermore, they benefit from higher accuracy than warriors, better
+mobility than warriors, a [Dark
+Sight](https://maplelegends.com/lib/skill?id=4001003)-like skill in the form of
+[Oak Barrel](https://maplelegends.com/lib/skill?id=5101007), and the ability to
+engage in ranged combat (with [Double
+Shot](https://maplelegends.com/lib/skill?id=5001003)) if need be. On the other
+hand, brawlers may be sturdier than most, but they are still squishy in
+comparison to warriors. And the brawler has no true &ldquo;party support&rdquo;
+skills _per se_.
+
+<details>
+<summary>Pros &amp; cons</summary>
+
+Pros:
+
+- Very solid multi-target and single-target DPS from first job onwards, and
+  comfortability in melee combat.
+    - Their solid multi-target DPS and comfortability in melee combat makes
+      them extremely good at farming crowded maps like
+      [FoG](https://maplelegends.com/lib/map?id=105040306).
+- Highly mobile, due to [Dash](https://maplelegends.com/lib/skill?id=5001005)
+  and [Corkscrew Blow](https://maplelegends.com/lib/skill?id=5101004).
+- Naturally durable.
+- Extremely large number of attacks in their arsenal, making their fighting
+  style powerful in its versatility.
+    - Has a [Rush](https://maplelegends.com/lib/skill?id=1121006)-like skill in
+      the form of Corkscrew Blow (and, to a lesser extent, [Backspin
+      Blow](https://maplelegends.com/lib/skill?id=5101002)).
+    - Has the ability to consistently (i\.e. with 100% probability) stun
+      monsters with Backspin Blow and [Double
+      Uppercut](https://maplelegends.com/lib/skill?id=5101003).
+    - Very high attack speed with [Flash
+      Fist](https://maplelegends.com/lib/skill?id=5001001).
+- Higher accuracy than warriors.
+- Ability to engage in ranged combat with Double Shot, if need be.
+- Has a Dark Sight-like skill in the form of Oak Barrel.
+
+Cons:
+
+- No real party support skills other than the ability to shove and stun
+  monsters (and Oak Barrel, in the case of
+  [SPQ](https://maplelegends.com/lib/map?id=990000000)).
+- Not quite as high potential for single-target or multi-target DPS, when
+  compared to certain other classes.
+- Although they are more durable than most, brawlers are still squishy in
+  comparison to warriors.
+- Because of their large number of attacks and the intricate mechanics
+  involved, brawlers are perhaps the most difficult class to play competently.
+  More skilled brawlers will be capable of more devastating attacks.
+- Although they have more accuracy than warriors, they can still suffer from
+  accuracy issues (with the exception of some odd ones, e\.g. [DEX
+  brawlers](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-brawler)).
+- Although they are capable of ranged combat, it is very poor.
+
+</details>
+
+#### Gunslinger
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+**Elevator pitch:** Yeet haw!
+
+Gunslingers are, like archers, squishy DEX-based ranged combatants. However,
+unlike archers, their weapon of choice is the gun. As such, they play somewhat
+more like assassins: they can attack while in mid-air; they are naturally more
+mobile, due to [Dash](https://maplelegends.com/lib/skill?id=5001005),
+[Wings](https://maplelegends.com/lib/skill?id=5201005), and [Recoil
+Shot](https://maplelegends.com/lib/skill?id=5201006); they are ranged, but
+slightly less ranged than archers; and their focus is more oriented towards
+sheer single-target DPS. Gunslingers are not, however, totally single-target
+&mdash; three of the attacks in their ranged arsenal ([Invisible
+Shot](https://maplelegends.com/lib/skill?id=5201001),
+[Grenade](https://maplelegends.com/lib/skill?id=5201002), and [Blank
+Shot](https://maplelegends.com/lib/skill?id=5201004)) are multi-target, albeit
+less powerful damage-wise than the archer&rsquo;s multi-target attacks. Like
+pirates in general, one of the main strengths of the gunslinger is versatility:
+they are arguably the single most mobile class in the game, they have a large
+variety of attacks at their disposal, and they can attack in mid-air.
+Furthermore, their focus on single-target DPS makes them competitive with
+assassins. In exchange, the gunslinger is essentially defenceless, and has no
+party support skills. This makes them like archers in their reliance on party
+members in difficult situations.
+
+<details>
+<summary>Pros &amp; cons</summary>
+
+Pros:
+
+- Very high single-target DPS, making them competitive with assassins.
+- Perhaps the single most mobile class in the game, due to Dash, Wings, and
+  Recoil Shot.
+- They are capable of multi-target attacks.
+- They have a large variety of attacks in their arsenal, making their fighting
+  style powerful in its versatility.
+    - Extremely high (indeed, the highest in the game) attack speed with
+      [Double Shot](https://maplelegends.com/lib/skill?id=5001003).
+    - Invisible Shot is capable of hitting up to three monsters through a
+      wall/barrier.
+    - Blank Shot allows them to consistently (i\.e. with 100% probability) stun
+      up to three non-boss monsters for four seconds.
+    - Grenade allows them to attack from above their foe(s).
+- They can attack in mid-air.
+- Extremely high accuracy, very similar to archers.
+
+Cons:
+
+- Extremely squishy, as a result of having virtually no defences.
+- No real party support skills other than the ability to stun monsters.
+- Although they are certainly capable of multi-target attacks, their DPS in
+  this respect is not amazing.
+- When within melee range of their foe(s), gunslingers become somewhat
+  crippled, although they still have Grenade and [Somersault
+  Kick](https://maplelegends.com/lib/skill?id=5001002) at their disposal.
+
+</details>
 
 ## Levelling up
 
