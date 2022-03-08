@@ -17,6 +17,8 @@
         - [Hunter](#hunter)
         - [Crossbow(o)man](#crossbow-o-man)
     - [&#x1f977; Thieves](#x1f977-thieves)
+        - [Assassin](#assassin)
+        - [Bandit](#bandit)
     - [&#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
 - [Levelling up](#levelling-up)
     - [Training areas](#training-areas)
@@ -409,9 +411,11 @@ Pros:
 
 Cons:
 
+- No multi-target attacks.
 - Although their single-target DPS is very impressive, some physical attackers
   may be able to outdo them against monsters that are vulnerable to physical
   attacks.
+- Their attack speed is somewhat slower than most other classes.
 - Although the poison effect deals damage based on the MAXHP of the monster,
   most monsters with very high MAXHP are bosses, which are unaffected by the
   poisoning effect.
@@ -469,6 +473,7 @@ Cons:
 
 - Although their multi-target DPS is extremely impressive, their single-target
   DPS is unremarkable (although still better than e\.g. clerics).
+- Their attack speed is somewhat slower than most other classes.
 - Crippled in the presence of monsters that are resistant and/or immune to ice
   and/or lightning.
 - Extremely fragile when dispelled, due to losing Magic Guard.
@@ -520,6 +525,8 @@ Cons:
   in general (single-target or multi-target) is very poor, made only mildly
   better by the addition of [Holy
   Arrow](https://maplelegends.com/lib/skill?id=2301005).
+    - Their single-target attack speed is somewhat slower than most other
+      classes.
 - Unable to effectively train on non-undead monsters, and crippled in the
   presence of monsters that are resistant to holy.
 - Extremely fragile when dispelled, due to losing Magic Guard and Invincible.
@@ -598,7 +605,8 @@ Cons:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
-**Elevator pitch:** Incredible damage, incredible versatility.
+**Elevator pitch:** Extreme single-target damage and extreme multi-target
+damage: why pick only one?
 
 Crossbow(o)men differentiate themselves from hunters in two ways: their choice
 of weapon (crossbows), and their use of [Iron
@@ -645,6 +653,101 @@ Cons:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+Like archers, thieves are valued for their single-target DPS. Unlike archers,
+however, they lack multi-target attacks entirely. What they lack in
+multi-target DPS, thieves make up for by having extraordinarily high
+single-target DPS, a more mobile &amp; flexible fighting style, and party
+utility with the use of [Haste](https://maplelegends.com/lib/skill?id=4101004).
+Again like archers, thieves are characteristically squishy, as they have almost
+no defences other than their naturally high AVOID.
+
+#### Assassin
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+**Elevator pitch:** Portable boss-shredder.
+
+Assassins differentiate themselves from bandits mostly by being truly ranged:
+they use claws, rather than daggers. With this comes some versatility &mdash;
+especially because assassins are capable of attacking in mid-air &mdash; but
+also a difficulty with fighting in crowded areas, and thus a difficulty with
+farming &amp; with gaining EXP. Furthermore, the assassin&rsquo;s damage is
+considerably less stable than the bandit&rsquo;s, making it even more difficult
+to effectively fight non-boss monsters. However, assassins shine when it comes
+to bosses: they are capable of dishing out perhaps the largest single-target
+DPS in the game, and their single-target DPS is extremely strong for their
+entire career.
+
+<details>
+<summary>Pros &amp; cons</summary>
+
+Pros:
+
+- Capable of dishing out perhaps the largest single-target DPS in the game.
+  Their single-target DPS is extremely strong for their entire career.
+- Haste makes them very mobile, and an asset to their party.
+- Truly ranged, and thus capable of fighting from a distance.
+- Can attack in mid-air.
+- Naturally high AVOID.
+- No accuracy issues.
+- Benefits abnormally highly from increases in WATK (e\.g. Rage).
+
+Cons:
+
+- No multi-target attacks.
+- Can&rsquo;t really do much when too close to their foe(s).
+- Has a hard time gaining EXP, due to the previous two points.
+- Extremely squishy, having no defences whatsoever.
+- Not _quite_ as long-ranged as archers. Also not quite as accurate.
+- Due to their extreme sensitivity to WATK, the DPS of an assassin is difficult
+  to optimise. Truly powerful stars are hard to come by, and scrolling claws is
+  a nightmare. Also crippled more by lack of good WATK buffs.
+
+</details>
+
+#### Bandit
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+**Elevator pitch:** One shot, one kill.
+
+Bandits differentiate themselves from assassins mostly by being melee
+combatants: they use daggers, rather than claws. Although this loses _some_
+versatility in positioning, and puts the bandit uncomfortably close to their
+foe(s), it makes them considerably better than assassins when it comes to
+farming &amp; to gaining EXP. Furthermore, the bandit&rsquo;s damage is much
+more stable than the assassin&rsquo;s, allowing them to chose what to farm
+based on what they can kill in just one (or just two) [Savage
+Blow](https://maplelegends.com/lib/skill?id=4201005)s. In exchange, the
+bandit&rsquo;s damage is not _quite_ as impressive as the assassin&rsquo;s,
+although it is still very impressive.
+
+<details>
+<summary>Pros &amp; cons</summary>
+
+Pros:
+
+- Their single-target DPS is extremely strong for their entire career.
+- Haste makes them very mobile, and an asset to their party.
+- As melee combatants, they are capable of fighting in crowded areas with ease.
+- Abnormally stable damage means that the bandit can chose what to farm based
+  on what they can kill in just one (or just two) Savage Blows.
+- Has an easier time gaining EXP when compared to the assassin, due to the
+  previous two points.
+- Naturally high AVOID.
+- No accuracy issues.
+- Benefits abnormally highly from all-stat equipment items.
+
+Cons:
+
+- No multi-target attacks.
+- Not ranged, and thus has to constantly be adjacent to their foe(s). Haste
+  helps to ameliorate this issue relative to warriors and beginners.
+- Extremely squishy, having no defences whatsoever.
+- Not quite as accurate as archers.
+
+</details>
+
 ### &#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
@@ -668,26 +771,26 @@ Popularity legend:
 - &#x2696; Marginal training spot that can be excellent, depending on the
   situation.
 
-|  level range | for who         | map                                                                                   | abbr.              | primary species                            | other species                                                      | popularity | comments                                                                                                                                                                    |
-| -----------: | :-------------- | :------------------------------------------------------------------------------------ | :----------------- | :----------------------------------------- | :----------------------------------------------------------------- | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   7&ndash;18 |                 | [Mushroom Garden](https://maplelegends.com/lib/map?id=104030001)                      |                    | Orange&nbsp;Mushroom, Shroom               | Red&nbsp;Snail                                                     |  &#x2705;  | Two large platforms with no particularly quick way to go upwards. Could be better with a party.                                                                             |
-|   7&ndash;20 |                 | [Dungeon, Southern Forest I](https://maplelegends.com/lib/map?id=100040001)           | Slime&nbsp;Tree    | Slime                                      |                                                                    |  &#x2705;  |                                                                                                                                                                             |
-|  10&ndash;20 |                 | [Henesys Hunting Ground II](https://maplelegends.com/lib/map?id=104040001)            | HHGII              | Slime, Orange&nbsp;Mushroom                | Red&nbsp;Snail, Blue&nbsp;Snail, Stump, Snail, Green&nbsp;Mushroom | &#x1f31f;  | Large multi-layered map; best with a party.                                                                                                                                 |
-|  12&ndash;25 |                 | [Henesys Pig Farm](https://maplelegends.com/lib/map?id=100020100)                     | Pigs               | Ribbon&nbsp;Pig, Pig                       |                                                                    | &#x1f31f;  | Small map with lots of semi-safe spots.                                                                                                                                     |
-|  15&ndash;27 |                 | [Line 1 \<Area 1\>](https://maplelegends.com/lib/map?id=103000101)                    | Bubblings          | Bubbling                                   |                                                                    |  &#x2696;  | Bubblings are fast as hell, and have quite high AVOID (10), WDEF (40), and MDEF (50) for their level.                                                                       |
-|  16&ndash;27 |                 | [Caution Falling Down](https://maplelegends.com/lib/map?id=103010001)                 | CFD                | Octopus                                    | Blue&nbsp;Mushroom                                                 |  &#x2705;  | Ranged and semi-ranged characters can train here with minimal potion usage by attacking from atop the traffic barricades. Although, beware that the Blue Mushrooms do jump. |
-|  18&ndash;30 |                 | [Ant Tunnel IV](https://maplelegends.com/lib/map?id=105050300)                        |                    | Horny&nbsp;Mushroom                        | Zombie&nbsp;Mushroom                                               |  &#x2705;  | Similar map layout to Ant Tunnel I, but many more spawns.                                                                                                                   |
-|  20&ndash;40 |                 | [The Land of Wild Boar II](https://maplelegends.com/lib/map?id=101030001)             | Boars              | Wild&nbsp;Boar                             | Axe&nbsp;Stump, Dark&nbsp;Axe&nbsp;Stump, Dark&nbsp;Stump          | &#x1f31f;  | Navigating from the bottom region to the upper two platforms can be unwieldy.                                                                                               |
-|  25&ndash;50 | non-ranged      | [The Cave of Evil Eye II](https://maplelegends.com/lib/map?id=105070200)              | Evil&nbsp;Eyes     | Evil&nbsp;Eye                              | Jr.&nbsp;Boogie                                                    | &#x1f31f;  | Cramped map with extremely high spawn rates. Bring Eyedrops (and maybe also Tonics) for the Jr. Boogies. The Cave of Evil Eye III is similar.                               |
-|  30&ndash;45 | non-ranged      | [Tree Dungeon, Forest Up North IX](https://maplelegends.com/lib/map?id=101020010)     | Curse&nbsp;Eyes    | Curse&nbsp;Eye                             |                                                                    |  &#x2696;  |                                                                                                                                                                             |
-|  30&ndash;50 |                 | [The Burnt Land III](https://maplelegends.com/lib/map?id=106000120)                   | tBLIII, tBL3       | Fire&nbsp;Boar                             | Dark&nbsp;Axe&nbsp;Stump                                           |  &#x2705;  | Bottom layer has very high spawn rates, upper region is more sparse.                                                                                                        |
-|  32&ndash;50 |                 | [The Burnt Land V](https://maplelegends.com/lib/map?id=106000140)                     | tBLV, tBL5         | Fire&nbsp;Boar                             | Dark&nbsp;Axe&nbsp;Stump, Lupin                                    | &#x1f31f;  | Bottom layer has very high spawn rates, upper region is more sparse and difficult to navigate.                                                                              |
-|  33&ndash;55 |                 | [Hunting Ground in the Deep Forest II](https://maplelegends.com/lib/map?id=105040200) | HGitDFII, HGitDF2  | Curse&nbsp;Eye, Horny&nbsp;Mushroom, Lupin | Slime, Snail                                                       |  &#x2696;  | High-spawn map with lots of platforms; best as a party of 3&ndash;6.                                                                                                        |
-|  37&ndash;55 | archers, ranged | [Monkey Forest II](https://maplelegends.com/lib/map?id=100040103)                     | Monke&nbsp;Forest  | Zombie&nbsp;Lupin                          | Lupin                                                              | &#x1f31f;  | Within each half of the map, Arrow Bomb can hit all three platforms simultaneously. Iron Arrow users will need to cycle continuously through all six firing platforms.      |
-|  42&ndash;55 |                 | [East Rocky Mountain VII](https://maplelegends.com/lib/map?id=101030406)              | Copper&nbsp;Drakes | Copper&nbsp;Drake                          | Fire&nbsp;Boar, Dark&nbsp;Axe&nbsp;Stump                           |  &#x2705;  | Large multi-layered map; best with a party.                                                                                                                                 |
-|  42&ndash;55 |                 | [Remains \<Tomb\> I](https://maplelegends.com/lib/map?id=101030105)                   |                    | Skeledog                                   | Mummydog                                                           |  &#x2696;  | Monsters on the top layer can be easily lured to the bottom.                                                                                                                |
-|  50&ndash;60 | ranged          | [Golem&rsquo;s Castle Ruins](https://maplelegends.com/lib/map?id=105040320)           |                    | Stone&nbsp;Golem                           | Mixed&nbsp;Golem                                                   |  &#x2696;  | Small map with lots of safe spots.                                                                                                                                          |
-| 55&ndash;200 |                 | [The forest of Golem](https://maplelegends.com/lib/map?id=105040306)                  | FoG, TfoG          | Mixed&nbsp;Golem                           | Dark&nbsp;Stone&nbsp;Golem, Curse&nbsp;Eye, Lupin                  | &#x1f31f;  |                                                                                                                                                                             |
+|  level range | for who         | map                                                                                   | abbr.                    | primary species                            | other species                                                      | popularity | comments                                                                                                                                                                    |
+| -----------: | :-------------- | :------------------------------------------------------------------------------------ | :----------------------- | :----------------------------------------- | :----------------------------------------------------------------- | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   7&ndash;18 |                 | [Mushroom Garden](https://maplelegends.com/lib/map?id=104030001)                      |                          | Orange&nbsp;Mushroom, Shroom               | Red&nbsp;Snail                                                     |  &#x2705;  | Two large platforms with no particularly quick way to go upwards. Usually better with a party of two.                                                                       |
+|   7&ndash;20 |                 | [Dungeon, Southern Forest I](https://maplelegends.com/lib/map?id=100040001)           | Slime&nbsp;Tree          | Slime                                      |                                                                    |  &#x2705;  |                                                                                                                                                                             |
+|  10&ndash;20 |                 | [Henesys Hunting Ground II](https://maplelegends.com/lib/map?id=104040001)            | HHGII                    | Slime, Orange&nbsp;Mushroom                | Red&nbsp;Snail, Blue&nbsp;Snail, Stump, Snail, Green&nbsp;Mushroom | &#x1f31f;  | Large multi-layered map; best with a party.                                                                                                                                 |
+|  12&ndash;25 |                 | [Henesys Pig Farm](https://maplelegends.com/lib/map?id=100020100)                     | Pigs                     | Ribbon&nbsp;Pig, Pig                       |                                                                    | &#x1f31f;  | Small map with lots of semi-safe spots.                                                                                                                                     |
+|  15&ndash;27 |                 | [Line 1 \<Area 1\>](https://maplelegends.com/lib/map?id=103000101)                    | Bubblings                | Bubbling                                   |                                                                    |  &#x2696;  | Bubblings are fast as hell, and have quite high AVOID (10), WDEF (40), and MDEF (50) for their level.                                                                       |
+|  16&ndash;27 |                 | [Caution Falling Down](https://maplelegends.com/lib/map?id=103010001)                 | CFD                      | Octopus                                    | Blue&nbsp;Mushroom                                                 |  &#x2705;  | Ranged and semi-ranged characters can train here with minimal potion usage by attacking from atop the traffic barricades. Although, beware that the Blue Mushrooms do jump. |
+|  18&ndash;30 |                 | [Ant Tunnel IV](https://maplelegends.com/lib/map?id=105050300)                        |                          | Horny&nbsp;Mushroom                        | Zombie&nbsp;Mushroom                                               |  &#x2705;  | Similar map layout to Ant Tunnel I, but many more spawns.                                                                                                                   |
+|  20&ndash;40 |                 | [The Land of Wild Boar II](https://maplelegends.com/lib/map?id=101030001)             | Boars                    | Wild&nbsp;Boar                             | Axe&nbsp;Stump, Dark&nbsp;Axe&nbsp;Stump, Dark&nbsp;Stump          | &#x1f31f;  | Navigating from the bottom region to the upper two platforms can be unwieldy.                                                                                               |
+|  25&ndash;50 | non-ranged      | [The Cave of Evil Eye II](https://maplelegends.com/lib/map?id=105070200)              | Evil&nbsp;Eyes           | Evil&nbsp;Eye                              | Jr.&nbsp;Boogie                                                    | &#x1f31f;  | Cramped map with extremely high spawn rates. Bring Eyedrops (and maybe also Tonics) for the Jr. Boogies. The Cave of Evil Eye III is similar.                               |
+|  30&ndash;45 | non-ranged      | [Tree Dungeon, Forest Up North IX](https://maplelegends.com/lib/map?id=101020010)     | Curse&nbsp;Eyes          | Curse&nbsp;Eye                             |                                                                    |  &#x2696;  |                                                                                                                                                                             |
+|  30&ndash;50 |                 | [The Burnt Land III](https://maplelegends.com/lib/map?id=106000120)                   | tBLIII, tBL3, BLIII, BL3 | Fire&nbsp;Boar                             | Dark&nbsp;Axe&nbsp;Stump                                           |  &#x2705;  | Bottom layer has very high spawn rates, upper region is more sparse.                                                                                                        |
+|  32&ndash;50 |                 | [The Burnt Land V](https://maplelegends.com/lib/map?id=106000140)                     | tBLV, tBL5, BLV, BL5     | Fire&nbsp;Boar                             | Dark&nbsp;Axe&nbsp;Stump, Lupin                                    | &#x1f31f;  | Bottom layer has very high spawn rates, upper region is more sparse and difficult to navigate.                                                                              |
+|  33&ndash;55 |                 | [Hunting Ground in the Deep Forest II](https://maplelegends.com/lib/map?id=105040200) | HGitDFII, HGitDF2        | Curse&nbsp;Eye, Horny&nbsp;Mushroom, Lupin | Slime, Snail                                                       |  &#x2696;  | High-spawn map with lots of platforms; best as a party of 3&ndash;6.                                                                                                        |
+|  37&ndash;55 | archers, ranged | [Monkey Forest II](https://maplelegends.com/lib/map?id=100040103)                     | Monke&nbsp;Forest        | Zombie&nbsp;Lupin                          | Lupin                                                              | &#x1f31f;  | Within each half of the map, Arrow Bomb can hit all three platforms simultaneously. Iron Arrow users will need to cycle continuously through all six firing platforms.      |
+|  42&ndash;55 |                 | [East Rocky Mountain VII](https://maplelegends.com/lib/map?id=101030406)              | Copper&nbsp;Drakes       | Copper&nbsp;Drake                          | Fire&nbsp;Boar, Dark&nbsp;Axe&nbsp;Stump                           |  &#x2705;  | Large multi-layered map; best with a party.                                                                                                                                 |
+|  42&ndash;55 |                 | [Remains \<Tomb\> I](https://maplelegends.com/lib/map?id=101030105)                   |                          | Skeledog                                   | Mummydog                                                           |  &#x2696;  | Monsters on the top layer can be easily lured to the bottom.                                                                                                                |
+|  50&ndash;60 | ranged          | [Golem&rsquo;s Castle Ruins](https://maplelegends.com/lib/map?id=105040320)           |                          | Stone&nbsp;Golem                           | Mixed&nbsp;Golem                                                   |  &#x2696;  | Small map with lots of safe spots.                                                                                                                                          |
+| 55&ndash;200 |                 | [The forest of Golem](https://maplelegends.com/lib/map?id=105040306)                  | FoG, TfoG                | Mixed&nbsp;Golem                           | Dark&nbsp;Stone&nbsp;Golem, Curse&nbsp;Eye, Lupin                  | &#x1f31f;  |                                                                                                                                                                             |
 
 ### Party quests
 
