@@ -4,20 +4,20 @@
     - [Why vicloc?](#why-vicloc)
 - [General guidelines for viclocking](#general-guidelines-for-viclocking)
 - [A comparison of vicloc classes/jobs](#a-comparison-of-vicloc-classes-jobs)
-    - [🔰 Beginners](#beginners)
-    - [⚔️ Warriors](#️-warriors)
+    - [&#x1f530; Beginners](#x1f530-beginners)
+    - [&#x2694;&#xfe0f; Warriors](#x2694-xfe0f-warriors)
         - [Fighter](#fighter)
         - [Page](#page)
         - [Spear(wo)man](#spear-wo-man)
-    - [🧙 Mages](#mages)
+    - [&#x1f9d9; Mages](#x1f9d9-mages)
         - [Fire/poison magician](#fire-poison-magician)
         - [Ice/lightning magician](#ice-lightning-magician)
         - [Cleric](#cleric)
-    - [🏹 Archers](#archers)
+    - [&#x1f3f9; Archers](#x1f3f9-archers)
         - [Hunter](#hunter)
         - [Crossbow(o)man](#crossbow-o-man)
-    - [🥷 Thieves](#thieves)
-    - [🏴‍☠️ Pirates](#️-pirates)
+    - [&#x1f977; Thieves](#x1f977-thieves)
+    - [&#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
 - [Levelling up](#levelling-up)
     - [Training areas](#training-areas)
     - [Party quests](#party-quests)
@@ -69,9 +69,9 @@ second job. This reflects an earlier version of MapleStory, wherein the
 Training Camp, Maple Island, and Victoria Island collectively made up the known
 Maple World. However, vicloc can be played even in advanced versions of the
 game, which may have other continents (e\.g. Ossyria), pirates, fourth job,
-etc. For this reason, we consider new canonical additions to Victoria Island —
-e\.g. Nautilus Harbor and Amoria — to be part of Victoria Island for the
-purpose of vicloc.
+etc. For this reason, we consider new canonical additions to Victoria Island
+&mdash; e\.g. Nautilus Harbor and Amoria &mdash; to be part of Victoria Island
+for the purpose of vicloc.
 
 <details>
 <summary>Footnotes for &ldquo;What is &lsquo;vicloc&rsquo;?&rdquo;</summary>
@@ -184,7 +184,7 @@ than any other.
 With this in mind, let&rsquo;s take a look at each class individually, and
 consider how it compares to the others.
 
-### 🔰 Beginners
+### &#x1f530; Beginners
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
@@ -196,7 +196,7 @@ isn&rsquo;t _quite_ true: the overall lower-powered nature of vicloc characters
 in general allows a dedicated permabeginner who hones their craft to remain
 more relevant than they would in other modes of gameplay.
 
-### ⚔️ Warriors
+### &#x2694;&#xfe0f; Warriors
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
@@ -360,7 +360,7 @@ Cons:
 
 </details>
 
-### 🧙 Mages
+### &#x1f9d9; Mages
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
@@ -529,7 +529,7 @@ Cons:
 
 </details>
 
-### 🏹 Archers
+### &#x1f3f9; Archers
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
@@ -641,11 +641,11 @@ Cons:
 
 </details>
 
-### 🥷 Thieves
+### &#x1f977; Thieves
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
-### 🏴‍☠️ Pirates
+### &#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
@@ -682,7 +682,7 @@ Popularity legend:
 |  30&ndash;45 | non-ranged      | [Tree Dungeon, Forest Up North IX](https://maplelegends.com/lib/map?id=101020010)     | Curse&nbsp;Eyes    | Curse&nbsp;Eye                             |                                                                    |  &#x2696;  |                                                                                                                                                                             |
 |  30&ndash;50 |                 | [The Burnt Land III](https://maplelegends.com/lib/map?id=106000120)                   | tBLIII, tBL3       | Fire&nbsp;Boar                             | Dark&nbsp;Axe&nbsp;Stump                                           |  &#x2705;  | Bottom layer has very high spawn rates, upper region is more sparse.                                                                                                        |
 |  32&ndash;50 |                 | [The Burnt Land V](https://maplelegends.com/lib/map?id=106000140)                     | tBLV, tBL5         | Fire&nbsp;Boar                             | Dark&nbsp;Axe&nbsp;Stump, Lupin                                    | &#x1f31f;  | Bottom layer has very high spawn rates, upper region is more sparse and difficult to navigate.                                                                              |
-|  33&ndash;55 |                 | [Hunting Ground in the Deep Forest II](https://maplelegends.com/lib/map?id=105040200) | HGitDFII, HGitDF2  | Curse&nbsp;Eye, Horny&nbsp;Mushroom, Lupin | Slime, Snail                                                       |  &#x2696;  | High-spawn map with lots of platforms; best as a party of 3–6.                                                                                                              |
+|  33&ndash;55 |                 | [Hunting Ground in the Deep Forest II](https://maplelegends.com/lib/map?id=105040200) | HGitDFII, HGitDF2  | Curse&nbsp;Eye, Horny&nbsp;Mushroom, Lupin | Slime, Snail                                                       |  &#x2696;  | High-spawn map with lots of platforms; best as a party of 3&ndash;6.                                                                                                        |
 |  37&ndash;55 | archers, ranged | [Monkey Forest II](https://maplelegends.com/lib/map?id=100040103)                     | Monke&nbsp;Forest  | Zombie&nbsp;Lupin                          | Lupin                                                              | &#x1f31f;  | Within each half of the map, Arrow Bomb can hit all three platforms simultaneously. Iron Arrow users will need to cycle continuously through all six firing platforms.      |
 |  42&ndash;55 |                 | [East Rocky Mountain VII](https://maplelegends.com/lib/map?id=101030406)              | Copper&nbsp;Drakes | Copper&nbsp;Drake                          | Fire&nbsp;Boar, Dark&nbsp;Axe&nbsp;Stump                           |  &#x2705;  | Large multi-layered map; best with a party.                                                                                                                                 |
 |  42&ndash;55 |                 | [Remains \<Tomb\> I](https://maplelegends.com/lib/map?id=101030105)                   |                    | Skeledog                                   | Mummydog                                                           |  &#x2696;  | Monsters on the top layer can be easily lured to the bottom.                                                                                                                |
