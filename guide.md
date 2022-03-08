@@ -192,6 +192,8 @@ consider how it compares to the others.
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Three Snails](./img/three-snails-projectile.webp "Three Snails")
+
 As you&rsquo;d expect,
 [permabeginners](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permabeginner-outland)
 play similarly to how they do outside of vicloc; naturally, they don&rsquo;t
@@ -220,6 +222,8 @@ onwards, makes warriors extremely powerful at all levels of the game.
 #### Fighter
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Rage](./img/rage.webp "Rage")
 
 **Elevator pitch:** &ldquo;rage pls&rdquo;
 
@@ -266,6 +270,8 @@ Cons:
 #### Page
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Threaten](./img/threaten.webp "Threaten")
 
 **Elevator pitch:** All foes cower before the page&rsquo;s threatening
 presence.
@@ -320,6 +326,8 @@ Cons:
 #### Spear(wo)man
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Hyper Body](./img/hyper-body.webp "Hyper Body")
 
 **Elevator pitch:** Protect your party!
 
@@ -377,6 +385,8 @@ However, beyond this, the three mage classes diverge considerably.
 #### Fire/poison magician
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Fire Arrow](./img/fire-arrow.webp "Fire Arrow")
 
 **Elevator pitch:** Huge single-target elemental DPS.
 
@@ -441,6 +451,8 @@ Cons:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Thunderbolt](./img/thunderbolt.webp "Thunderbolt")
+
 **Elevator pitch:** Farm with ease.
 
 Ice/lightning magicians are notable for their ability to use
@@ -488,6 +500,8 @@ Cons:
 #### Cleric
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Heal](./img/heal.webp "Heal")
 
 **Elevator pitch:** The ultimate party support &amp; undead-slayer.
 
@@ -559,6 +573,8 @@ but ultimately reliant on their party in difficult settings.
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Arrow Bomb](./img/arrow-bomb.webp "Arrow Bomb")
+
 **Elevator pitch:** Incredible damage, incredible versatility.
 
 Hunters differentiate themselves from crossbow(o)men in two ways: their choice
@@ -606,6 +622,8 @@ Cons:
 #### Crossbow(o)man
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Iron Arrow](./img/iron-arrow.webp "Iron Arrow")
 
 **Elevator pitch:** Extreme single-target damage and extreme multi-target
 damage: why pick only one?
@@ -667,6 +685,8 @@ no defences other than their naturally high AVOID.
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Lucky Seven](./img/lucky-seven.webp "Lucky Seven")
+
 **Elevator pitch:** Portable boss-shredder.
 
 Assassins differentiate themselves from bandits mostly by being truly ranged:
@@ -713,6 +733,8 @@ Cons:
 #### Bandit
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Savage Blow](./img/savage-blow.webp "Savage Blow")
 
 **Elevator pitch:** One shot, one kill.
 
@@ -774,6 +796,8 @@ the mobility granted by [Dash](https://maplelegends.com/lib/skill?id=5001005).
 #### Brawler
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Corkscrew Blow](./img/corkscrew-blow.webp "Corkscrew Blow")
 
 **Elevator pitch:** The most versatile bully in all the land.
 
@@ -842,6 +866,8 @@ Cons:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Recoil Shot](./img/recoil-shot.webp "Recoil Shot")
+
 **Elevator pitch:** Yeet haw!
 
 Gunslingers are, like archers, squishy DEX-based ranged combatants. However,
@@ -902,7 +928,7 @@ Cons:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
-![A Mixed Golem](./img/mixed-golem.webp "A Mixed Golem")
+![LEVEL UP](./img/level-up.webp "LEVEL UP")
 
 Vicloc is similar to some other styles of MapleStory in that EXP mostly comes
 from three sources: grinding, questing, and party questing. This section covers
@@ -911,6 +937,8 @@ grinding/training and party questing for the purpose of gaining EXP.
 ### Training areas
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Mixed Golem](./img/mixed-golem.webp "Mixed Golem")
 
 For maps that can be farmed by more or less any fighting style, the &ldquo;for
 who&rdquo; column is empty. The &ldquo;abbr.&rdquo; column lists common
@@ -947,6 +975,8 @@ Popularity legend:
 ### Party quests
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![King Slime](./img/king-slime-hit.webp "King Slime")
 
 Viclockers typically have access to the following four party quests:
 
@@ -1003,9 +1033,13 @@ Viska](./img/overalls.webp
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![A sack of mesos](./img/meso-sack.webp "A sack of mesos")
+
 ### Monster Book Ring
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Monster Book Ring \<Tier 2\>](./img/t2.webp "Monster Book Ring \<Tier 2\>")
 
 **NOTE:** This section assumes that your implementation has the Monster Book,
 and that its implementation is the same as MapleLegends&rsquo;s.
