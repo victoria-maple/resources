@@ -690,7 +690,7 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | name                                            | level | stat reqs | stats             | slots | dropped by | awarded by                        | sold at | craftable at |
 | :---------------------------------------------- | ----: | :-------- | :---------------- | ----: | :--------- | :-------------------------------- | :------ | :----------- |
 | Bridesmaid&rsquo;s Dress/Groomsman&rsquo;s Suit |     0 |           |                   |     0 |            |                                   | Amoria  |              |
-| Red/Blue Sauna Robe                             |    30 |           | 10 AVOID, 30 WDEF |    10 |            | Mr. Wetbottom&rsquo;s Secret Book |         |              |
+| Red/Blue Sauna Robe \[F\]/\[M\]                 |    30 |           | 10 AVOID, 30 WDEF |    10 |            | Mr. Wetbottom&rsquo;s Secret Book |         |              |
 
 ### Warrior
 

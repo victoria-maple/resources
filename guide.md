@@ -26,6 +26,10 @@
     - [Training areas](#training-areas)
     - [Party quests](#party-quests)
 - [Items](#items)
+    - [Equipment](#equipment)
+    - [Scrolling](#scrolling)
+    - [Potions/food](#potions-food)
+    - [Other items](#other-items)
     - [Making money](#making-money)
     - [Monster Book Ring](#monster-book-ring)
 - [Notable quests](#notable-quests)
@@ -1024,10 +1028,225 @@ two APQs per day (although three is technically possible).
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![An assortment of vicloc-available
+items](./img/vicloc-items.webp "An assortment of vicloc-available items")
+
+As you&rsquo;d expect, the set of items that exist in vicloc is significantly
+limited when compared to unrestricted styles of gameplay. For this reason, we
+have reference documents that catalogue every item that is vicloc-available. So
+please, do make use of them!:
+
+- **[Vicloc-available equipment items](./equipment.md)**
+- **[Vicloc-available scrolls](./scrolls.md)**
+- **[Vicloc-available potions/food](./potions.md)**
+- **[Vicloc-available ammunition](./ammo.md)**
+- **[Vicloc-available ETC items](./etcs.md)**
+
+Besides giving lists of items that are available, there are some things that we
+can say in general about items in vicloc.
+
+### Equipment
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
 ![A selection of vicloc-available overalls: Red Sauna Robe, Dark Crusader
 Chainmail, Dark Requierre, Red Tai, Purple Avenger, Red
 Viska](./img/overalls.webp
-"A selection of vicloc-available overalls: Red Sauna Robe, Dark Crusader Chainmail, Dark Requierre, Red Tai, Purple Avenger, Red Viska")
+"A selection of vicloc-available overalls:
+Red Sauna Robe, Dark Crusader Chainmail, Dark Requierre,
+Red Tai, Purple Avenger, Red Viska")
+
+- Don&rsquo;t be afraid to add the stats (STR, DEX, INT, LUK) that you need to
+  put on equipment appropriate for your class &amp; level, including:
+    - Hats.
+    - Weapons.
+    - Shields.
+    - Overalls, tops, &amp; bottoms.
+    - Gloves.
+    - Shoes.
+
+  All of these equipment categories are important, so don&rsquo;t expect to be
+  able to neglect your secondary stats (e\.g. DEX for assassins), unless you
+  have something special in mind! You will need the stats sooner or later.
+- Overalls tend to reign supreme over top&ndash;bottom combos due to scroll
+  availability. This basically means two things:
+    - **The gender of your character can actually matter**. This is a bit
+      unfortunate, but is simply a result of the availability of overalls,
+      which tend to be gendered. The following overalls are both gendered, and
+      uniquely powerful &mdash; that is, there is no opposite-gender nor
+      ungendered replacement that is of equal or greater power:
+        - [Blue Battle Road](https://maplelegends.com/lib/equip?id=1050082)
+          \[M\]; level 80 warrior.
+        - [Green Enigma](https://maplelegends.com/lib/equip?id=1051056) \[F\];
+          level 78 mage.<sup>\[1\]</sup>
+        - [Dark](https://maplelegends.com/lib/equip?id=1051055)/[Brown](https://maplelegends.com/lib/equip?id=1051054)
+          Requierre \[F\]; level 68 mage.<sup>\[2\]</sup>
+        - [Green Pris](https://maplelegends.com/lib/equip?id=1050077) \[M\];
+          level 80 archer.
+        - [Blue](https://maplelegends.com/lib/equip?id=1051008)/[Purple](https://maplelegends.com/lib/equip?id=1051009)
+          Avenger \[F\]; level 35 thief.<sup>\[3\]</sup>
+    - Do the sauna robe questline ([Mr. Wetbottom&rsquo;s Secret
+      Book](https://bbb.hidden-street.net/quest/victoria-island/mr-wetbottoms-secret-book))!
+      Sauna robes are the only overalls in vicloc that lack class requirements,
+      and the only overalls that lack stat requirements. This makes them
+      important for
+      [odd-jobbed](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/)
+      viclockers, and important for some non-odd viclockers, e\.g. male
+      thieves.
+- As mentioned in &ldquo;General guidelines for viclocking&rdquo;, defences
+  (WDEF and MDEF) do matter in vicloc. It may sometimes benefit you to pay
+  closer attention to the WDEF and MDEF values of the gear that you choose to
+  use. In the case of WDEF, you may wish to consult &ldquo;[Nise&rsquo;s
+  Formula
+  Compilation](https://forum.maplelegends.com/index.php?threads/nises-formula-compilation.36234/)&rdquo;
+  to make sure that you are at least meeting (if not exceeding) your PDD. For
+  warriors, meeting or exceeding PDD is exceptionally difficult at higher
+  levels; however, for warriors this is mostly a matter of meso loss, as they
+  naturally have very high MAXHP anyways.
+- Consider making and/or wearing HP gear. For example, a [Ribboned Pig
+  Headband](https://maplelegends.com/lib/equip?id=1002441) (which can be
+  obtained from [Mrs. Ming Ming&rsquo;s Second
+  Worry](https://bbb.hidden-street.net/quest/victoria-island/mrs-ming-mings-second-worry))
+  is a great start to an HP hat. There&rsquo;s no such thing as
+  &ldquo;washing&rdquo; in vicloc, so HP gear (and more generally, defensive
+  gear) can be situationally crucial for the squishier classes.
+
+<details>
+<summary>Footnotes for &ldquo;Equipment&rdquo;</summary>
+
+\[1\]: This overall is higher level than any other mage overall, and has higher
+combined stats, **but is LUK-focused** (2 INT, 6 LUK). Male mages who want to
+maximise the TMA on their overall would be better served by e\.g. a [Dark
+Anakamoon](https://maplelegends.com/lib/equip?id=1050056) (level 58; 5 INT, 1
+LUK), and female mages would be better served in this case by e\.g. a [Dark
+Requierre](https://maplelegends.com/lib/equip?id=1051055) (level 68; 5 INT, 2
+LUK).
+
+\[2\]: This overall is lower level and has lower combined stats than the Green
+Enigma, but has higher TMA.
+
+\[3\]: These two overalls are in fact the **only thief overalls** in all of
+vicloc.
+
+</details>
+
+### Scrolling
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![A 100% scroll, a 60% scroll, and a 10%
+scroll](./img/scrolls.webp "A 100% scroll, a 60% scroll, and a 10% scroll")
+
+Scrolling in vicloc can be simultaneously more and less cruel than scrolling in
+more usual styles of gameplay. On the one hand, 100% scrolls can be very
+powerful scrolls in vicloc, and are commonly used; this can make scrolling less
+cruel in the sense that you can&rsquo;t be truly disappointed by the outcome.
+On the other hand, it&rsquo;s much more common in vicloc (when compared to
+outland) for using 10% scrolls to be a reasonable course of action, in the
+(usually futile&hellip;) hope of passing them on some slot &mdash; perhaps any
+slot. We affectionately refer to failing a 10% on the first slot of an item as
+&ldquo;booming&rdquo; the item, even though the item is obviously not actually
+destroyed. This relationship with 10% scrolls can be cruel, and is the result
+of basically two things:
+
+- Dark scrolls do not exist in vicloc (with the slight exception of 30% cape
+  scrolls from [APQ](https://maplelegends.com/lib/map?id=670010100)).
+- Scrolls are just generally more sparse, so it may be the case that you _must_
+  pass a 10% scroll in order to grant a certain stat to a certain kind of
+  equipment item at all.
+
+With these things in mind (and remembering that plenty of 60% scrolls also
+exist in vicloc), here are some general tips for scrolling:
+
+- Don&rsquo;t be afraid to use 100%s, if you can afford it. Unless the item
+  that you&rsquo;re scrolling is endgame equipment for you, or you can&rsquo;t
+  get the stat that you want with 100%s, there&rsquo;s typically no harm (and
+  no shame) in using 100%s on some or all of the equipment item&rsquo;s slots.
+- As mentioned in &ldquo;Equipment&rdquo;:
+
+  > Consider making and/or wearing HP gear. For example, a [Ribboned Pig
+  > Headband](https://maplelegends.com/lib/equip?id=1002441) (which can be
+  > obtained from [Mrs. Ming Ming&rsquo;s Second
+  > Worry](https://bbb.hidden-street.net/quest/victoria-island/mrs-ming-mings-second-worry))
+  > is a great start to an HP hat. There&rsquo;s no such thing as
+  > &ldquo;washing&rdquo; in vicloc, so HP gear (and more generally, defensive
+  > gear) can be situationally crucial for the squishier classes.
+- Hats are especially useful to scroll for MAXHP/defences, as they typically
+  offer little else from scrolling (unless you&rsquo;re a mage). The other
+  option is trying to land 10%s for DEX (+3 DEX per pass) or for DEF (+1 WACC
+  per pass; useful for warriors).
+- Earrings should typically be left clean (unscrolled) unless you&rsquo;re a
+  mage; earrings are typically for defence only. If you&rsquo;re extremely
+  greedy, you can scroll for INT in an attempt to scrape up a few extra MDEF.
+- Capes can be scrolled for any of the four main stats (STR, DEX, INT, LUK). In
+  the presence of APQ, endgame capes are typically level 50 capes from the APQ
+  bonus stage ([Amos&rsquo;s Royal
+  Cape](https://maplelegends.com/lib/equip?id=1102099) and [Amos&rsquo;s Spirit
+  Cape](https://maplelegends.com/lib/equip?id=1102100)) because of how
+  dispensable they are, making them easy targets for greedy scrolling. Also in
+  the presence of APQ, 30% scrolls for capes for all four main stats exist.
+  That being said, [ORC](https://maplelegends.com/lib/equip?id=1102053)s and
+  Icarus Capes ([(1)](https://maplelegends.com/lib/equip?id=1102054),
+  [(2)](https://maplelegends.com/lib/equip?id=1102055),
+  [(3)](https://maplelegends.com/lib/equip?id=1102056)) make excellent targets
+  for scrolling as well, due to their level advantage (25 and 42 respectively),
+  and the juicy stats that they have when clean.
+- As mentioned in &ldquo;Equipment&rdquo;, overalls are usually the way to go
+  for scrolling (instead of top&ndash;bottom combos). Overalls can be scrolled
+  for DEX, INT, LUK, and DEF, whereas tops can only be scrolled for DEF, and
+  bottoms are similar, with the exception of [10%s for bottomwear for
+  DEX](https://maplelegends.com/lib/use?id=2040612).
+- Shields are generally scrolled defensively (HP/DEF), as you&rsquo;d expect.
+  That being said, there is one other kind of shield scroll, which is only
+  available from [Faust](https://maplelegends.com/lib/monster?id=5220002): [60%
+  for STR](https://maplelegends.com/lib/use?id=2040931). Scrolling shields like
+  this is mostly unsustainable, but landing one or two on a shield is pretty
+  nice.
+- Gloves are left clean if you&rsquo;re a mage (with the exception of some odd
+  mages like [STR
+  mages](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#str-mage)).
+  For everyone else, they can be scrolled for WATK or for DEX/WACC. Scrolling
+  for DEX is actually a strong choice for some builds, like warriors and
+  certain odd jobs; one can keep a DEX glove for when it&rsquo;s needed and a
+  WATK one for everything else. Scrolling for WATK can be difficult, as these
+  kinds of scrolls can be difficult to come by. Completing [Jane the
+  Alchemist](https://bbb.hidden-street.net/quest/victoria-island/jane-the-alchemist)
+  will randomly award you either a
+  [10%](https://maplelegends.com/lib/use?id=2040805) or
+  [60%](https://maplelegends.com/lib/use?id=2040804) GFA (gloves for attack).
+  In the presence of APQ, the bonus stage of APQ is a great source of GFA 60%s.
+  Note that [Mixed Golem](https://maplelegends.com/lib/monster?id=5150000)s do
+  drop GFA 60%s, so [FoG](https://maplelegends.com/lib/map?id=105040306)
+  addicts will come across GFA 60%s every once in a while. Because GFA 10%s do
+  exist, making a &geq;11 WATK glove is possible, but _incredibly_ difficult.
+- Those who want to scroll their shoes for main stats will be using
+  [60%](https://maplelegends.com/lib/use?id=2040704) and
+  [10%](https://maplelegends.com/lib/use?id=2040705) JUMP scrolls for the DEX
+  that they confer. However, other choices can be strong (or situationally
+  strong), as well: SPEED shoes are useful for farming more efficiently and for
+  getting around (mounts do not exist in vicloc), and AVOID is useful for
+  builds that already have naturally high AVOID and/or need the WACC that the
+  [60%](https://maplelegends.com/lib/use?id=2040701)s and
+  [10%](https://maplelegends.com/lib/use?id=2040702)s confer.
+
+### Potions/food
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![An assortment of vicloc-available potions and food: White Potion, Unagi, Blue
+Potion, Red Bean Sundae, Elixir, Power Elixir, Dexterity Potion, Speed Potion;
+Sniper Potion, Warrior Potion, Drake&rsquo;s Blood, Magic Potion, Sap of
+Ancient Tree, Drake&rsquo;s Meat, Eyedrop, Holy
+Water](./img/potions-and-food.webp
+"An assortment of vicloc-available potions and food: White Potion, Unagi,
+Blue Potion, Red Bean Sundae, Elixir, Power Elixir, Dexterity Potion,
+Speed Potion;
+Sniper Potion, Warrior Potion, Drake&rsquo;s Blood, Magic Potion,
+Sap of Ancient Tree, Drake&rsquo;s Meat, Eyedrop, Holy Water")
+
+### Other items
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
 ### Making money
 
