@@ -1099,11 +1099,11 @@ Red Tai, Purple Avenger, Red Viska")
       [odd-jobbed](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/)
       viclockers, and important for some non-odd viclockers, e\.g. male
       thieves.
-- As mentioned in &ldquo;General guidelines for viclocking&rdquo;, defences
-  (WDEF and MDEF) do matter in vicloc. It may sometimes benefit you to pay
-  closer attention to the WDEF and MDEF values of the gear that you choose to
-  use. In the case of WDEF, you may wish to consult &ldquo;[Nise&rsquo;s
-  Formula
+- As mentioned in &ldquo;[General guidelines for
+  viclocking](#general-guidelines-for-viclocking)&rdquo;, defences (WDEF and
+  MDEF) do matter in vicloc. It may sometimes benefit you to pay closer
+  attention to the WDEF and MDEF values of the gear that you choose to use. In
+  the case of WDEF, you may wish to consult &ldquo;[Nise&rsquo;s Formula
   Compilation](https://forum.maplelegends.com/index.php?threads/nises-formula-compilation.36234/)&rdquo;
   to make sure that you are at least meeting (if not exceeding) your PDD. For
   warriors, meeting or exceeding PDD is exceptionally difficult at higher
@@ -1175,7 +1175,7 @@ exist in vicloc), here are some general tips for scrolling:
   that you&rsquo;re scrolling is endgame equipment for you, or you can&rsquo;t
   get the stat that you want with 100%s, there&rsquo;s typically no harm (and
   no shame) in using 100%s on some or all of the equipment item&rsquo;s slots.
-- As mentioned in &ldquo;Equipment&rdquo;:
+- As mentioned in &ldquo;[Equipment](#equipment)&rdquo;:
 
   > Consider making and/or wearing HP gear. For example, a [Ribboned Pig
   > Headband](https://maplelegends.com/lib/equip?id=1002441) (which can be
@@ -1204,11 +1204,11 @@ exist in vicloc), here are some general tips for scrolling:
   [(3)](https://maplelegends.com/lib/equip?id=1102056)) make excellent targets
   for scrolling as well, due to their level advantage (25 and 42 respectively),
   and the juicy stats that they have when clean.
-- As mentioned in &ldquo;Equipment&rdquo;, overalls are usually the way to go
-  for scrolling (instead of top&ndash;bottom combos). Overalls can be scrolled
-  for DEX, INT, LUK, and DEF, whereas tops can only be scrolled for DEF, and
-  bottoms are similar, with the exception of [10%s for bottomwear for
-  DEX](https://maplelegends.com/lib/use?id=2040612).
+- As mentioned in &ldquo;[Equipment](#equipment)&rdquo;, overalls are usually
+  the way to go for scrolling (instead of top&ndash;bottom combos). Overalls
+  can be scrolled for DEX, INT, LUK, and DEF, whereas tops can only be scrolled
+  for DEF, and bottoms are similar, with the exception of [10%s for bottomwear
+  for DEX](https://maplelegends.com/lib/use?id=2040612).
 - Shields are generally scrolled defensively (HP/DEF), as you&rsquo;d expect.
   That being said, there is one other kind of shield scroll, which is only
   available from [Faust](https://maplelegends.com/lib/monster?id=5220002): [60%
@@ -1395,6 +1395,45 @@ ammunition, set-up items, and ETC items.
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
 ![A sack of mesos](./img/meso-sack.webp "A sack of mesos")
+
+As mentioned in &ldquo;General guidelines for viclocking&rdquo;, there is
+always difficulty at the beginning. Surviving and maintaining enough mesos to
+buy essential and near-essential items can be surprisingly difficult when you
+first start your vicloc journey. Of course, this is part of the fun, but
+you&rsquo;ll surely be looking for ways to make some cash. Here are a few tips:
+
+- Avoid places where you find that you take considerable damage. Incoming
+  damage is lost mesos, and a penny saved is a penny earned.
+    - If you find a grinding spot where you take little or no damage, get a
+      high KPM (kills per minute), and are mostly or exclusively killing
+      monsters that drop worthwhile equipment items, then you probably have a
+      good meso farm going.
+- Loot all of that garbage. All of the loose mesos, random ETCs, and so on.
+  Every meso counts. Pet autoloot helps here.
+- As mentioned in &ldquo;[Potions/food](#potions-food)&rdquo;, you&rsquo;ll
+  want to pay attention to exactly how much HP/MP you&rsquo;re recovering per
+  meso spent on HP/MP consumables, and think about whether or not you can do
+  better. A penny saved is a penny earned.
+- As mentioned before, WDEF and MDEF matter, and that firmly applies to making
+  mesos. Increasing your WDEF (and in some cases, MDEF) can drastically reduce
+  the mesos that you spend on healing. A penny saved is a penny earned.
+- Certain quests can be good sources of mesos, and/or good ways to save mesos.
+  See &ldquo;[Notable quests](#notable-quests)&rdquo; below.
+- Avoid using taxis if you can&rsquo;t afford to bleed the mesos. In some
+  cases, simply walking to your destination can suffice, but more commonly,
+  you&rsquo;ll want to keep at least one of each kind of return scroll
+  (including, but not limited to, [nearest town
+  scroll](https://maplelegends.com/lib/use?id=2030000)s and [Sleepywood return
+  scroll](https://maplelegends.com/lib/use?id=2030006)s), and use those. As you
+  gain more mesos, you will be able to afford holding more return scrolls per
+  inventory slot. A penny saved is a penny earned.
+- Slaying certain area bosses
+  ([Stumpy](https://maplelegends.com/lib/monster?id=3220000),
+  [Dyle](https://maplelegends.com/lib/monster?id=6220000), etc.) can be a good
+  source of mesos.
+- Events often offer subtle (or not so subtle) ways to save or make mesos,
+  including &ldquo;throwaway&rdquo; freebies that can actually be quite
+  beneficial for viclockers.
 
 ### Monster Book Ring
 
