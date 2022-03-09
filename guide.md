@@ -1019,10 +1019,10 @@ KPQ 10-run avg: 14913.0
 APQ  1-run avg: 72350.0
 -->
 
-As you can see, APQ is only a good source of EXP prior to probably about level
-&#x2248;60, although it allows characters of any level 40 and above. Note that
-APQ cannot be spammed like HPQ and KPQ can; typically, you can only do up to
-two APQs per day (although three is technically possible).
+As you can see, APQ is only a good source of EXP on its own prior to probably
+about level &#x2248;60, although it allows characters of any level 40 and
+above. Note that APQ cannot be spammed like HPQ and KPQ can; typically, you can
+only do up to two APQs per day (although three is technically possible).
 
 ## Items
 
@@ -1055,6 +1055,8 @@ Viska](./img/overalls.webp
 "A selection of vicloc-available overalls:
 Red Sauna Robe, Dark Crusader Chainmail, Dark Requierre,
 Red Tai, Purple Avenger, Red Viska")
+
+**See also:** [Vicloc-available equipment](./equipment.md).
 
 - Don&rsquo;t be afraid to add the stats (STR, DEX, INT, LUK) that you need to
   put on equipment appropriate for your class &amp; level, including:
@@ -1136,6 +1138,8 @@ vicloc.
 
 ![A 100% scroll, a 60% scroll, and a 10%
 scroll](./img/scrolls.webp "A 100% scroll, a 60% scroll, and a 10% scroll")
+
+**See also:** [Vicloc-available scrolls](./scrolls.md).
 
 Scrolling in vicloc can be simultaneously more and less cruel than scrolling in
 more usual styles of gameplay. On the one hand, 100% scrolls can be very
@@ -1243,6 +1247,94 @@ Blue Potion, Red Bean Sundae, Elixir, Power Elixir, Dexterity Potion,
 Speed Potion;
 Sniper Potion, Warrior Potion, Drake&rsquo;s Blood, Magic Potion,
 Sap of Ancient Tree, Drake&rsquo;s Meat, Eyedrop, Holy Water")
+
+**See also:** [Vicloc-available potions/food](./potions.md).
+
+The availability of potions and food &mdash; which may be used for HP recovery,
+MP recovery, buffs, curing debuffs, or some combination of the foregoing
+&mdash; is, as you&rsquo;d expect, considerably different in vicloc than it is
+in other modes of gameplay. Here are some tips relating to these consumables:
+
+- When using consumables to recover HP and/or MP, consider exactly how many
+  points of HP (or MP, as the case may be) that you&rsquo;re recovering per
+  meso that you spend, and consider whether or not you can do better. The
+  [master list of vicloc-available potions/food](./potions.md) includes these
+  ratios already calculated for NPC-purchasable HP/MP consumables.
+    - Complete [Jane the
+      Alchemist](https://bbb.hidden-street.net/quest/victoria-island/jane-the-alchemist)
+      to get access to better prices on [White
+      Potion](https://maplelegends.com/lib/use?id=2000002)s,
+      [Unagi](https://maplelegends.com/lib/use?id=2022003)s, [Pure
+      Water](https://maplelegends.com/lib/use?id=2022000)s, and
+      [Watermelon](https://maplelegends.com/lib/use?id=2001000)s.
+- [Power Elixir](https://maplelegends.com/lib/use?id=2000005)s are precious
+  items that can be very useful for viclockers who are fighting foes that
+  nearly one-shot them. They are difficult to come by (the [A Spell That Seals
+  Up a Critical
+  Danger](https://bbb.hidden-street.net/quest/victoria-island/a-spell-that-seals-up-a-critical-danger)
+  questline is a good source of them, but is very difficult and can only be
+  completed once per [PC](https://en.wikipedia.org/wiki/Player_character)), so
+  take good care of them.
+  [Elixir](https://maplelegends.com/lib/use?id=2000004)s can be similarly
+  useful &mdash; one can bind them to pet autopot and then manually pot once
+  after every hit &mdash; or they can be used as efficient HP or MP recovery by
+  warriors or mages, respectively.
+- The [Ellinia Department Store](https://maplelegends.com/lib/map?id=101000002)
+  (tended by [Len the Fairy](https://maplelegends.com/lib/npc?id=1031100))
+  sells MP potions (e\.g. [Mana
+  Elixir](https://maplelegends.com/lib/use?id=2000006)s) at a discount, when
+  compared to other department stores.
+- The buff potions that are sold at essentially every department store (e\.g.
+  the [Henesys Department
+  Store](https://maplelegends.com/lib/map?id=100000102)) are all useful:
+    - [Dexterity Potion](https://maplelegends.com/lib/use?id=2002000)s are the
+      largest AVOID buff outside of
+      [Bless](https://maplelegends.com/lib/skill?id=2301004)/[Focus](https://maplelegends.com/lib/skill?id=3001003)
+      (ignoring [Victoria&rsquo;s Amorian
+      Basket](https://maplelegends.com/lib/use?id=2022181)s, if applicable).
+    - [Speed Potion](https://maplelegends.com/lib/use?id=2002001)s are the
+      largest SPEED buff outside of
+      [Haste](https://maplelegends.com/lib/skill?id=4101004)/[Dash](https://maplelegends.com/lib/skill?id=5001005)
+      (again ignoring Victoria&rsquo;s Amorian Baskets, if applicable).
+    - [Magic Potion](https://maplelegends.com/lib/use?id=2002002)s are very
+      useful for magicians and clerics. [Wizard
+      Potion](https://maplelegends.com/lib/use?id=2002003)s and [Saps of
+      Ancient Tree](https://maplelegends.com/lib/use?id=2012002) are also
+      available, but are more difficult to come by, as they are not sold by any
+      NPCs.
+    - [Warrior Potion](https://maplelegends.com/lib/use?id=2002004)s are the
+      standard WATK buff for most characters, in the absence of
+      [Rage](https://maplelegends.com/lib/skill?id=1101006). [Drake&rsquo;s
+      Blood](https://maplelegends.com/lib/use?id=2012000)s are also available,
+      but must be gradually farmed from
+      [Drake](https://maplelegends.com/lib/monster?id=5130100)s.
+    - [Sniper Potion](https://maplelegends.com/lib/use?id=2002005)s are the
+      largest WACC buff outside of Bless (again ignoring Victoria&rsquo;s
+      Amorian Baskets, if applicable).
+- Department stores typically sell curatives, which can be used to cure
+  debuffs. The most important are
+  [Eyedrop](https://maplelegends.com/lib/use?id=2050001)s (cures darkness, the
+  debuff that causes physical attacks to miss) and [Holy
+  Water](https://maplelegends.com/lib/use?id=2050003)s (cures curse and seal,
+  the debuffs that cause EXP gain to be halved and cause one to be unable to
+  use active skills, respectively).
+  [Tonic](https://maplelegends.com/lib/use?id=2050002)s can be used to cure
+  weakness (the debuff that causes one to be unable to jump), and
+  [Antidote](https://maplelegends.com/lib/use?id=2050000)s can be used to cure
+  poison (the debuff that deals damage over time), but these debuffs are less
+  fatal, as you can still attack and use skills normally while afflicted by
+  them. That being said, Tonics can be highly useful if you have to deal with
+  [Jr. Boogie](https://maplelegends.com/lib/monster?id=3230301)s (e\.g. [at
+  Evil Eyes](https://maplelegends.com/lib/map?id=105070200)) and cannot always
+  one-shot them.
+
+  In general, these curatives are not used very often in vicloc, but are
+  extremely useful when they _are_ applicable, as
+  [ACP](https://maplelegends.com/lib/use?id=2022178)s do not exist.
+- [Drake&rsquo;s Meat](https://maplelegends.com/lib/use?id=2012003)s are,
+  believe it or not, a moderately useful buff food in vicloc. They provide WDEF
+  to classes that don&rsquo;t have their own WDEF buff(s): archers, thieves,
+  pirates, and beginners.
 
 ### Other items
 
