@@ -1060,7 +1060,8 @@ Viska](./img/overalls.webp
 Red Sauna Robe, Dark Crusader Chainmail, Dark Requierre,
 Red Tai, Purple Avenger, Red Viska")
 
-**See also:** [Vicloc-available equipment](./equipment.md).
+&#x2139;&#xfe0f;&nbsp;**See also:** [Vicloc-available
+equipment](./equipment.md).&nbsp;&#x2139;&#xfe0f;
 
 - Don&rsquo;t be afraid to add the stats (STR, DEX, INT, LUK) that you need to
   put on equipment appropriate for your class &amp; level, including:
@@ -1148,7 +1149,8 @@ vicloc.
 ![A 100% scroll, a 60% scroll, and a 10%
 scroll](./img/scrolls.webp "A 100% scroll, a 60% scroll, and a 10% scroll")
 
-**See also:** [Vicloc-available scrolls](./scrolls.md).
+&#x2139;&#xfe0f;&nbsp;**See also:** [Vicloc-available
+scrolls](./scrolls.md).&nbsp;&#x2139;&#xfe0f;
 
 Scrolling in vicloc can be simultaneously more and less cruel than scrolling in
 more usual styles of gameplay. On the one hand, 100% scrolls can be very
@@ -1257,7 +1259,8 @@ Speed Potion;
 Sniper Potion, Warrior Potion, Drake&rsquo;s Blood, Magic Potion,
 Sap of Ancient Tree, Drake&rsquo;s Meat, Eyedrop, Holy Water")
 
-**See also:** [Vicloc-available potions/food](./potions.md).
+&#x2139;&#xfe0f;&nbsp;**See also:** [Vicloc-available
+potions/food](./potions.md).&nbsp;&#x2139;&#xfe0f;
 
 The availability of potions and food &mdash; which may be used for HP recovery,
 MP recovery, buffs, curing debuffs, or some combination of the foregoing
@@ -1354,8 +1357,9 @@ Cursed Doll, Slime &amp; Mushroom Omok Set](./img/other-items.webp
 "Hwabis, Bronze Arrow for Crossbow, Poor Ribbon Pig Chair, Gold Ore, Screw,
 Cursed Doll, Slime &amp; Mushroom Omok Set")
 
-**See also:** [Vicloc-available ammunitions](./ammo.md), [Particularly notable
-vicloc-available ETC items](./etcs.md).
+&#x2139;&#xfe0f;&nbsp;**See also:** [Vicloc-available ammunitions](./ammo.md),
+[Particularly notable vicloc-available ETC
+items](./etcs.md).&nbsp;&#x2139;&#xfe0f;
 
 This section covers some general tips about other kinds of items, including
 ammunition, set-up items, and ETC items.
@@ -1407,7 +1411,10 @@ you&rsquo;ll surely be looking for ways to make some cash. Here are a few tips:
     - If you find a grinding spot where you take little or no damage, get a
       high KPM (kills per minute), and are mostly or exclusively killing
       monsters that drop worthwhile equipment items, then you probably have a
-      good meso farm going.
+      good meso farm going. For example, melee users who are in roughly the
+      25&ndash;45 level range will typically find [The Cave of Evil Eye
+      II](https://maplelegends.com/lib/map?id=105070200) to meet these
+      criteria.
 - Loot all of that garbage. All of the loose mesos, random ETCs, and so on.
   Every meso counts. Pet autoloot helps here.
 - As mentioned in &ldquo;[Potions/food](#potions-food)&rdquo;, you&rsquo;ll
@@ -1441,8 +1448,35 @@ you&rsquo;ll surely be looking for ways to make some cash. Here are a few tips:
 
 ![Monster Book Ring \<Tier 2\>](./img/t2.webp "Monster Book Ring \<Tier 2\>")
 
-**NOTE:** This section assumes that your implementation has the Monster Book,
-and that its implementation is the same as MapleLegends&rsquo;s.
+&#x26a0;&#xfe0f;&nbsp;**NOTE:** This section assumes that your implementation
+has the Monster Book, and that its implementation is the same as
+MapleLegends&rsquo;s.&nbsp;&#x26a0;&#xfe0f;
+
+&#x2139;&#xfe0f;&nbsp;**See also:** [Vicloc-available
+cards](./cards.md).&nbsp;&#x2139;&#xfe0f;
+
+Because [Lith Harbor](https://maplelegends.com/lib/map?id=104000000) is a part
+of Victoria Island, the Monster Book quests are available to viclockers.
+However, only so many cards are actually available, so it&rsquo;s not possible
+to attain the highest tier ([tier
+10](https://maplelegends.com/lib/equip?id=1119012)). Instead, the highest tier
+for viclockers is [tier 2](https://maplelegends.com/lib/equip?id=1119004), due
+to the fact that **there are 69 monster card sets available in all of vicloc**.
+This means that you can leave up to nine card sets uncompleted, and still
+attain the highest tier of Monster Book Ring. However, some of these sets are
+very difficult, such as
+[Ergoth](https://maplelegends.com/lib/monster?id=9300028) and
+[Tauromacis](https://maplelegends.com/lib/monster?id=7130100).
+
+You can [find the master list of monster cards &amp; where to hunt them
+here](./cards.md). The only &ldquo;missable&rdquo; set is [King
+Slime](https://maplelegends.com/lib/monster?id=9300003), because you cannot
+enter [KPQ](https://maplelegends.com/lib/map?id=103000800) once you are level
+&geq;31.
+
+Working towards a tier 2 ring is highly recommended for any serious viclocker,
+as the +2 allstat is very powerful, and the +100 MAXHP is vital for many
+squishy jobs.
 
 ## Notable quests
 
