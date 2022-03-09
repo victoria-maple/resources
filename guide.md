@@ -171,6 +171,10 @@ viclockers may have access to off-Maple-Island content such as&hellip;:
   right.
 - Events are your best friend. Events allow viclockers access to activities,
   locations, and items that they wouldn&rsquo;t otherwise have access to.
+- Area bosses ([Faust](https://maplelegends.com/lib/monster?id=5220002), [King
+  Clang](https://maplelegends.com/lib/monster?id=5220000), [Jr.
+  Balrog](https://maplelegends.com/lib/monster?id=8130100), etc.) are the
+  source of many wonderful things in vicloc, so keep an eye on them!
 - \[&hellip;TODO&hellip;\]
 - Have fun!!
 
@@ -1112,6 +1116,11 @@ Red Tai, Purple Avenger, Red Viska")
   is a great start to an HP hat. There&rsquo;s no such thing as
   &ldquo;washing&rdquo; in vicloc, so HP gear (and more generally, defensive
   gear) can be situationally crucial for the squishier classes.
+- Crafting your own equipment is common in vicloc. NPCs like
+  [Chrishrama](https://maplelegends.com/lib/npc?id=1061000), [Mr.
+  Smith](https://maplelegends.com/lib/npc?id=1022004),
+  [Vicious](https://maplelegends.com/lib/npc?id=1012002), etc. can craft useful
+  equipment items if provided with the right materials.
 
 <details>
 <summary>Footnotes for &ldquo;Equipment&rdquo;</summary>
@@ -1339,6 +1348,47 @@ in other modes of gameplay. Here are some tips relating to these consumables:
 ### Other items
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Hwabis, Bronze Arrow for Crossbow, Poor Ribbon Pig Chair, Gold Ore, Screw,
+Cursed Doll, Slime &amp; Mushroom Omok Set](./img/other-items.webp
+"Hwabis, Bronze Arrow for Crossbow, Poor Ribbon Pig Chair, Gold Ore, Screw,
+Cursed Doll, Slime &amp; Mushroom Omok Set")
+
+**See also:** [Vicloc-available ammunitions](./ammo.md), [Particularly notable
+vicloc-available ETC items](./etcs.md).
+
+This section covers some general tips about other kinds of items, including
+ammunition, set-up items, and ETC items.
+
+- **Don&rsquo;t hesitate to hoard stuff**. You&rsquo;re going to want some more
+  inventory space, because a surprising number of items in vicloc have some use
+  for quests, crafting, etc.
+- Some items that would ordinarily be useful are simply useless in vicloc. For
+  example:
+    - [Power Crystal Ore](https://maplelegends.com/lib/etc?id=4004000)s.
+    - [Dark Crystal Ore](https://maplelegends.com/lib/etc?id=4004004)s.
+    - [Blaze Capsule](https://maplelegends.com/lib/use?id=2331000)s.
+    - &vellip;
+
+  Such items may be transferred offland, or in some cases, sold to NPCs in
+  exchange for mesos. Or you can keep them just to look at them.
+- [Tree Branch](https://maplelegends.com/lib/etc?id=4000003)es &mdash; and
+  particularly, [Firewood](https://maplelegends.com/lib/etc?id=4000018)s
+  &mdash; may be crafted into [Processed
+  Wood](https://maplelegends.com/lib/etc?id=4003001)s to save inventory space.
+  It&rsquo;s still a good idea to keep at least some of the Tree Branches &amp;
+  Firewoods around, as you cannot craft the Processed Woods back into
+  unprocessed wood items.
+- Archers will almost always be using [Soul
+  Arrow](https://maplelegends.com/lib/skill?id=3101004), but in cases where it
+  really matters, it may be useful to ask
+  [Vicious](https://maplelegends.com/lib/npc?id=1012002) to craft some bronze
+  [arrows](https://maplelegends.com/lib/use?id=2060001)/[quarrels](https://maplelegends.com/lib/use?id=2061001).
+- Keep those [Omok Table](https://maplelegends.com/lib/etc?id=4030009)s, [omok
+  piece](https://maplelegends.com/lib/etc?id=4030000)s, and [Monster
+  Card](https://maplelegends.com/lib/etc?id=4030012)s around so that you can
+  make some [Omok](https://maplelegends.com/lib/etc?id=4080000) and [Match
+  Cards set](https://maplelegends.com/lib/etc?id=4080100)s!
 
 ### Making money
 
