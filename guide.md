@@ -1582,6 +1582,40 @@ player to defeat [Dyle](https://maplelegends.com/lib/monster?id=6220000).
 ![Moonstone Wedding
 Ring](./img/moonstone-wedding-ring.webp "Moonstone Wedding Ring")
 
+&#x2139;&#xfe0f;&nbsp;**See also:** [\[Guide\] Weddings
+Revamped!](https://forum.maplelegends.com/index.php?threads/guide-weddings-revamped.33603/).&nbsp;&#x2139;&#xfe0f;
+
+In the presence of [Amoria](https://maplelegends.com/lib/map?id=680000000),
+marriage plays a very special role in vicloc. Marriage confers the following
+game-mechanical benefits:
+
+- The ability to do [APQ](https://maplelegends.com/lib/map?id=670010100).
+- A wedding ring.
+- Onyx Chests ([for the bride &amp;
+  groom](https://maplelegends.com/lib/etc?id=4031424), and [for each
+  guest](https://maplelegends.com/lib/etc?id=4031423)).\*
+
+\*The final item in the above list is asterisked because it only applies to
+premium weddings.
+
+With this in mind, here are some marriage guidelines:
+
+- Because Onyx Chests are only given out by premium weddings, it&rsquo;s always
+  worth spending the extra NX for a premium wedding.
+    - Onyx Chests can contain valuable items, and even items that are unique to
+      Onyx Chests.
+- Weddings can be a lot of fun, and in the case of a premium wedding, every
+  guest gets an Onyx Chest (in addition to the bride &amp; groom each getting
+  theirs). So be sure to invite as many people as you can!
+- Be sure that when you craft an engagement ring, you go for either the [Star
+  Gem](https://maplelegends.com/lib/etc?id=4031360) or the
+  [Moonstone](https://maplelegends.com/lib/etc?id=4031358). Going for one of
+  the other two will mean **losing out on 20 MDEF**.
+- When marrying someone, consider the possibility of doing APQ with them. Doing
+  APQ with your spouse is the only way to do all-couples APQs (APQs in which
+  the party consists of three married couples), which have a special bonus
+  stage associated with them that can get you a 7-slot cape!
+
 ## Endgame
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)

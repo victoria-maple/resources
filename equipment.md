@@ -1234,8 +1234,8 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 ## Rings
 
 | name                         | level | stat reqs | stats                                     | slots | dropped by | awarded by                        | sold at | craftable at |
-| :--------------------------- | ----: | :-------- | :---------------------------------------- | ----: | :--------- | :-------------------------------- | :------ | :----------- | --- |
-| Silver Swan Wedding Ring     |     0 |           | 10 MDEF                                   |     2 |            | \[wedding\]                       |         |              | `   |
+| :--------------------------- | ----: | :-------- | :---------------------------------------- | ----: | :--------- | :-------------------------------- | :------ | :----------- |
+| Silver Swan Wedding Ring     |     0 |           | 10 MDEF                                   |     2 |            | \[wedding\]                       |         |              |
 | Golden Heart Wedding Ring    |     0 |           | 10 MDEF                                   |     2 |            | \[wedding\]                       |         |              |
 | Star Gem Wedding Ring        |     0 |           | 30 MDEF                                   |     3 |            | \[wedding\]                       |         |              |
 | Moonstone Wedding Ring       |     0 |           | 30 MDEF                                   |     3 |            | \[wedding\]                       |         |              |
