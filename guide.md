@@ -182,7 +182,6 @@ viclockers may have access to off-Maple-Island content such as&hellip;:
   Clang](https://maplelegends.com/lib/monster?id=5220000), [Jr.
   Balrog](https://maplelegends.com/lib/monster?id=8130100), etc.) are the
   source of many wonderful things in vicloc, so keep an eye on them!
-- \[&hellip;TODO&hellip;\]
 - Have fun!!
 
 ## A comparison of vicloc classes/jobs
