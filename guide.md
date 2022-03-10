@@ -1654,7 +1654,7 @@ this section:
 ![Geist Balrog (Grog)](./img/geist-balrog.webp "Geist Balrog (Grog)")
 
 &#x2139;&#xfe0f;&nbsp;**See also:** [Amoria Party Quest
-(APQ)](https://mapleroyals.com/forum/threads/amoria-party-quest-apq.31743/)&nbsp;&#x2139;&#xfe0f;
+(APQ)](https://mapleroyals.com/forum/threads/amoria-party-quest-apq.31743/).&nbsp;&#x2139;&#xfe0f;
 
 The Amorian Party Quest, a\.k\.a. APQ, is a love-themed party quest designed to
 be engaging for characters of all levels 40 and up. APQ offers several
@@ -1796,8 +1796,8 @@ annoying:
   cancel&rdquo; buff).
 - Perhaps worst of all, phase 3 is capable of essentially phasing out of
   existence and becoming invincible whenever it wants to. There are basically
-  two strategies (which should ideally be used at the same time) for coping
-  with this tomfoolery:
+  two strategies &mdash; which should, ideally, be used at the same time
+  &mdash; for coping with this tomfoolery:
     - Making sure that everyone stays as close to the very bottom of the map as
       possible can help. You usually want Grog to come to you, not the other
       way around. If you chase Grog, the likely outcome is that Grog simply
@@ -1836,4 +1836,149 @@ at the bottom-left corner of the map.
 
 &#x2139;&#xfe0f;&nbsp;**See also:** [&#x272f; HOLLYWOOD Presents: A
 Comprehensive Guide to Guild Party Quest
-(GPQ)](https://mapleroyals.com/forum/threads/%E2%9C%AF-hollywood-presents-a-comprehensive-guide-to-guild-party-quest-gpq.27299/)&nbsp;&#x2139;&#xfe0f;
+(GPQ)](https://mapleroyals.com/forum/threads/%E2%9C%AF-hollywood-presents-a-comprehensive-guide-to-guild-party-quest-gpq.27299/).&nbsp;&#x2139;&#xfe0f;
+
+This is the big one. The Sharenian Party Quest (SPQ) &mdash; a\.k\.a. Guild
+Party Quest (GPQ) &mdash; is the ultimate vicloc challenge. This PQ is
+guild-only, so if you&rsquo;re a member of the **Victoria** guild (or of any
+other vicloc guild), then SPQ is necessarily a vicloc-only affair. Like APQ,
+SPQ harbours one of the biggest, baddest bad guys in all of vicloc &mdash;
+indeed, _the_ biggest, baddest guy of all of Victoria Island:
+[Ergoth](https://maplelegends.com/lib/monster?id=9300028).
+
+But, before we get to Ergoth (and its lithic minions, which are also very
+important), we have to talk about getting to [Ergoth&rsquo;s
+Throne](https://maplelegends.com/lib/map?id=990000900) in the first place, and
+about why you might want to do such a thing.
+
+SPQ was designed with a focus on making a fun and inclusive experience that
+encourages bonding between guildmates. As a result:
+
+- SPQ can be quite forgiving in some ways. For example, if you die in SPQ, you
+  are not eliminated from the PQ as a result. You can simply press
+  &ldquo;OK&rdquo; on the death dialog box to be respawned at the beginning of
+  the PQ. Of course, this does mean that you have to walk _all_ the way back,
+  any time that you die. You will also still lose EXP as normal, unless you use
+  a [Safety Charm](https://maplelegends.com/lib/cash?id=5130000) (or are a
+  beginner). The other notable example is that Ergoth&rsquo;s Throne can be
+  entered in two distinct ways: entering through the large doors takes you to
+  the battle floor, whereas sneaking through a crack in one of the pillars will
+  take you to a balcony above the battle, where you can watch the fight without
+  fear of death (just don&rsquo;t touch the spiky stuff).
+- SPQ has a few unusual requirements, which will be touched upon later.
+- The rewards that SPQ offers can seem mildly underwhelming, if you were
+  expecting such a challenge to give generally better rewards than APQ. Whereas
+  APQ is focused on the candy at the end, SPQ is focused on the journey; the
+  _real_ reward is the friends that we made along the way! That being said, SPQ
+  doesn&rsquo;t skimp out on rewards:
+    - Like APQ, SPQ has a bonus stage, which can award things like:
+        - Valuable and/or exotic 60% scrolls.
+        - NX.
+        - Some decent potions/food, e\.g. [Power
+          Elixir](https://maplelegends.com/lib/use?id=2000005)s.
+    - Ergoth grants 150[k](https://en.wikipedia.org/wiki/Kilo-) base EXP, which
+      is enough to give a halfway-decent EXP payout to those who deal damage to
+      it. Note that this is the only source of EXP in SPQ, and that Ergoth is
+      level 115.
+
+The concrete, bare minimum requirements for entering &amp; completing SPQ are
+as follows:
+
+- All participants must be members of the same guild.
+- All participants must be level &geq;10.
+- At least six total participants must be present in the PQ at all times.
+- At least one participant must have [Dark
+  Sight](https://maplelegends.com/lib/skill?id=4001003). In MapleLegends, a
+  brawler also works here, as [Oak
+  Barrel](https://maplelegends.com/lib/skill?id=5101007) is just a more
+  powerful version of Dark Sight.
+- At least one participant must have
+  [Haste](https://maplelegends.com/lib/skill?id=4101004) or equivalent.
+  Anything that gets you to the same (or better) SPEED &amp; JUMP as Haste
+  &mdash; including things like equipment items &mdash; is enough to complete
+  the JQs (jump quests) that &ldquo;require Haste&rdquo;.
+- At least one participant must have level &geq;17
+  [Teleport](https://maplelegends.com/lib/skill?id=2101002).
+- At least one participant must be truly ranged. Usually, this is a gunslinger,
+  an archer, or an assassin.
+- At least one participant must be level &leq;30, but still level &geq;10. This
+  participant must be strong enough to kill [Devil
+  Slime](https://maplelegends.com/lib/monster?id=9300027)s (level 23; 1k HP
+  each).
+- Your team must be capable of slaying Ergoth and its minions.
+
+Assuming that you meet the bare minimum requirements listed above, your team
+should usually be capable &mdash; with some not-insignificant effort &mdash; of
+making it past the first stages of SPQ, and reaching Ergoth&rsquo;s Throne (for
+a general guide to SPQ, see: &ldquo;[&#x272f; HOLLYWOOD Presents: A
+Comprehensive Guide to Guild Party Quest
+(GPQ)](https://mapleroyals.com/forum/threads/%E2%9C%AF-hollywood-presents-a-comprehensive-guide-to-guild-party-quest-gpq.27299/)&rdquo;).
+Although Ergoth and its minions are indeed the big killer here, **the stages
+that come before Ergoth&rsquo;s Throne are _not_ to be underestimated**; not
+only are these stages often quite difficult on their own, but they will
+seriously cut into the time that you have remaining to actually fight Ergoth
+&amp; its minions. SPQ starts with 90 minutes on the clock, and by the time
+that you get to Ergoth&rsquo;s Throne (if you even do), this number will have
+decreased to significantly less than 90.
+
+With all of that said, here are some things that you should know about the
+fight against Ergoth:
+
+- The fight does not begin immediately upon entering the map. You have to break
+  the crystal sitting in Ergoth&rsquo;s throne by using basic attacks, which
+  then immediately spawns Ergoth &amp; all four of its statue minions.
+- Although Ergoth _is_ one ugly-ass bitch, you don&rsquo;t want to start
+  attacking Ergoth right away. The statues should be your first priority, as
+  they are actually much more dangeous than Ergoth itself, and also naturally
+  shield Ergoth from ranged attacks due to their positioning. The statues are
+  as follows:
+    - [Lion Statue A](https://maplelegends.com/lib/monster?id=9300029):
+      1[M](https://en.wikipedia.org/wiki/Mega-) HP, level 99, 800 WDEF, 850
+      MDEF.
+    - [Lion Statue B](https://maplelegends.com/lib/monster?id=9300030): 800k
+      HP, level 99, 800 WDEF, 850 MDEF.
+    - [Knight Statue A](https://maplelegends.com/lib/monster?id=9300031): 900k
+      HP, level 100, 950 WDEF, 920 MDEF.
+    - [Knight Statue B](https://maplelegends.com/lib/monster?id=9300032): 900k
+      HP, level 100, 950 WDEF, 920 MDEF.
+
+    As you can see, these are some real tanks. Thankfully, their AVOID values
+    are low (13&ndash;14) &mdash; presumably as a result of being literal
+    statues &mdash; so you shouldn&rsquo;t have much trouble with
+    &ldquo;**MISS**&rdquo;es. These statues are responsible for making the
+    fight scary:
+
+    - **The statues are capable of dispelling**. This is particularly
+      problematic, as many of your team members (and possibly also yourself)
+      will be relying on one or more buffs to survive, e\.g. [Magic
+      Guard](https://maplelegends.com/lib/skill?id=2001002) or [Hyper
+      Body](https://maplelegends.com/lib/skill?id=1301007).
+    - The statues can 1/1. A 1/1 is an attack that sets your HP and MP values
+      to 1. This can&rsquo;t actually kill you directly, but obviously it gets
+      pretty damn close.
+    - The statues can seal you, so make sure to have plenty of [Holy
+      Water](https://maplelegends.com/lib/use?id=2050003)s on hand.
+- You can expect to take **up to &ap;4k damage from a single attack** during
+  this fight. You&rsquo;re going to need to muster as much MDEF, HP, Hyper
+  Body, etc. as possible for your squishier team members.
+- Once you take out the statues (which have a combined HP of 3\.6M), you still
+  have Ergoth to deal with. Ranged attackers will likely already be killing
+  Ergoth before all of the statues are dead, as two of the statues (one lion
+  and one knight) are on Ergoth&rsquo;s right-hand side, near the wall.
+  It&rsquo;s largely the responsibility of non-ranged folks (including mages)
+  to take out these two statues, although it&rsquo;s certainly possible for
+  ranged attackers to sneak through and attack from the far right boundary of
+  the map.
+
+  Ergoth itself has 1\.7M HP, is level 115(!), has 1\.1k(!) WDEF, and has
+  1\.2k(!) MDEF. Its AVOID (18) is modestly higher than that of the statues,
+  but shouldn&rsquo;t cause huge issues except for warriors and lower-level
+  participants (as level difference factors into the probability of hitting).
+  Ergoth likes to do weapon cancels and to do magic cancels, can still hit for
+  up to &ap;4k damage, but thankfully cannot dispel. So you just have to whale
+  on this skeleton thing until it gives you [its
+  ruby](https://maplelegends.com/lib/etc?id=4001024).
+- All monsters involved in this fight are strong against all five elements, so
+  unfortunately, the mages on your team who want to deal damage will be reduced
+  to [Magic Claw](https://maplelegends.com/lib/skill?id=2001005) and/or [Energy
+  Bolt](https://maplelegends.com/lib/skill?id=2001004).
