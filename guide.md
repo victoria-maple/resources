@@ -37,6 +37,8 @@
     - [For mesos/items](#for-mesos-items)
 - [Marriage](#marriage)
 - [Endgame](#endgame)
+    - [APQ](#apq)
+    - [SPQ](#spq)
 
 ## What is &ldquo;vicloc&rdquo;?
 
@@ -45,6 +47,9 @@
 ![An example world map of Victoria
 Island](./img/victoria-island-world-map.webp
 "An example world map of Victoria Island")
+
+&#x2139;&#xfe0f;&nbsp;**See also:** [Vicloc
+rules](./rules.md).&nbsp;&#x2139;&#xfe0f;
 
 &ldquo;Vicloc&rdquo; (a\.k\.a. &ldquo;viclock&rdquo;) stands for
 &ldquo;Victoria-Island-locked&rdquo;. Characters playing in this style of
@@ -1013,11 +1018,11 @@ HPQ, a &ldquo;high&rdquo; level is considered to be 20, and for APQ, a
 take into account the EXP gained from farming [Lip Lock
 Key](https://maplelegends.com/lib/etc?id=4031593)s.
 
-| PQ  | party size |        level |    stage EXP | EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
-| :-- | ---------: | -----------: | -----------: | -------------: | -----------------: | ------------------: |
-| HPQ |  3&ndash;6 | 10&ndash;200 |  3&numsp;200 |    4&numsp;600 |           268\.07% |             22\.75% |
-| KPQ |  3&ndash;6 |  21&ndash;30 |  6&numsp;000 |   14&numsp;900 |            61\.06% |             15\.57% |
-| APQ |  6&ndash;6 | 40&ndash;200 | 72&numsp;000 |   73&numsp;000 |            24\.81% |              2\.08% |
+| PQ  | party size |        level |    stage EXP |   EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
+| :-- | ---------: | -----------: | -----------: | ---------------: | -----------------: | ------------------: |
+| HPQ |  3&ndash;6 | 10&ndash;200 |  3&numsp;200 |  &ap;4&numsp;600 |       &ap;268\.07% |         &ap;22\.75% |
+| KPQ |  3&ndash;6 |  21&ndash;30 |  6&numsp;000 | &ap;14&numsp;900 |        &ap;61\.06% |         &ap;15\.57% |
+| APQ |  6&ndash;6 | 40&ndash;200 | 72&numsp;000 | &ap;73&numsp;000 |        &ap;24\.81% |          &ap;2\.08% |
 
 <!--
 HPQ  3-run avg:  4635.333...
@@ -1620,4 +1625,215 @@ With this in mind, here are some marriage guidelines:
 
 [\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
 
+![Ergoth&rsquo;s Throne](./img/throne-of-ergoth.webp "Ergoth&rsquo;s Throne")
+
+So you&rsquo;ve made it this far, and you&rsquo;re wondering what there is to
+do in vicloc once you&rsquo;re All Grown Up&trade;. The good news is that there
+are plenty of things to do at all levels of vicloc. First, we&rsquo;ll list a
+few of the activities that are available to high-level viclockers, and then
+we&rsquo;ll focus on just the first one, as it&rsquo;s the most relevant to
+this section:
+
+- [APQ](https://maplelegends.com/lib/map?id=670010100) and
+  [SPQ](https://maplelegends.com/lib/map?id=990000000).
+- Endgame grinding for EXP usually takes place at
+  [FoG](https://maplelegends.com/lib/map?id=105040306), although other maps
+  (e\.g. [Camp 3](https://maplelegends.com/lib/map?id=101030112)) are possible.
+  The sky is the limit when it comes to levelling up in vicloc; farming for EXP
+  can be made quite efficient, but not so efficient that the absolute maximum
+  level of 200 ever becomes an obstacle.
+- Gradually honing &amp; refining your gear.
+- Whatever else you might desire: farming
+  [Drake](https://maplelegends.com/lib/monster?id=5130100)s, henehoeing,
+  playing Omok, farming events, or even making another viclocker&hellip;!
+
+### APQ
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
+![Geist Balrog (Grog)](./img/geist-balrog.webp "Geist Balrog (Grog)")
+
+&#x2139;&#xfe0f;&nbsp;**See also:** [Amoria Party Quest
+(APQ)](https://mapleroyals.com/forum/threads/amoria-party-quest-apq.31743/)&nbsp;&#x2139;&#xfe0f;
+
+The Amorian Party Quest, a\.k\.a. APQ, is a love-themed party quest designed to
+be engaging for characters of all levels 40 and up. APQ offers several
+benefits, including:
+
+- Doing APQ &mdash; and farming for the [Lip Lock
+  Key](https://maplelegends.com/lib/etc?id=4031593)s necessary to enter the PQ
+  &mdash; is a decent source of EXP, and even an excellent source of EXP at
+  lower levels.
+- [APQ&rsquo;s bonus stage](https://maplelegends.com/lib/map?id=670010800)
+  dispenses all kinds of valuable goodies:
+    - [Onyx Apple](https://maplelegends.com/lib/use?id=2022179).
+    - [Victoria&rsquo;s Amorian
+      Basket](https://maplelegends.com/lib/use?id=2022181).
+    - [Amos&rsquo;s Royal Cape](https://maplelegends.com/lib/equip?id=1102099).
+    - [Amos&rsquo;s Spirit
+      Cape](https://maplelegends.com/lib/equip?id=1102100).
+    - [Cecelia&rsquo;s
+      Earrings](https://maplelegends.com/lib/equip?id=1032043).
+    - [GFA60](https://maplelegends.com/lib/use?id=2040804).
+    - [Cape for STR 30%](https://maplelegends.com/lib/use?id=2041035).
+    - [Cape for DEX 30%](https://maplelegends.com/lib/use?id=2041039).
+    - [Cape for INT 30%](https://maplelegends.com/lib/use?id=2041037).
+    - [Cape for LUK 30%](https://maplelegends.com/lib/use?id=2041041).
+    - [Helmet for HP 10%](https://maplelegends.com/lib/use?id=2040005).
+    - [Gold Plate](https://maplelegends.com/lib/etc?id=4011006).
+    - [Black Crystal](https://maplelegends.com/lib/etc?id=4021008).
+    - [Diamond](https://maplelegends.com/lib/etc?id=4021007).
+    - [Diamond Ore](https://maplelegends.com/lib/etc?id=4020007).
+    - [Power Elixir](https://maplelegends.com/lib/use?id=2000005).
+    - [Amorian Rice Cookie](https://maplelegends.com/lib/use?id=2022180).
+    - [Mushroom Miso Ramen](https://maplelegends.com/lib/use?id=2022015).
+    - [Reindeer Milk](https://maplelegends.com/lib/use?id=2020013).
+    - [Grape Juice](https://maplelegends.com/lib/use?id=2020010).
+
+  In fact, the first two items on this list are so powerful, that we have a
+  rule (see: &ldquo;[Vicloc rules](./rules.md)&rdquo;) in place to limit their
+  availability! Basically, Onyx Apples and Victoria&rsquo;s Amorian Baskets can
+  only be used if they originated from an APQ completed by a party made
+  entirely of viclockers. This is designed to incentivise vicloc APQs in
+  preparation for doing additional &ldquo;endgame stuff&rdquo; &mdash;
+  particularly SPQ, or possibly more APQ!
+- An all-couples APQ (an APQ completed by a party of three married couples) has
+  [a special bonus stage](https://maplelegends.com/lib/map?id=670010750) from
+  which it&rsquo;s possible to obtain Cecelia Cloaks
+  ([1](https://maplelegends.com/lib/equip?id=1102104),
+  [2](https://maplelegends.com/lib/equip?id=1102105),
+  [3](https://maplelegends.com/lib/equip?id=1102106)) and The Legendary Elias
+  Capes ([1](https://maplelegends.com/lib/equip?id=1102101),
+  [2](https://maplelegends.com/lib/equip?id=1102102),
+  [3](https://maplelegends.com/lib/equip?id=1102103))! These capes have the
+  highest damage potential of any cape in vicloc, due to each one having 7
+  slots clean.
+- It&rsquo;s fun!!
+
+You can get to the APQ lobby by starting in
+[Amoria](https://maplelegends.com/lib/map?id=680000000) and going rightwards
+(east). One map to the right of
+[PWF2](https://maplelegends.com/lib/map?id=670000200), and you&rsquo;ll be at
+[Amos&rsquo; Training Ground](https://maplelegends.com/lib/map?id=670010000).
+In order to enter APQ at all, you&rsquo;ll need to&hellip;:
+
+- &hellip;Be married. See &ldquo;[Marriage](#marriage)&rdquo; above.
+- &hellip;Be level &geq;40.
+- &hellip;Have an [Entrance
+  Ticket](https://maplelegends.com/lib/etc?id=4031592). To get an Entrance
+  Ticket, you must turn 10 [Lip Lock
+  Key](https://maplelegends.com/lib/etc?id=4031593)s in to [Amos the
+  Strong](https://maplelegends.com/lib/npc?id=9201043) (at his training
+  ground). Lip Lock Keys are ordinary drops from [Crystal
+  Boar](https://maplelegends.com/lib/monster?id=9400516)s and [Indigo
+  Eye](https://maplelegends.com/lib/monster?id=9400515)s, so the usual place to
+  farm them is [PWF2](https://maplelegends.com/lib/map?id=670000200); note,
+  however, that [PWF1](https://maplelegends.com/lib/map?id=670000100) is
+  usually superior<sup>\[1\]</sup> when farming as a party of one or two
+  characters.
+
+  However, there are some caveats to this process:
+    - Making an Entrance Ticket (by turning 10 Lip Lock Keys in to Amos) has a
+      &ldquo;cooldown&rdquo; of six hours.
+    - Lip Lock Keys are untradeable, so you do have to farm them yourself.
+    - Exiting APQ destroys all Lip Lock Keys in your inventory, thus making
+      key-farming in advance (e\.g. farming 20 keys at once to prepare for
+      making two Entrance Tickets) impossible.
+
+You can consult &ldquo;[Amoria Party Quest
+(APQ)](https://mapleroyals.com/forum/threads/amoria-party-quest-apq.31743/)&rdquo;
+for a guide that walks through the stages of APQ. For our purposes, the first
+five stages &mdash; and the bonus stage(s) &mdash; are fun, but play the same
+in vicloc as they do for outlanders. The sixth stage ([Stage 6 &mdash; Love
+Hurts](https://maplelegends.com/lib/map?id=670010700)), however, features one
+of the biggest bad guys in all of vicloc: Geist Balrog (&ldquo;Grog&rdquo; for
+short).
+
+The Geist Balrog comes in three phases (three bodies):
+
+1. [Phase 1](https://maplelegends.com/lib/monster?id=9400536), which looks like
+   [Jr. Balrog](https://maplelegends.com/lib/monster?id=8130100).
+2. [Phase 2](https://maplelegends.com/lib/monster?id=9400537), which looks like
+   [Crimson Balrog](https://maplelegends.com/lib/monster?id=8150000) (whatever
+   that is).
+3. [Phase 3](https://maplelegends.com/lib/monster?id=9400514), which looks like
+   an albino version of phase 2, or something like that.
+
+Phases 1 and 2 have significant HP pools (100k and 300k, respectively), but are
+not as fearsome as phase 3. One exception is that phase 2 is actually five
+levels higher than phase 3, and has more AVOID (40&nbsp;\>&nbsp;35). So phase 2
+can actually be pretty difficult to hit, particularly if you&rsquo;re an
+accuracy-starved job (e\.g. a typical warrior). Also note that while phase 3 is
+immune to holy-typed damage, phases 1 and 2 are actually _weak_ to holy-typed
+damage. So ask your cleric to stick some [Holy
+Arrow](https://maplelegends.com/lib/skill?id=2301005)s into those first two
+phases.
+
+Phase 3 is where it gets interesting &mdash; or, depending on who you ask,
+annoying:
+
+- Phase 3 has 1\.5 million HP, which is more than thrice as much as the first
+  two phases combined.
+- Phase 3 is capable of dealing up to
+  1\.5[k](https://en.wikipedia.org/wiki/Kilo-)&ndash;1\.6k damage per magic
+  attack.
+- Phase 3 can dispel your buffs, removing any buffs that aren&rsquo;t the
+  result of consuming potions/food. This is particularly dangerous for mages,
+  as their [Magic Guard](https://maplelegends.com/lib/skill?id=2001002) will be
+  dispelled by this action.
+- Phase 3 is level 95 and has 35 AVOID. This isn&rsquo;t as powerful as phase
+  2, but warriors etc. will still want to ensure that they minimise
+  &ldquo;**MISS**&rdquo;ing.
+- Phase 3 is immune to poison, holy, fire, and ice, so mages will need to use
+  some combination of&hellip;
+    - [Magic Claw](https://maplelegends.com/lib/skill?id=2001005).
+    - [Thunderbolt](https://maplelegends.com/lib/skill?id=2201005).
+    - [Energy Bolt](https://maplelegends.com/lib/skill?id=2001004).
+
+  &hellip;If they want to deal damage to phase 3.
+- Phase 3 likes to cancel physical attacks (the &ldquo;weapon cancel&rdquo;
+  buff), and also likes to cancel magical attacks (the &ldquo;magic
+  cancel&rdquo; buff).
+- Perhaps worst of all, phase 3 is capable of essentially phasing out of
+  existence and becoming invincible whenever it wants to. There are basically
+  two strategies (which should ideally be used at the same time) for coping
+  with this tomfoolery:
+    - Making sure that everyone stays as close to the very bottom of the map as
+      possible can help. You usually want Grog to come to you, not the other
+      way around. If you chase Grog, the likely outcome is that Grog simply
+      taunts you by repeatedly going invincible while just out of reach. If you
+      force Grog to come to the bottom of the map to attack you, this gives
+      your entire party much easier access to Grog, which can improve DPM
+      immensely, and also help with the second strategy.
+    - Phase 3&rsquo;s knockback (KB) value is 2k. For those who spread each of
+      their attacks over multiple lines (the extreme case being bandits using
+      [Savage Blow](https://maplelegends.com/lib/skill?id=4201005)),
+      consistently hitting &geq;2k damage lines can be a bit tough, but doable
+      in many cases. Even easier is using attacks like the warrior&rsquo;s
+      [Power Strike](https://maplelegends.com/lib/skill?id=1001004) or the
+      brawler&rsquo;s [Flash
+      Fist](https://maplelegends.com/lib/skill?id=5001001) &mdash; or even the
+      archer&rsquo;s [Arrow
+      Blow](https://maplelegends.com/lib/skill?id=3001004) &mdash; to deal a
+      single big line on each attack. Keeping Grog consistently KB&rsquo;d
+      helps _immensely_, as being KB&rsquo;d is the only thing that truly stops
+      it from going invincible.
+
+<details>
+<summary>Footnotes for &ldquo;APQ&rdquo;</summary>
+
+\[1\]: Using PWF1 to its full potential typically requires knowledge of how to
+fall off of the map. Falling through the floor of the map always respawns you
+at the bottom-left corner of the map.
+
+</details>
+
+### SPQ
+
+[\[&uarr; Go back to top &uarr;\]](#a-guide-to-vicloc)
+
 ![Ergoth](./img/ergoth.webp "Ergoth")
+
+&#x2139;&#xfe0f;&nbsp;**See also:** [&#x272f; HOLLYWOOD Presents: A
+Comprehensive Guide to Guild Party Quest
+(GPQ)](https://mapleroyals.com/forum/threads/%E2%9C%AF-hollywood-presents-a-comprehensive-guide-to-guild-party-quest-gpq.27299/)&nbsp;&#x2139;&#xfe0f;
