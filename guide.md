@@ -1306,6 +1306,16 @@ in other modes of gameplay. Here are some tips relating to these consumables:
       [Unagi](https://maplelegends.com/lib/use?id=2022003)s, [Pure
       Water](https://maplelegends.com/lib/use?id=2022000)s, and
       [Watermelon](https://maplelegends.com/lib/use?id=2001000)s.
+    - The [Ellinia Department
+      Store](https://maplelegends.com/lib/map?id=101000002) (tended by [Len the
+      Fairy](https://maplelegends.com/lib/npc?id=1031100)) sells MP potions
+      (e\.g. [Mana Elixir](https://maplelegends.com/lib/use?id=2000006)s) at a
+      discount, when compared to other department stores.
+    - [Hot Dog Supreme](https://maplelegends.com/lib/use?id=2020006)s are also
+      of note here, as they recover 500 HP each, for just 530 mesos each
+      (&ap;0\.943 HP&#x29f8;meso). These can be purchased from the [24 Hr
+      Mobile Store](https://maplelegends.com/lib/npc?id=1061001) at [Ant Tunnel
+      Park](https://maplelegends.com/lib/map?id=105070001).
 - [Power Elixir](https://maplelegends.com/lib/use?id=2000005)s are precious
   items that can be very useful for viclockers who are fighting foes that
   nearly one-shot them. They are difficult to come by (the [A Spell That Seals
@@ -1318,11 +1328,6 @@ in other modes of gameplay. Here are some tips relating to these consumables:
   useful &mdash; one can bind them to pet autopot and then manually pot once
   after every hit &mdash; or they can be used as efficient HP or MP recovery by
   warriors or mages, respectively.
-- The [Ellinia Department Store](https://maplelegends.com/lib/map?id=101000002)
-  (tended by [Len the Fairy](https://maplelegends.com/lib/npc?id=1031100))
-  sells MP potions (e\.g. [Mana
-  Elixir](https://maplelegends.com/lib/use?id=2000006)s) at a discount, when
-  compared to other department stores.
 - The buff potions that are sold at essentially every department store (e\.g.
   the [Henesys Department
   Store](https://maplelegends.com/lib/map?id=100000102)) are all useful:
