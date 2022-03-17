@@ -1699,6 +1699,7 @@ benefits, including:
       Cape](https://maplelegends.com/lib/equip?id=1102100).
     - [Cecelia&rsquo;s
       Earrings](https://maplelegends.com/lib/equip?id=1032043).
+    - [Celestial Earrings](https://maplelegends.com/lib/equip?id=1032045).
     - [GFA60](https://maplelegends.com/lib/use?id=2040804).
     - [Cape for STR 30%](https://maplelegends.com/lib/use?id=2041035).
     - [Cape for DEX 30%](https://maplelegends.com/lib/use?id=2041039).
@@ -1905,6 +1906,19 @@ encourages bonding between guildmates. As a result:
       is enough to give a halfway-decent EXP payout to those who deal damage to
       it. Note that this is the only source of EXP in SPQ, and that Ergoth is
       level 115.
+    - Another significant source of EXP are the [Devil
+      Slime](https://maplelegends.com/lib/monster?id=9300027)s that spawn
+      within the &rdquo;[Hat](https://maplelegends.com/lib/etc?id=4001034)
+      Room&ldquo;/&rdquo;Hat JQ&ldquo; section (specifically within the
+      [Waterway Maze](https://maplelegends.com/lib/map?id=990000640) map).
+      These monsters have an incredibly high EXP&ratio;HP ratio &mdash; they
+      have the same HP as [KPQ
+      Ligator](https://maplelegends.com/lib/monster?id=9300001)s, but give 170
+      base EXP instead of 120. This is pretty huge, considering that KPQ
+      Ligators already have extremely high EXP&ratio;HP ratio, and considering
+      that Devil Slimes are easier to kill. However, only 20 of these Devil
+      Slimes spawn, and they never respawn, so you can&rsquo;t exactly train
+      here; it&rsquo;s just a nifty EXP boost for whoever does the Hat section.
 
 The concrete, bare minimum requirements for entering &amp; completing SPQ are
 as follows:
