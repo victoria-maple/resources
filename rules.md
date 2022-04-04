@@ -100,6 +100,10 @@
       otherwise be disallowed may be allowed if the player deems them to be
       sufficiently “not overpowered”. It is left to the reader to decide what
       exactly “overpowered” means in this context.
+        - **Clarification:** Maple weapons are _always_ disallowed. Maple
+          weapons include level 35, 43, and 64 (and sometimes higher levels,
+          like 77) weapons that are ordinarily available exclusively from the
+          anniversary/Mapleversary event.
 10. The following items — all of which are exclusively obtainable from the
     Amoria Party Quest (APQ) — may not be acquired by vicloc PCs, unless they
     are obtained from an APQ run whose participants are all vicloc PCs:
