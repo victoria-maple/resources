@@ -25,6 +25,10 @@
 
    You may, however, give away items/mesos to any PCs (vicloc or not).
 
+    - **Clarification:** Transferring items through the Cash Shop from a
+      non-vicloc PC to a vicloc PC violates this rule.
+        - **Exception:** You may freely transfer items through the Cash Shop
+          that are purely cosmetic.
     - **Exception:** A maximum of 20 [Soft
       Feathers](https://maplelegends.com/lib/etc?id=4003005) per vicloc PC may
       be transferred from a non-vicloc PC to a vicloc PC, for the express
@@ -73,6 +77,12 @@
       be “muling” for the purpose of this rule. These buffs are cast by PCs
       without the use of (an) item(s), but do not require you to be in the same
       party as the caster to benefit from them.
+    - **Clarification:** This rule only applies to buff mules <i>per se</i>;
+      buff mules are party members that are only in the party to cast buffs on
+      their fellow party members, and not to actually participate in the party.
+    - **Clarification:** If you inadvertently receive buff(s) from a buff mule,
+      you may simply cancel it/them immediately by right-clicking on the
+      corresponding buff icon(s).
 9. You may not possess equipment items that exclusively originate from event
    (e\.g. anniversary event, summer event, Christmas event, etc.) sources.
    Vicloc PCs who are in possession of such items may either give them away to
