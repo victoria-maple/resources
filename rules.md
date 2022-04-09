@@ -110,6 +110,11 @@
           weapons include level 35, 43, and 64 (and sometimes higher levels,
           like 77) weapons that are ordinarily available exclusively from the
           anniversary/Mapleversary event.
+            - **Clarification:** This hard restriction on Mapleversary weapons
+              is limited to specifically _weapons_. Non-weapon equipment items
+              that are Mapleversary equipment items may or may not be allowed,
+              depending on the reader’s judgement of whether or not the
+              equipment item in question is “overpowered”.
 10. The following items — all of which are exclusively obtainable from the
     Amoria Party Quest (APQ) — may not be acquired by vicloc PCs, unless they
     are obtained from an APQ run whose participants are all vicloc PCs:
