@@ -54,6 +54,8 @@
    item).
 5. You may not make use of Cash Shop “Weather” effects that grant
    game-mechanical benefits, e\.g. WATK/MATK/WDEF/etc. buffs.
+    - **Clarification:** This rule still applies even if someone else uses the
+      item.
 6. You may not receive leech, from anyone (vicloc or not), for any price
    (including zero).
 7. You may not HP wash nor MP wash. Obviously you can still “bloodwash” (add AP
@@ -65,8 +67,10 @@
    [SE](https://maplelegends.com/lib/skill?id=3121002) mules,
    [HB](https://maplelegends.com/lib/skill?id=1301007) mules, etc.).
     - **Clarification:** Public buffs (GM buffs, [Echo of
-      Hero](https://maplelegends.com/lib/skill?id=0001005)) are not considered
-      to be “muling” for the purpose of this rule.
+      Hero](https://maplelegends.com/lib/skill?id=1005)) are not considered to
+      be “muling” for the purpose of this rule. These buffs are cast by PCs
+      without the use of (an) item(s), but do not require you to be in the same
+      party as the caster to benefit from them.
 9. You may not possess equipment items that exclusively originate from event
    (e\.g. anniversary event, summer event, Christmas event, etc.) sources.
    Vicloc PCs who are in possession of such items may either give them away to
