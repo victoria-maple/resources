@@ -52,6 +52,8 @@
 4. You may not make use of [Myo Myo the Traveling
    Salesman](https://maplelegends.com/lib/cash?id=5450000) (an NX/Cash Shop
    item).
+    - **Clarification:** Items obtained from Myo Myo the Traveling Salesman may
+      not be transferred from Maple Islander PCs to vicloc PCs.
 5. You may not make use of Cash Shop “Weather” effects that grant
    game-mechanical benefits, e\.g. WATK/MATK/WDEF/etc. buffs.
     - **Clarification:** This rule still applies even if someone else uses the
