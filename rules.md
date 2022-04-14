@@ -136,6 +136,8 @@
     Vicloc PCs who come into possession of any of these items in an illicit
     context (i\.e. an APQ with one or more non-vicloc participants) may give
     them away to non-vicloc PCs, or destroy them outright.
+    - **Exception:** This rule does not apply to items that are legitimately
+      obtained _outside of_ APQ (e\.g. in special events).
 
 ## Footnotes
 
