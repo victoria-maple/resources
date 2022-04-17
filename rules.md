@@ -11,8 +11,8 @@
       simply have not left Maple Island yet.
     - **Exception:** Event-only maps (maps that are only accessible for a
       limited time, during events like anniversary event, summer event,
-      Christmas event, etc.) count as part of Victoria Island for the purpose
-      of this rule.
+      Christmas event, GM events, etc.) count as part of Victoria Island for
+      the purpose of this rule.
 2. You may not receive any items/mesos from PCs that are not vicloc. This
    includes (that is, all of the items in the following list are disallowed):
     - Selling items to non-vicloc PCs.
@@ -29,6 +29,8 @@
       non-vicloc PC to a vicloc PC violates this rule.
         - **Exception:** You may freely transfer items through the Cash Shop
           that are purely cosmetic.
+    - **Clarification:** Transferring items/mesos through storage NPCs and/or
+      Duey from a non-vicloc PC to a vicloc PC violates this rule.
     - **Exception:** A maximum of 20 [Soft
       Feathers](https://maplelegends.com/lib/etc?id=4003005) per vicloc PC may
       be transferred from a non-vicloc PC to a vicloc PC, for the express
@@ -62,6 +64,10 @@
    game-mechanical benefits, e\.g. WATK/MATK/WDEF/etc. buffs.
     - **Clarification:** This rule still applies even if someone else uses the
       item.
+    - **Restriction:** _Any_ items that grant game-mechanical benefits (read:
+      increases to one or more stats) may not be purchased from the Cash Shop.
+        - **Clarification:** This restriction does not apply to items that lack
+          stat boosts but that have slots (e\.g. pet equipment items).
 6. You may not receive leech, from anyone (vicloc or not), for any price
    (including zero).
 7. You may not HP wash nor MP wash. Obviously you can still “bloodwash” (add AP
