@@ -1295,14 +1295,25 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Steel Ancient Shield     |    70 | 220 STR   | 56 WDEF, 20 MDEF        |     7 | Taurospear                             |                                |         |              |
 | Silver Ancient Shield    |    70 | 220 STR   | 2 DEX, 56 WDEF, 20 MDEF |     7 | Zombie Mushmom, Taurospear, Jr. Balrog |                                |         |              |
 | Gold Ancient Shield      |    70 | 220 STR   | 2 STR, 56 WDEF, 20 MDEF |     7 | Dark Drake                             |                                |         |              |
+| Steel Aquila Shield      |    80 | 250 STR   | 60 WDEF, 25 MDEF        |     7 | Commander Skeleton                     |                                |         |              |
 
 ## Shoes
 
-| name              | level | stat reqs | stats                                                | slots | dropped by      | awarded by | sold at      | craftable at |
-| :---------------- | ----: | :-------- | :--------------------------------------------------- | ----: | :-------------- | :--------- | :----------- | :----------- |
-| White Gomushin    |    11 |           | 2 SPEED, 4 WDEF                                      |     5 | Orange Mushroom |            | Kerning City |              |
-| Whitebottom Boots |    26 |           | 3 SPEED, 13 WDEF                                     |     5 |                 |            | Henesys      |              |
-| Squishy Shoes     |    30 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 3 SPEED, 10 WDEF, 5 MDEF |     5 | King Slime      | KPQ        |              |              |
+| name                               | level | stat reqs | stats                                                | slots | dropped by      | awarded by                                             | sold at                  | craftable at |
+| :--------------------------------- | ----: | :-------- | :--------------------------------------------------- | ----: | :-------------- | :----------------------------------------------------- | :----------------------- | :----------- |
+| Red Rubber Boots                   |     0 |           | 2 WDEF                                               |     5 |                 | \[character creation\]                                 | Southperry, Lith Harbour |              |
+| Yellow Rubber Boots                |     0 |           | 2 WDEF                                               |     5 |                 | \[character creation\]                                 | Lith Harbour             |              |
+| Blue Rubber Boots                  |     0 |           | 2 WDEF                                               |     5 |                 | \[character creation\]                                 | Lith Harbour             |              |
+| Leather Sandals                    |     0 |           | 2 WDEF                                               |     5 | Red Snail       | \[character creation\]                                 | Southperry, Lith Harbour |              |
+| White Gomushin                     |    11 |           | 2 SPEED, 4 WDEF                                      |     5 | Orange Mushroom |                                                        | Kerning City             |              |
+| Black/Smelly Gomushin              |    11 |           | 2 SPEED, 4 WDEF                                      |     5 |                 |                                                        | Kerning City             |              |
+| Bronze/Brown/Green Aroa Boots      |    16 |           | 7 WDEF                                               |     5 |                 |                                                        | Lith Harbour             |              |
+| Blue/Red/Brown Ankle-strap Sandals |    21 |           | 10 WDEF                                              |     5 |                 |                                                        | Lith Harbour             |              |
+| Red/Pink/Blue Whitebottom Boots    |    26 |           | 3 SPEED, 13 WDEF                                     |     5 |                 |                                                        | Henesys                  |              |
+| Orange Whitebottom Boots           |    26 |           | 3 SPEED, 13 WDEF                                     |     5 | Iron Hog        |                                                        | Henesys                  |              |
+| Squishy Shoes                      |    30 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 3 SPEED, 10 WDEF, 5 MDEF |     5 | King Slime      | KPQ                                                    |                          |              |
+| Blue Sneakers                      |    31 |           | 16 WDEF                                              |     5 |                 | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] | Henesys                  |              |
+| Red Sneakers                       |    31 |           | 16 WDEF                                              |     5 |                 |                                                        | Henesys                  |              |
 
 ## Rings
 
