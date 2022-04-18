@@ -674,13 +674,15 @@
 | Red Emerald Earrings     |    30 |           | 2 INT, 5 MDEF    |     5 |                                  | Onyx Chest for Bride and Groom       |         |              |
 | Cat&rsquo;s Eye          |    35 |           | 15 MDEF          |     5 | Evil Eye, Wraith                 | KPQ                                  |         |              |
 | Sapphire Earrings        |    35 |           | 15 MDEF          |     5 | Wild Boar                        | KPQ                                  |         |              |
+| Celestial Earrings       |    40 |           | 25 MDEF          |     5 |                                  | APQ bonus stage                      |         |              |
 | Pansy Earrings           |    45 |           | 25 MDEF          |     5 | Iron Boar                        |                                      |         |              |
+| Moonstar Earrings        |    45 |           | 5 WDEF, 27 MDEF  |     5 |                                  | APQ bonus stage                      |         |              |
 | Skull Earrings           |    50 |           | 30 MDEF          |     5 |                                  | Manji&rsquo;s Old Gladius            |         |              |
 | Red-Hearted Earrings     |    50 |           | 30 MDEF          |     5 | Mushmom                          | Onyx Chest                           |         |              |
 | Crystal Flower Earrings  |    55 |           | 35 MDEF          |     5 | Malady                           |                                      |         |              |
 | Holy Cross Earrings      |    55 |           | 35 MDEF          |     5 | Dark Stone Golem                 |                                      |         |              |
 | Pink-Flowered Earrings   |    60 |           | 40 MDEF          |     5 | Zombie Mushmom                   | John&rsquo;s Last Present            |         |              |
-| Cecelia&rsquo;s Earrings |    60 |           | 10 WDEF, 55 MDEF |     5 |                                  | APQ                                  |         |              |
+| Cecelia&rsquo;s Earrings |    60 |           | 10 WDEF, 55 MDEF |     5 |                                  | APQ bonus stage                      |         |              |
 
 \*A single pair of Weighted Earrings is required to complete the &ldquo;Dr.
 Betty&rsquo;s Research on Plants&rdquo; questline.
@@ -1102,21 +1104,21 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 
 ## Capes
 
-| name                                               | level | stat reqs | stats            | slots | dropped by       | awarded by                 | sold at | craftable at |
-| :------------------------------------------------- | ----: | :-------- | :--------------- | ----: | :--------------- | :------------------------- | :------ | :----------- |
-| Old Raggedy Cape                                   |    25 |           | 10 AVOID         |     5 |                  | Mystery of Niora Hospital  |         |              |
-| Icarus Cape (1)                                    |    42 |           | 15 AVOID         |     5 |                  | Icarus and the Flying Pill |         |              |
-| Icarus Cape (2)                                    |    42 |           | 10 SPEED         |     5 |                  | Icarus and the Flying Pill |         |              |
-| Icarus Cape (3)                                    |    42 |           | 5 JUMP           |     5 |                  | Icarus and the Flying Pill |         |              |
-| Amos&rsquo;s Royal Cape                            |    50 |           | 20 WDEF, 18 MDEF |     5 |                  | APQ                        |         |              |
-| Amos&rsquo;s Spirit Cape                           |    50 |           | 18 WDEF, 20 MDEF |     5 |                  | APQ                        |         |              |
-| Red Magic Cape                                     |    60 |           | 16 WDEF, 21 MDEF |     5 | Wild Kargo       |                            |         |              |
-| Black Magic Cape                                   |    60 |           | 18 WDEF, 23 MDEF |     5 | Dark Stone Golem |                            |         |              |
-| Red Gaia Cape                                      |    65 |           | 19 WDEF, 24 MDEF |     5 | Red Drake        |                            |         |              |
-| Black Gaia Cape                                    |    65 |           | 21 WDEF, 26 MDEF |     5 | Zombie Mushmom   |                            |         |              |
-| Cecelia Cloak 1/2/3/The Legendary Elias Cape 1/2/3 |    65 |           | 35 WDEF, 35 MDEF |     7 |                  | APQ                        |         |              |
-| Blue Seraph Cape                                   |    75 |           | 25 WDEF, 30 MDEF |     5 | Tauromacis       |                            |         |              |
-| Red Seraph Cape                                    |    75 |           | 25 WDEF, 30 MDEF |     5 | Taurospear       |                            |         |              |
+| name                                               | level | stat reqs | stats            | slots | dropped by       | awarded by                   | sold at | craftable at |
+| :------------------------------------------------- | ----: | :-------- | :--------------- | ----: | :--------------- | :--------------------------- | :------ | :----------- |
+| Old Raggedy Cape                                   |    25 |           | 10 AVOID         |     5 |                  | Mystery of Niora Hospital    |         |              |
+| Icarus Cape (1)                                    |    42 |           | 15 AVOID         |     5 |                  | Icarus and the Flying Pill   |         |              |
+| Icarus Cape (2)                                    |    42 |           | 10 SPEED         |     5 |                  | Icarus and the Flying Pill   |         |              |
+| Icarus Cape (3)                                    |    42 |           | 5 JUMP           |     5 |                  | Icarus and the Flying Pill   |         |              |
+| Amos&rsquo;s Royal Cape                            |    50 |           | 20 WDEF, 18 MDEF |     5 |                  | APQ bonus stage              |         |              |
+| Amos&rsquo;s Spirit Cape                           |    50 |           | 18 WDEF, 20 MDEF |     5 |                  | APQ bonus stage              |         |              |
+| Red Magic Cape                                     |    60 |           | 16 WDEF, 21 MDEF |     5 | Wild Kargo       |                              |         |              |
+| Black Magic Cape                                   |    60 |           | 18 WDEF, 23 MDEF |     5 | Dark Stone Golem |                              |         |              |
+| Red Gaia Cape                                      |    65 |           | 19 WDEF, 24 MDEF |     5 | Red Drake        |                              |         |              |
+| Black Gaia Cape                                    |    65 |           | 21 WDEF, 26 MDEF |     5 | Zombie Mushmom   |                              |         |              |
+| Cecelia Cloak 1/2/3/The Legendary Elias Cape 1/2/3 |    65 |           | 35 WDEF, 35 MDEF |     7 |                  | APQ couples-only bonus stage |         |              |
+| Blue Seraph Cape                                   |    75 |           | 25 WDEF, 30 MDEF |     5 | Tauromacis       |                              |         |              |
+| Red Seraph Cape                                    |    75 |           | 25 WDEF, 30 MDEF |     5 | Taurospear       |                              |         |              |
 
 ## Gloves
 
