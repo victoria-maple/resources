@@ -70,6 +70,7 @@
     - [Warrior](#warrior-12)
     - [Mage](#mage-6)
     - [Archer](#archer-6)
+    - [Thief](#thief-6)
 - [Shields](#shields)
 - [Shoes](#shoes)
 - [Rings](#rings)
@@ -1217,6 +1218,39 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Dark Garner         |    60 | 190 DEX   | 1 STR, 3 DEX, 30 MP, 24 WDEF |     5 | King Clang                              |                                                        |         | Henesys      |
 | Blue Eyes           |    70 | 215 DEX   | 2 DEX, 26 WDEF               |     5 | Red Drake, Wild Kargo, Officer Skeleton |                                                        |         |              |
 | Red Cordon          |    80 | 240 DEX   | 1 STR, 2 DEX, 10 MP, 30 WDEF |     5 | Dark Drake                              |                                                        |         |              |
+
+### Thief
+
+| name              | level | stat reqs        | stats                        | slots | dropped by                                          | awarded by                                             | sold at | craftable at |
+| :---------------- | ----: | :--------------- | :--------------------------- | ----: | :-------------------------------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Brown Duo         |    15 | 30 DEX, 35 LUK   | 4 WDEF                       |     5 | Red Snail                                           |                                                        |         | Kerning City |
+| Blue/Black Duo    |    15 | 30 DEX, 35 LUK   | 4 WDEF                       |     5 |                                                     |                                                        |         | Kerning City |
+| Bronze Mischief   |    20 | 40 DEX, 50 LUK   | 6 WDEF                       |     5 |                                                     | Nella &amp; Kerning City Citizen&rsquo;s Request \[1\] |         | Kerning City |
+| Mithril Mischief  |    20 | 40 DEX, 50 LUK   | 1 DEX, 7 WDEF                |     5 |                                                     |                                                        |         | Kerning City |
+| Dark Mischief     |    20 | 40 DEX, 50 LUK   | 2 DEX, 8 WDEF                |     5 |                                                     |                                                        |         | Kerning City |
+| Bronze Wolfskin   |    25 | 50 DEX, 65 LUK   | 8 WDEF                       |     5 | Jr. Wraith, Zombie Lupin                            |                                                        |         | Kerning City |
+| Mithril Wolfskin  |    25 | 50 DEX, 65 LUK   | 1 LUK, 9 WDEF                |     5 |                                                     |                                                        |         | Kerning City |
+| Dark Wolfskin     |    25 | 50 DEX, 65 LUK   | 2 LUK, 10 WDEF               |     5 |                                                     |                                                        |         | Kerning City |
+| Steel Sylvia      |    30 | 60 DEX, 80 LUK   | 10 WDEF                      |     5 |                                                     |                                                        |         | Kerning City |
+| Silver Sylvia     |    30 | 60 DEX, 80 LUK   | 1 LUK, 11 WDEF               |     5 |                                                     |                                                        |         | Kerning City |
+| Gold Sylvia       |    30 | 60 DEX, 80 LUK   | 2 LUK, 12 WDEF               |     5 |                                                     |                                                        |         | Kerning City |
+| Steel Arbion      |    35 | 70 DEX, 95 LUK   | 12 WDEF                      |     5 | Ligator                                             |                                                        |         | Kerning City |
+| Orihalcon Arbion  |    35 | 70 DEX, 95 LUK   | 1 LUK, 13 WDEF               |     5 | Jr. Wraith                                          |                                                        |         | Kerning City |
+| Gold Arbion       |    35 | 70 DEX, 95 LUK   | 2 LUK, 14 WDEF               |     5 |                                                     | John&rsquo;s Present                                   |         | Kerning City |
+| Red Cleave        |    40 | 80 DEX, 110 LUK  | 1 LUK, 14 WDEF               |     5 |                                                     |                                                        |         | Kerning City |
+| Gold Cleave       |    40 | 80 DEX, 110 LUK  | 2 LUK, 15 WDEF               |     5 | Iron Hog, Stone Golem, Dark Drake                   |                                                        |         | Kerning City |
+| Dark Cleave       |    40 | 80 DEX, 110 LUK  | 3 LUK, 16 WDEF               |     5 | Stumpy, Lorang, Sakura Cellion                      |                                                        |         | Kerning City |
+| Blue Moon Gloves  |    50 | 90 DEX, 140 LUK  | 1 LUK, 18 WDEF               |     5 | Officer Skeleton                                    |                                                        |         | Kerning City |
+| Brown Moon Gloves |    50 | 90 DEX, 140 LUK  | 3 LUK, 1 AVOID, 20 WDEF      |     5 | Cold Eye, Mummydog, Wraith, Mixed Golem, Wild Kargo |                                                        |         | Kerning City |
+| Red Moon Gloves   |    50 | 90 DEX, 140 LUK  | 2 LUK, 1 DEX, 19 WDEF        |     5 | Red Drake                                           |                                                        |         | Kerning City |
+| Bronze Pow        |    60 | 100 DEX, 170 LUK | 1 LUK, 1 DEX, 22 WDEF        |     5 | Croco, Mummydog                                     |                                                        |         | Kerning City |
+| Steal Pow\*       |    60 | 100 DEX, 170 LUK | 2 LUK, 1 DEX, 22 WDEF, 15 MP |     5 | Malady                                              |                                                        |         | Kerning City |
+| Gold Pow          |    60 | 100 DEX, 170 LUK | 3 LUK, 1 DEX, 24 WDEF, 30 MP |     5 | King Clang                                          |                                                        |         | Kerning City |
+| Bronze Rover      |    70 | 110 DEX, 200 LUK | 2 LUK, 26 WDEF               |     5 | Ice Drake                                           |                                                        |         |              |
+| Silver Rover      |    70 | 110 DEX, 200 LUK | 3 LUK, 1 AVOID, 27 WDEF      |     5 | Officer Skeleton                                    |                                                        |         |              |
+| Green Larceny     |    80 | 120 DEX, 220 LUK | 2 LUK, 1 DEX, 30 WDEF, 10 MP |     5 | Tauromacis                                          |                                                        |         |              |
+
+\*A\.k\.a. &ldquo;Steel Pow&rdquo;.
 
 ## Shields
 
