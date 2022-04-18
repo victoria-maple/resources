@@ -71,6 +71,7 @@
     - [Mage](#mage-6)
     - [Archer](#archer-6)
     - [Thief](#thief-6)
+    - [Pirate](#pirate-4)
 - [Shields](#shields)
 - [Shoes](#shoes)
 - [Rings](#rings)
@@ -1251,6 +1252,21 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Green Larceny     |    80 | 120 DEX, 220 LUK | 2 LUK, 1 DEX, 30 WDEF, 10 MP |     5 | Tauromacis                                          |                                                        |         |              |
 
 \*A\.k\.a. &ldquo;Steel Pow&rdquo;.
+
+### Pirate
+
+| name                      | level | stat reqs      | stats                        | slots | dropped by            | awarded by                                             | sold at | craftable at     |
+| :------------------------ | ----: | :------------- | :--------------------------- | ----: | :-------------------- | :----------------------------------------------------- | :------ | :--------------- |
+| Green Lagger Halfglove    |    15 | 15 STR, 15 DEX | 4 WDEF                       |     5 | Bubbling, Ghost Stump |                                                        |         | Nautilus Harbour |
+| Brown Leather Armor Glove |    20 | 20 STR, 20 DEX | 6 WDEF                       |     5 | Zombie Mushroom       | Nella &amp; Kerning City Citizen&rsquo;s Request \[1\] |         | Nautilus Harbour |
+| Hard Leather Glove        |    25 | 25 STR, 25 DEX | 8 WDEF                       |     5 | Wild Boar             |                                                        |         | Nautilus Harbour |
+| Yellow Tartis             |    30 | 30 STR, 30 DEX | 10 WDEF                      |     5 |                       |                                                        |         | Nautilus Harbour |
+| Brown Jeweled             |    35 | 35 STR, 35 DEX | 12 WDEF                      |     5 | Lupin                 | John&rsquo;s Present                                   |         | Nautilus Harbour |
+| Brown Barbee              |    40 | 40 STR, 40 DEX | 1 DEX, 14 WDEF               |     5 |                       |                                                        |         | Nautilus Harbour |
+| Brown Royce               |    50 | 50 STR, 50 DEX | 1 STR, 20 WDEF               |     5 | Malady                |                                                        |         | Nautilus Harbour |
+| Black Schult              |    60 | 60 STR, 60 DEX | 1 STR, 1 DEX, 24 WDEF        |     5 | King Clang            |                                                        |         | Nautilus Harbour |
+| Black Bisk                |    70 | 70 STR, 70 DEX | 1 STR, 1 DEX, 28 WDEF        |     5 | Wild Kargo            |                                                        |         |                  |
+| Blue Halfglove            |    80 | 80 STR, 80 DEX | 2 STR, 1 DEX, 32 WDEF, 10 HP |     5 | Commander Skeleton    |                                                        |         |                  |
 
 ## Shields
 
