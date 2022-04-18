@@ -2,31 +2,31 @@
 
 - [Weapons](#weapons)
     - [1H swords](#1h-swords)
-        - [Warrior/rogue](#warrior-rogue)
+        - [Warrior/thief](#warrior-thief)
         - [Warrior](#warrior)
     - [2H swords](#2h-swords)
-        - [Warrior/archer/rogue](#warrior-archer-rogue)
+        - [Warrior/archer/thief](#warrior-archer-thief)
         - [Warrior](#warrior-1)
     - [1H axes](#1h-axes)
         - [Warrior](#warrior-2)
     - [2H axes](#2h-axes)
-        - [Warrior/archer/rogue](#warrior-archer-rogue-1)
+        - [Warrior/archer/thief](#warrior-archer-thief-1)
         - [Warrior](#warrior-3)
     - [1H maces](#1h-maces)
         - [Warrior/mage](#warrior-mage)
         - [Warrior](#warrior-4)
     - [2H maces](#2h-maces)
-        - [Warrior/archer/rogue](#warrior-archer-rogue-2)
-        - [Warrior/rogue](#warrior-rogue-1)
+        - [Warrior/archer/thief](#warrior-archer-thief-2)
+        - [Warrior/thief](#warrior-thief-1)
         - [Warrior](#warrior-5)
     - [Daggers](#daggers)
-        - [Warrior/rogue](#warrior-rogue-2)
-        - [Rogue](#rogue)
+        - [Warrior/thief](#warrior-thief-2)
+        - [Thief](#thief)
     - [Spears](#spears)
-        - [Warrior/archer/rogue](#warrior-archer-rogue-3)
+        - [Warrior/archer/thief](#warrior-archer-thief-3)
         - [Warrior](#warrior-6)
     - [Polearms](#polearms)
-        - [Warrior/archer/rogue](#warrior-archer-rogue-4)
+        - [Warrior/archer/thief](#warrior-archer-thief-4)
         - [Warrior](#warrior-7)
     - [Wands](#wands)
         - [Mage](#mage)
@@ -37,7 +37,7 @@
     - [Crossbows](#crossbows)
         - [Archer](#archer-1)
     - [Claws](#claws)
-        - [Rogue](#rogue-1)
+        - [Thief](#thief-1)
     - [Knucklers](#knucklers)
         - [Pirate](#pirate)
     - [Guns](#guns)
@@ -46,25 +46,25 @@
     - [Warrior](#warrior-8)
     - [Mage](#mage-2)
     - [Archer](#archer-2)
-    - [Rogue](#rogue-2)
+    - [Thief](#thief-2)
     - [Pirate](#pirate-2)
 - [Earrings](#earrings)
 - [Overalls](#overalls)
     - [Warrior](#warrior-9)
     - [Mage](#mage-3)
     - [Archer](#archer-3)
-    - [Rogue](#rogue-3)
+    - [Thief](#thief-3)
     - [Pirate](#pirate-3)
 - [Tops](#tops)
     - [Warrior](#warrior-10)
     - [Mage](#mage-4)
     - [Archer](#archer-4)
-    - [Rogue](#rogue-4)
+    - [Thief](#thief-4)
 - [Bottoms](#bottoms)
     - [Warrior](#warrior-11)
     - [Mage](#mage-5)
     - [Archer](#archer-5)
-    - [Rogue](#rogue-5)
+    - [Thief](#thief-5)
 - [Capes](#capes)
 - [Gloves](#gloves)
     - [Warrior](#warrior-12)
@@ -87,7 +87,7 @@
 | Red Whip          |    35 |     4 |           | 48 WATK, 15 SPEED |     7 | Wraith, Zombie Lupin |                           |                                                               |              |
 | Yellow Umbrella   |    40 |     5 |           | 52 WATK, 52 MATK  |     7 | Clang                |                           |                                                               |              |
 
-#### Warrior/rogue
+#### Warrior/thief
 
 | name    | level | speed | stat reqs      | stats   | slots | dropped by | awarded by | sold at | craftable at |
 | :------ | ----: | ----: | :------------- | :------ | ----: | :--------- | :--------- | :------ | :----------- |
@@ -114,7 +114,7 @@
 | Wooden Baseball Bat   |     0 |     5 |           | 20 WATK |     7 | Axe Stump  |            |         |              |
 | Aluminum Baseball Bat |    30 |     5 |           | 48 WATK |     7 | Lupin      |            |         |              |
 
-#### Warrior/archer/rogue
+#### Warrior/archer/thief
 
 | name         | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at              | craftable at |
 | :----------- | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------------------- | :----------- |
@@ -155,7 +155,7 @@
 
 ### 2H axes
 
-#### Warrior/archer/rogue
+#### Warrior/archer/thief
 
 | name      | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at              | craftable at |
 | :-------- | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------------------- | :----------- |
@@ -209,14 +209,14 @@
 
 ### 2H maces
 
-#### Warrior/archer/rogue
+#### Warrior/archer/thief
 
 | name          | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at              | craftable at |
 | :------------ | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------------------- | :----------- |
 | Wooden Mallet |    10 |     6 |           | 32 WATK |     7 | Pig        |            | Kerning City, Perion |              |
 | Monkey Wrench |    25 |     7 | 25 STR    | 47 WATK |     7 |            |            | Henesys, Perion      |              |
 
-#### Warrior/rogue
+#### Warrior/thief
 
 | name    | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at | craftable at |
 | :------ | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :------ | :----------- |
@@ -241,7 +241,7 @@
 | Fruit Knife |     8 |     3 |           | 22 WATK                  |     7 |                   | Bigg&rsquo;s Collection of Items | Lith Harbour |              |
 | Korean Fan  |    35 |     4 |           | 50 WATK, 5 WACC, 5 AVOID |     7 | Fire Boar, Lorang |                                  |              |              |
 
-#### Warrior/rogue
+#### Warrior/thief
 
 | name                 | level | speed | stat reqs       | stats   | slots | dropped by                    | awarded by | sold at              | craftable at |
 | :------------------- | ----: | ----: | :-------------- | :------ | ----: | :---------------------------- | :--------- | :------------------- | :----------- |
@@ -253,7 +253,7 @@
 | Serpent&rsquo;s Coil |    60 |     4 | 50 STR, 100 DEX | 75 WATK |     7 | Officer Skeleton              |            |                      |              |
 | Golden River         |    70 |     4 | 55 STR, 110 DEX | 80 WATK |     7 | Jr. Balrog                    |            |                      |              |
 
-#### Rogue
+#### Thief
 
 | name                  | level | speed | stat reqs        | stats            | slots | dropped by              | awarded by | sold at      | craftable at |
 | :-------------------- | ----: | ----: | :--------------- | :--------------- | ----: | :---------------------- | :--------- | :----------- | :----------- |
@@ -275,7 +275,7 @@
 | Fish Spear   |    20 |     6 |           | 42 WATK, 5 WACC, 5 SPEED |     7 | Bubbling   |            |         |              |
 | Fishing Pole |    45 |     5 |           | 67 WATK, 15 WACC         |     7 | Faust      |            |         |              |
 
-#### Warrior/archer/rogue
+#### Warrior/archer/thief
 
 | name            | level | speed | stat reqs | stats   | slots | dropped by                       | awarded by | sold at              | craftable at |
 | :-------------- | ----: | ----: | :-------- | :------ | ----: | :------------------------------- | :--------- | :------------------- | :----------- |
@@ -306,7 +306,7 @@
 | Green Surfboard  |    55 |     6 |           | 75 WATK, 2 DEX  |     7 | Lorang, Tortie          |            |         |              |
 | Blood Snowboard  |    60 |     6 |           | 78 WATK         |     7 | Mixed Golem             |            |         |              |
 
-#### Warrior/archer/rogue
+#### Warrior/archer/thief
 
 | name                | level | speed | stat reqs | stats   | slots | dropped by | awarded by | sold at                           | craftable at |
 | :------------------ | ----: | ----: | :-------- | :------ | ----: | :--------- | :--------- | :-------------------------------- | :----------- |
@@ -403,7 +403,7 @@
 
 ### Claws
 
-#### Rogue
+#### Thief
 
 | name               | level | speed | stat reqs        | stats                   | slots | dropped by                              | awarded by | sold at      | craftable at |
 | :----------------- | ----: | ----: | :--------------- | :---------------------- | ----: | :-------------------------------------- | :--------- | :----------- | :----------- |
@@ -606,7 +606,7 @@
 | Black Polyfeather Hat             |    60 | 190 DEX         | 4 DEX, 39 WDEF               |     7 | King Clang                    |                                      |         |              |
 | Beige Patriot                     |    70 | 220 DEX         | 2 STR, 2 DEX, 15 MP, 45 WDEF |     7 | Skeleton Soldier, Tauromacis  |                                      |         |              |
 
-### Rogue
+### Thief
 
 | name                                     | level | stat reqs        | stats                        | slots | dropped by                               | awarded by                           | sold at      | craftable at |
 | :--------------------------------------- | ----: | :--------------- | :--------------------------- | ----: | :--------------------------------------- | :----------------------------------- | :----------- | :----------- |
@@ -771,7 +771,7 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Green Lineros \[F\]     |    70 | 220 DEX   | 2 STR, 5 DEX, 25 MP, 75 WDEF |    10 | Tauromacis                             |            |         |              |
 | Green Pris \[M\]        |    80 | 250 DEX   | 2 STR, 6 DEX, 30 MP, 85 WDEF |    10 | Taurospear                             |            |         |              |
 
-### Rogue
+### Thief
 
 | name                 | level | stat reqs      | stats                | slots | dropped by            | awarded by | sold at | craftable at |
 | :------------------- | ----: | :------------- | :------------------- | ----: | :-------------------- | :--------- | :------ | :----------- |
@@ -905,7 +905,7 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | White Piettra \[F\]                                         |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Tortie, Clang                                 |            |         |              |
 | Dark Piettra \[F\]                                          |    40 | 130 DEX        | 3 DEX, 10 MP, 34 WDEF |     7 | Stumpy                                        |            |         |              |
 
-### Rogue
+### Thief
 
 | name                                  | level | stat reqs        | stats                 | slots | dropped by                            | awarded by | sold at      | craftable at |
 | :------------------------------------ | ----: | :--------------- | :-------------------- | ----: | :------------------------------------ | :--------- | :----------- | :----------- |
@@ -1051,7 +1051,7 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Brown Piette Pants \[M\]        |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Wild Boar, Curse Eye, Mummydog, Copper Drake |            |         |              |
 | Dark Piette Pants \[M\]         |    40 | 130 DEX        | 1 DEX, 10 MP, 27 WDEF |     7 | Lorang, Red Drake                            |            |         |              |
 
-### Rogue
+### Thief
 
 | name                                                          | level | stat reqs        | stats                   | slots | dropped by                              | awarded by | sold at      | craftable at |
 | :------------------------------------------------------------ | ----: | :--------------- | :---------------------- | ----: | :-------------------------------------- | :--------- | :----------- | :----------- |
