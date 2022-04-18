@@ -73,6 +73,7 @@
     - [Thief](#thief-6)
     - [Pirate](#pirate-4)
 - [Shields](#shields)
+    - [Warrior](#warrior-13)
 - [Shoes](#shoes)
 - [Rings](#rings)
 
@@ -1275,13 +1276,33 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Stolen Fence |     5 |           | 5 WDEF  |     7 | Dark Stump     | Yoona&rsquo;s Quiz on Shopping | Lith Harbour |              |
 | Pan Lid      |    10 |           | 10 WDEF |     7 | Green Mushroom |                                |              |              |
 
+### Warrior
+
+| name                     | level | stat reqs | stats                   | slots | dropped by                             | awarded by                     | sold at | craftable at |
+| :----------------------- | ----: | :-------- | :---------------------- | ----: | :------------------------------------- | :----------------------------- | :------ | :----------- |
+| Wooden Buckler           |    10 |           | 10 WDEF                 |     7 |                                        |                                | Perion  |              |
+| Steel Shield             |    15 | 40 STR    | 15 WDEF                 |     7 | Octopus, Horny Mushroom                | Fixing Blackbull&rsquo;s House | Perion  |              |
+| Red Triangular Shield    |    25 | 70 STR    | 25 WDEF                 |     7 |                                        | Fixing Blackbull&rsquo;s House |         |              |
+| Red Cross Shield         |    30 | 90 STR    | 30 WDEF                 |     7 | Stone Golem                            |                                |         |              |
+| Battle Shield            |    35 | 120 STR   | 35 WDEF                 |     7 | Octopus, Axe Stump                     |                                |         |              |
+| Steel Tower Shield       |    40 | 130 STR   | 40 WDEF                 |     7 | Ligator, Mushmom                       |                                |         |              |
+| Adamantium Tower Shield  |    40 | 130 STR   | 2 DEX, 40 WDEF          |     7 | Iron Hog, Lorang                       |                                |         | Perion       |
+| Mithril Tower Shield     |    40 | 130 STR   | 2 STR, 40 WDEF          |     7 | Lupin, Dark Stone Golem                |                                |         | Perion       |
+| Skull Shield             |    50 | 160 STR   | 50 WDEF                 |     7 | Tortie, Red Drake                      |                                |         |              |
+| Wooden Legend Shield     |    60 | 190 STR   | 52 WDEF, 20 MDEF        |     7 | Croco, Jr. Balrog                      |                                |         |              |
+| Silver Legend Shield     |    60 | 190 STR   | 2 DEX, 52 WDEF, 25 MDEF |     7 | Zombie Mushmom                         |                                |         | Perion       |
+| Adamantium Legend Shield |    60 | 190 STR   | 2 STR, 52 WDEF, 25 MDEF |     7 | Officer Skeleton                       |                                |         | Perion       |
+| Steel Ancient Shield     |    70 | 220 STR   | 56 WDEF, 20 MDEF        |     7 | Taurospear                             |                                |         |              |
+| Silver Ancient Shield    |    70 | 220 STR   | 2 DEX, 56 WDEF, 20 MDEF |     7 | Zombie Mushmom, Taurospear, Jr. Balrog |                                |         |              |
+| Gold Ancient Shield      |    70 | 220 STR   | 2 STR, 56 WDEF, 20 MDEF |     7 | Dark Drake                             |                                |         |              |
+
 ## Shoes
 
 | name              | level | stat reqs | stats                                                | slots | dropped by      | awarded by | sold at      | craftable at |
 | :---------------- | ----: | :-------- | :--------------------------------------------------- | ----: | :-------------- | :--------- | :----------- | :----------- |
 | White Gomushin    |    11 |           | 2 SPEED, 4 WDEF                                      |     5 | Orange Mushroom |            | Kerning City |              |
 | Whitebottom Boots |    26 |           | 3 SPEED, 13 WDEF                                     |     5 |                 |            | Henesys      |              |
-| Squishy Shoes     |    30 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 3 SPEED, 10 WDEF, 5 MDEF |     5 | King Slime      |            |              |              |
+| Squishy Shoes     |    30 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 3 SPEED, 10 WDEF, 5 MDEF |     5 | King Slime      | KPQ        |              |              |
 
 ## Rings
 
