@@ -28,6 +28,7 @@ Event-only items are not represented here.
 - [For gloves](#for-gloves)
 - [For shields](#for-shields)
 - [For shoes](#for-shoes)
+- [For pet equips](#for-pet-equips)
 
 ## For weapons
 
@@ -272,3 +273,14 @@ Event-only items are not represented here.
 | +1 SPEED                    |    100% |             |                       |                           | Shumi&rsquo;s Lost Sack of Money                                   |
 | +2 SPEED                    |     60% |             |                       | Mushmom, Faust            | Eliminate Monsters from the Site, Shumi&rsquo;s Lost Sack of Money |
 | +3 SPEED                    |     10% |             |                       |                           | Shumi&rsquo;s Lost Sack of Money                                   |
+
+## For pet equips
+
+| effect on pass | P(pass) | price | sold at | dropped by                                                                    | awarded by |
+| :------------- | ------: | ----: | :------ | :---------------------------------------------------------------------------- | :--------- |
+| +1 SPEED       |    100% |       |         | Green Mushroom, Bubbling, Horny Mushroom                                      |            |
+| +2 SPEED       |     60% |       |         | Green Mushroom, Bubbling, Ghost Stump, Jr. Wraith, King Clang, Zombie Mushmom |            |
+| +3 SPEED       |     10% |       |         | Jr. Wraith, Lorang, Dyle                                                      |            |
+| +1 JUMP        |    100% |       |         | Green Mushroom, Jr. Necki                                                     |            |
+| +2 JUMP        |     60% |       |         | Stirge, Zombie Mushmom                                                        |            |
+| +3 JUMP        |     10% |       |         | Lorang                                                                        |            |
