@@ -1,6 +1,10 @@
 # Additional vicloc scrolls (as of MapleLegends’s anniversary/summer event 2022; 2022-08-13)
 
-See: **<https://forum.maplelegends.com/index.php?threads/anniversary-summer-event-2022-balance-changes-explained.46741/>**.
+See:
+**<https://forum.maplelegends.com/index.php?threads/anniversary-summer-event-2022-balance-changes-explained.46741/>**.
+
+For a catalogue of all other scrolls available in vicloc (the
+&ldquo;GMS-like&rdquo; ones), see [scrolls\.md](./scrolls.md).
 
 - [For weapons](#for-weapons)
     - [For 1H swords](#for-1h-swords)

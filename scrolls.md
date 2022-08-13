@@ -1,5 +1,10 @@
 # Vicloc-available scrolls
 
+&#x26a0;&#xfe0f;&nbsp;**NOTE:** Scroll drops that were added by _MapleLegends
+specifically_, on top of the &ldquo;GMS-like&rdquo; scroll availabilities
+catalogued below, are represented in
+**[added\_scrolls\.md](./added_scrolls.md)**.&nbsp;&#x26a0;&#xfe0f;
+
 Event-only items are not represented here.
 
 - [For weapons](#for-weapons)
