@@ -7,12 +7,12 @@ For a catalogue of all other scrolls available in vicloc (the
 &ldquo;GMS-like&rdquo; ones), see [scrolls\.md](./scrolls.md).
 
 - [For weapons](#for-weapons)
-    - [For 1H swords](#for-1h-swords)
-    - [For 2H axes](#for-2h-axes)
-    - [For 1H maces](#for-1h-maces)
-    - [For polearms](#for-polearms)
-    - [For wands](#for-wands)
-    - [For bows](#for-bows)
+  - [For 1H swords](#for-1h-swords)
+  - [For 2H axes](#for-2h-axes)
+  - [For 1H maces](#for-1h-maces)
+  - [For polearms](#for-polearms)
+  - [For wands](#for-wands)
+  - [For bows](#for-bows)
 - [For hats](#for-hats)
 - [For tops](#for-tops)
 - [For bottoms](#for-bottoms)
@@ -65,7 +65,6 @@ This effectively results in:
 | effect on pass           | &#x1d5e3;(pass) | dropped by       |
 | :----------------------- | --------------: | :--------------- |
 | +5 WATK, +3 STR, +1 WDEF |             30% | Officer Skeleton |
-| +1 MATK, +1 INT          |             70% | Dark Drake       |
 
 ### For 2H axes
 
@@ -126,6 +125,7 @@ This effectively results in:
 
 | effect on pass  | &#x1d5e3;(pass) | dropped by |
 | :-------------- | --------------: | :--------- |
+| +2 MATK, +1 INT |             70% | Dark Drake |
 | +3 MATK, +2 INT |             10% | Tortie     |
 | +15 HP          |             70% | Rocky Mask |
 | +30 HP          |             30% | Stumpy     |
