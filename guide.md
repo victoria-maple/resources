@@ -1,44 +1,44 @@
 # A guide to vicloc
 
 - [What is “vicloc”?](#what-is-ldquo-vicloc-rdquo)
-  - [Why vicloc?](#why-vicloc)
+    - [Why vicloc?](#why-vicloc)
 - [General guidelines for viclocking](#general-guidelines-for-viclocking)
 - [A comparison of vicloc classes/jobs](#a-comparison-of-vicloc-classes-jobs)
-  - [🔰 Beginners](#x1f530-beginners)
-  - [⚔️ Warriors](#x2694-xfe0f-warriors)
-    - [Fighter](#fighter)
-    - [Page](#page)
-    - [Spear(wo)man](#spear-wo-man)
-  - [🧙 Mages](#x1f9d9-mages)
-    - [Fire/poison magician](#fire-poison-magician)
-    - [Ice/lightning magician](#ice-lightning-magician)
-    - [Cleric](#cleric)
-  - [🏹 Archers](#x1f3f9-archers)
-    - [Hunter](#hunter)
-    - [Crossbow(o)man](#crossbow-o-man)
-  - [🥷 Thieves](#x1f977-thieves)
-    - [Assassin](#assassin)
-    - [Bandit](#bandit)
-  - [🏴‍☠️ Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
-    - [Brawler](#brawler)
-    - [Gunslinger](#gunslinger)
+    - [🔰 Beginners](#x1f530-beginners)
+    - [⚔️ Warriors](#x2694-xfe0f-warriors)
+        - [Fighter](#fighter)
+        - [Page](#page)
+        - [Spear(wo)man](#spear-wo-man)
+    - [🧙 Mages](#x1f9d9-mages)
+        - [Fire/poison magician](#fire-poison-magician)
+        - [Ice/lightning magician](#ice-lightning-magician)
+        - [Cleric](#cleric)
+    - [🏹 Archers](#x1f3f9-archers)
+        - [Hunter](#hunter)
+        - [Crossbow(o)man](#crossbow-o-man)
+    - [🥷 Thieves](#x1f977-thieves)
+        - [Assassin](#assassin)
+        - [Bandit](#bandit)
+    - [🏴‍☠️ Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
+        - [Brawler](#brawler)
+        - [Gunslinger](#gunslinger)
 - [Levelling up](#levelling-up)
-  - [Training areas](#training-areas)
-  - [Party quests](#party-quests)
+    - [Training areas](#training-areas)
+    - [Party quests](#party-quests)
 - [Items](#items)
-  - [Equipment](#equipment)
-  - [Scrolling](#scrolling)
-  - [Potions/food](#potions-food)
-  - [Other items](#other-items)
-  - [Making money](#making-money)
-  - [Monster Book Ring](#monster-book-ring)
+    - [Equipment](#equipment)
+    - [Scrolling](#scrolling)
+    - [Potions/food](#potions-food)
+    - [Other items](#other-items)
+    - [Making money](#making-money)
+    - [Monster Book Ring](#monster-book-ring)
 - [Notable quests](#notable-quests)
-  - [For EXP](#for-exp)
-  - [For mesos/items](#for-mesos-items)
+    - [For EXP](#for-exp)
+    - [For mesos/items](#for-mesos-items)
 - [Marriage](#marriage)
 - [Endgame](#endgame)
-  - [APQ](#apq)
-  - [SPQ](#spq)
+    - [APQ](#apq)
+    - [SPQ](#spq)
 
 ## What is &ldquo;vicloc&rdquo;?
 
@@ -1907,8 +1907,8 @@ encourages bonding between guildmates. As a result:
           Elixir](https://maplelegends.com/lib/use?id=2000005)s.
     - Ergoth grants 150[k](https://en.wikipedia.org/wiki/Kilo-) base EXP, which
       is enough to give a halfway-decent EXP payout to those who deal damage to
-      it. Note that this is the only source of EXP in SPQ, and that Ergoth is
-      level 115.
+      it. Note that this is the only source of EXP in SPQ (besides the Devil
+      Slimes; see below), and that Ergoth is level 115.
     - Another significant source of EXP are the [Devil
       Slime](https://maplelegends.com/lib/monster?id=9300027)s that spawn
       within the &rdquo;[Hat](https://maplelegends.com/lib/etc?id=4001034)
@@ -1921,7 +1921,8 @@ encourages bonding between guildmates. As a result:
       Ligators already have extremely high EXP&ratio;HP ratio, and considering
       that Devil Slimes are easier to kill. However, only 20 of these Devil
       Slimes spawn, and they never respawn, so you can&rsquo;t exactly train
-      here; it&rsquo;s just a nifty EXP boost for whoever does the Hat section.
+      here &mdash; it&rsquo;s just a nifty EXP boost for whoever does the Hat
+      section.
 
 The concrete, bare minimum requirements for entering &amp; completing SPQ are
 as follows:
