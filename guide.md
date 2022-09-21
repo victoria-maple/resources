@@ -1,25 +1,25 @@
 # A guide to vicloc
 
-- [What is &ldquo;vicloc&rdquo;?](#what-is-ldquo-vicloc-rdquo)
+- [What is “vicloc”?](#what-is-ldquo-vicloc-rdquo)
     - [Why vicloc?](#why-vicloc)
 - [General guidelines for viclocking](#general-guidelines-for-viclocking)
 - [A comparison of vicloc classes/jobs](#a-comparison-of-vicloc-classes-jobs)
-    - [&#x1f530; Beginners](#x1f530-beginners)
-    - [&#x2694;&#xfe0f; Warriors](#x2694-xfe0f-warriors)
+    - [🔰 Beginners](#x1f530-beginners)
+    - [⚔️ Warriors](#x2694-xfe0f-warriors)
         - [Fighter](#fighter)
         - [Page](#page)
         - [Spear(wo)man](#spear-wo-man)
-    - [&#x1f9d9; Mages](#x1f9d9-mages)
+    - [🧙 Mages](#x1f9d9-mages)
         - [Fire/poison magician](#fire-poison-magician)
         - [Ice/lightning magician](#ice-lightning-magician)
         - [Cleric](#cleric)
-    - [&#x1f3f9; Archers](#x1f3f9-archers)
+    - [🏹 Archers](#x1f3f9-archers)
         - [Hunter](#hunter)
         - [Crossbow(o)man](#crossbow-o-man)
-    - [&#x1f977; Thieves](#x1f977-thieves)
+    - [🥷 Thieves](#x1f977-thieves)
         - [Assassin](#assassin)
         - [Bandit](#bandit)
-    - [&#x1f3f4;&#x200d;&#x2620;&#xfe0f; Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
+    - [🏴‍☠️ Pirates](#x1f3f4-x200d-x2620-xfe0f-pirates)
         - [Brawler](#brawler)
         - [Gunslinger](#gunslinger)
 - [Levelling up](#levelling-up)
@@ -1972,8 +1972,7 @@ fight against Ergoth:
 - Although Ergoth _is_ one ugly-ass bitch, you don&rsquo;t want to start
   attacking Ergoth right away. The statues should be your first priority, as
   they are actually much more dangeous than Ergoth itself, and also naturally
-  shield Ergoth from ranged attacks due to their positioning. The statues are
-  as follows:
+  shield Ergoth from attacks. The statues are as follows:
     - [Lion Statue A](https://maplelegends.com/lib/monster?id=9300029):
       1[M](https://en.wikipedia.org/wiki/Mega-) HP, level 99, 800 WDEF, 850
       MDEF.
@@ -1995,9 +1994,9 @@ fight against Ergoth:
       will be relying on one or more buffs to survive, e\.g. [Magic
       Guard](https://maplelegends.com/lib/skill?id=2001002) or [Hyper
       Body](https://maplelegends.com/lib/skill?id=1301007).
-    - The statues can 1/1. A 1/1 is an attack that sets your HP and MP values
-      to 1. This can&rsquo;t actually kill you directly, but obviously it gets
-      pretty damn close.
+    - The statues can 1&#x29f8;1. A 1&#x29f8;1 is an attack that sets your HP
+      and MP values to 1. This can&rsquo;t actually kill you directly, but
+      obviously it gets pretty damn close.
     - The statues can seal you, so make sure to have plenty of [Holy
       Water](https://maplelegends.com/lib/use?id=2050003)s on hand.
 - You can expect to take **up to &ap;4k damage from a single attack** during

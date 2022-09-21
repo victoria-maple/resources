@@ -7,12 +7,12 @@ For a catalogue of all other scrolls available in vicloc (the
 &ldquo;GMS-like&rdquo; ones), see [scrolls\.md](./scrolls.md).
 
 - [For weapons](#for-weapons)
-  - [For 1H swords](#for-1h-swords)
-  - [For 2H axes](#for-2h-axes)
-  - [For 1H maces](#for-1h-maces)
-  - [For polearms](#for-polearms)
-  - [For wands](#for-wands)
-  - [For bows](#for-bows)
+    - [For 1H swords](#for-1h-swords)
+    - [For 2H axes](#for-2h-axes)
+    - [For 1H maces](#for-1h-maces)
+    - [For polearms](#for-polearms)
+    - [For wands](#for-wands)
+    - [For bows](#for-bows)
 - [For hats](#for-hats)
 - [For tops](#for-tops)
 - [For bottoms](#for-bottoms)
