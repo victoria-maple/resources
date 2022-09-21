@@ -91,10 +91,10 @@ for the purpose of vicloc.
 <details>
 <summary>Footnotes for &ldquo;What is &lsquo;vicloc&rsquo;?&rdquo;</summary>
 
-\[1\]: For technical reasons, we consider campers (who never leave the Training
-Camp) and Maple Islanders (who never leave Maple Island) to be [special
-cases][degeneracy] of vicloc characters; however, this is _not usually_ what we
-mean by &ldquo;vicloc&rdquo;.
+1. For technical reasons, we consider campers (who never leave the Training
+   Camp) and Maple Islanders (who never leave Maple Island) to be [special
+   cases][degeneracy] of vicloc characters; however, this is _not usually_ what
+   we mean by &ldquo;vicloc&rdquo;.
 
 </details>
 
@@ -459,7 +459,7 @@ Cons:
 <details>
 <summary>Footnotes for &ldquo;Fire/poison magician&rdquo;</summary>
 
-\[1\]: Pun intended.
+1. Pun intended.
 
 </details>
 
@@ -1041,11 +1041,11 @@ HPQ, a &ldquo;high&rdquo; level is considered to be 20, and for APQ, a
 take into account the EXP gained from farming [Lip Lock
 Key](https://maplelegends.com/lib/etc?id=4031593)s.
 
-| PQ  | party size |        level |    stage EXP |   EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
-| :-- | ---------: | -----------: | -----------: | ---------------: | -----------------: | ------------------: |
-| HPQ |  3&ndash;6 | 10&ndash;200 |  3&numsp;200 |  &ap;4&numsp;600 |       &ap;268\.07% |         &ap;22\.75% |
-| KPQ |  3&ndash;6 |  21&ndash;30 |  6&numsp;000 | &ap;14&numsp;900 |        &ap;61\.06% |         &ap;15\.57% |
-| APQ |  6&ndash;6 | 40&ndash;200 | 72&numsp;000 | &ap;73&numsp;000 |        &ap;24\.81% |          &ap;2\.08% |
+| PQ  | party size |        level |     stage EXP |    EXP&#x29f8;run | %&#x29f8;run (low) | %&#x29f8;run (high) |
+| :-- | ---------: | -----------: | ------------: | ----------------: | -----------------: | ------------------: |
+| HPQ |  3&ndash;6 | 10&ndash;200 |  3&#x202f;200 |  &ap;4&#x202f;600 |       &ap;268\.07% |         &ap;22\.75% |
+| KPQ |  3&ndash;6 |  21&ndash;30 |  6&#x202f;000 | &ap;14&#x202f;900 |        &ap;61\.06% |         &ap;15\.57% |
+| APQ |  6&ndash;6 | 40&ndash;200 | 72&#x202f;000 | &ap;73&#x202f;000 |        &ap;24\.81% |          &ap;2\.08% |
 
 <!--
 HPQ  3-run avg:  4635.333...
@@ -1156,19 +1156,16 @@ equipment](./equipment.md).&nbsp;&#x2139;&#xfe0f;
 <details>
 <summary>Footnotes for &ldquo;Equipment&rdquo;</summary>
 
-\[1\]: This overall is higher level than any other mage overall, and has higher
-combined stats, **but is LUK-focused** (2 INT, 6 LUK). Male mages who want to
-maximise the TMA on their overall would be better served by e\.g. a [Dark
-Anakamoon](https://maplelegends.com/lib/equip?id=1050056) (level 58; 5 INT, 1
-LUK), and female mages would be better served in this case by e\.g. a [Dark
-Requierre](https://maplelegends.com/lib/equip?id=1051055) (level 68; 5 INT, 2
-LUK).
-
-\[2\]: This overall is lower level and has lower combined stats than the Green
-Enigma, but has higher TMA.
-
-\[3\]: These two overalls are in fact the **only thief overalls** in all of
-vicloc.
+1. This overall is higher level than any other mage overall, and has higher
+   combined stats, **but is LUK-focused** (2 INT, 6 LUK). Male mages who want
+   to maximise the TMA on their overall would be better served by e\.g. a [Dark
+   Anakamoon](https://maplelegends.com/lib/equip?id=1050056) (level 58; 5 INT,
+   1 LUK), and female mages would be better served in this case by e\.g. a
+   [Dark Requierre](https://maplelegends.com/lib/equip?id=1051055) (level 68; 5
+   INT, 2 LUK).
+2. This overall is lower level and has lower combined stats than the Green
+   Enigma, but has higher TMA.
+3. These two overalls are in fact the **only thief overalls** in all of vicloc.
 
 </details>
 
@@ -1532,79 +1529,76 @@ taken into account.
 
 ### For EXP
 
-| quest | level | EXP | other rewards |
-| :---- | ----: | --: | :------------ |
-| \[first-job training quests\] | 8&ndash;10 | 2&numsp;685 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(80), [Orange&nbsp;Potion](https://maplelegends.com/lib/use?id=2000001)s&nbsp;(30), [Blue&nbsp;Potion](https://maplelegends.com/lib/use?id=2000003)s&nbsp;(160), [Red&nbsp;Potion](https://maplelegends.com/lib/use?id=2000000)s&nbsp;(30), [nearest&nbsp;town&nbsp;scroll](https://maplelegends.com/lib/use?id=2030000)s&nbsp;(10) |
-| [DANGER! \<1-G. Mushroom\> (Part I)](https://bbb.hidden-street.net/quest/victoria-island/danger-1-g-mushroom) | 15 | 2&numsp;500 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(50) |
-| [Help Me Find My Glasses](https://bbb.hidden-street.net/quest/victoria-island/help-me-find-my-glasses) | 15 | 1&numsp;700 | [Nautilus&nbsp;return&nbsp;scroll](https://maplelegends.com/lib/use?id=2030019)s&nbsp;(10) |
-| [Protect the Nautilus&rsquo; Emergency Food Supply](https://bbb.hidden-street.net/quest/victoria-island/nautilus-special-entree) | 15 | 1&numsp;300 | |
-| [DANGER! \<2-H. Mushroom\> (Part 1)](https://bbb.hidden-street.net/quest/victoria-island/danger-2-h-mushroom) | 20 | 3&numsp;000 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(100) |
-| [Planting Trees](https://bbb.hidden-street.net/quest/victoria-island/planting-trees) | 20 | 5&numsp;000 | [Red&nbsp;Potion](https://maplelegends.com/lib/use?id=2000000)s&nbsp;(30) |
-| [Find Fresh Milk](https://bbb.hidden-street.net/quest/victoria-island/nautilus-special-entree) | 20 | 3&numsp;600 | |
-| [Legend of the Snail](https://bbb.hidden-street.net/quest/victoria-island/legend-of-the-snail) | 20 | 7&numsp;610 | mesos&nbsp;(30&numsp;000), fame&nbsp;(3) |
-| [POLLUTED! \<1-Evil Eye\> (Part 1)](https://bbb.hidden-street.net/quest/victoria-island/polluted-1-evil-eye) | 21 | 6&numsp;000 | [Mana&nbsp;Elixir](https://maplelegends.com/lib/use?id=2000006)s&nbsp;(100) |
-| [DANGER! \<3-Z. Mushroom\> (Part 1)](https://bbb.hidden-street.net/quest/victoria-island/danger-3-z-mushroom) | 22 | 3&numsp;500 | [Mana&nbsp;Elixir](https://maplelegends.com/lib/use?id=2000006)s&nbsp;(50) |
-| [Camila&rsquo;s Gem](https://bbb.hidden-street.net/quest/victoria-island/camilas-gem) | 23 | 5&numsp;500 | [Pig&nbsp;Illustrated](https://maplelegends.com/lib/equip?id=1322031), [Cake](https://maplelegends.com/lib/use?id=2020002)s&nbsp;(30) |
-| [Mystery of Niora Hospital](https://bbb.hidden-street.net/quest/victoria-island/mystery-of-niora-hospital) | 25 | 7&numsp;300 | [ORC](https://maplelegends.com/lib/equip?id=1102053) |
-| [Shawn the Excavator&rsquo;s Request](https://bbb.hidden-street.net/quest/victoria-island/shawn-the-excavators-request) | 25 | 3&numsp;500 | |
-| [Strange Dish 1](https://bbb.hidden-street.net/quest/victoria-island/strange-dish) | 25 | 8&numsp;000 | [Hamburger](https://maplelegends.com/lib/use?id=2020004)s&nbsp;(40) |
-| [Lazy Little Calico](https://bbb.hidden-street.net/quest/victoria-island/lazy-little-calico) | 25 | 6&numsp;000 | |
-| [Mr. Wetbottom&rsquo;s Secret Book](https://bbb.hidden-street.net/quest/victoria-island/mr-wetbottoms-secret-book) | 30 | 18&numsp;800 | [Red&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1051017)<sup>\[2\]</sup> **OR** [Blue&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1050018)<sup>\[3\]</sup>, mesos&nbsp;(10&numsp;000) |
-| [Rowen the Fairy and the Cursed Dolls](https://bbb.hidden-street.net/quest/victoria-island/rowen-the-fairy-and-the-cursed-dolls) | 35 | <sup>\[1\]&NoBreak;\[4\]</sup>81&numsp;000 | [GFD60](https://maplelegends.com/lib/use?id=2040801) **OR** [GFD10](https://maplelegends.com/lib/use?id=2040802), level&nbsp;40&nbsp;class&NoBreak;-&NoBreak;appropriate&nbsp;hat, [Gold&nbsp;Ore](https://maplelegends.com/lib/etc?id=4010006)s&nbsp;(5), random&nbsp;metal&nbsp;ores&nbsp;(7), random&nbsp;jewel&nbsp;ores&nbsp;(10), [Diamond&nbsp;Ore](https://maplelegends.com/lib/etc?id=4020007)s&nbsp;(5), [Garnet&nbsp;Ore](https://maplelegends.com/lib/etc?id=4020000)s&nbsp;(10), fame&nbsp;(9) |
-| [Strange Dish 2](https://bbb.hidden-street.net/quest/victoria-island/strange-dish) | 35 | 24&numsp;000 | [Unagi](https://maplelegends.com/lib/use?id=2022003)s&nbsp;(50) |
-| [The Old Tree](https://bbb.hidden-street.net/quest/victoria-island/the-old-tree) | 35 | 43&numsp;550 | fame&nbsp;(5) |
-| [Strange Dish 3](https://bbb.hidden-street.net/quest/victoria-island/strange-dish) | 40 | 36&numsp;000 | [Ice&nbsp;Cream&nbsp;Pop](https://maplelegends.com/lib/use?id=2001001)s&nbsp;(50) |
-| [The Forest of Evil](https://bc.hidden-street.net/quest/victoria-island/the-forest-of-evil) | 50 | 112&numsp;800 | fame&nbsp;(8) |
-| [Defeat King Clang!](https://bbb.hidden-street.net/quest/victoria-island/defeat-king-clang)/[A Brave Warrior to Defeat King Clang Appears!](https://bbb.hidden-street.net/sub_quest/victoria-island/a-brave-warrior-to-defeat-king-clang-appears) | 55 | 135&numsp;100 | fame&nbsp;(10) |
+| quest | level |  EXP | other rewards |
+| :---- | ----: | ---: | :------------ |
+| \[first-job training quests\] | 8&ndash;10 | 2&#x202f;685 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(80), [Orange&nbsp;Potion](https://maplelegends.com/lib/use?id=2000001)s&nbsp;(30), [Blue&nbsp;Potion](https://maplelegends.com/lib/use?id=2000003)s&nbsp;(160), [Red&nbsp;Potion](https://maplelegends.com/lib/use?id=2000000)s&nbsp;(30), [nearest&nbsp;town&nbsp;scroll](https://maplelegends.com/lib/use?id=2030000)s&nbsp;(10) |
+| [DANGER! \<1-G. Mushroom\> (Part I)](https://bbb.hidden-street.net/quest/victoria-island/danger-1-g-mushroom) | 15 | 2&#x202f;500 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(50) |
+| [Help Me Find My Glasses](https://bbb.hidden-street.net/quest/victoria-island/help-me-find-my-glasses) | 15 | 1&#x202f;700 | [Nautilus&nbsp;return&nbsp;scroll](https://maplelegends.com/lib/use?id=2030019)s&nbsp;(10) |
+| [Protect the Nautilus&rsquo; Emergency Food Supply](https://bbb.hidden-street.net/quest/victoria-island/nautilus-special-entree) | 15 | 1&#x202f;300 | |
+| [DANGER! \<2-H. Mushroom\> (Part 1)](https://bbb.hidden-street.net/quest/victoria-island/danger-2-h-mushroom) | 20 | 3&#x202f;000 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(100) |
+| [Planting Trees](https://bbb.hidden-street.net/quest/victoria-island/planting-trees) | 20 | 5&#x202f;000 | [Red&nbsp;Potion](https://maplelegends.com/lib/use?id=2000000)s&nbsp;(30) |
+| [Find Fresh Milk](https://bbb.hidden-street.net/quest/victoria-island/nautilus-special-entree) | 20 | 3&#x202f;600 | |
+| [Legend of the Snail](https://bbb.hidden-street.net/quest/victoria-island/legend-of-the-snail) | 20 | 7&#x202f;610 | mesos&nbsp;(30&#x202f;000), fame&nbsp;(3) |
+| [POLLUTED! \<1-Evil Eye\> (Part 1)](https://bbb.hidden-street.net/quest/victoria-island/polluted-1-evil-eye) | 21 | 6&#x202f;000 | [Mana&nbsp;Elixir](https://maplelegends.com/lib/use?id=2000006)s&nbsp;(100) |
+| [DANGER! \<3-Z. Mushroom\> (Part 1)](https://bbb.hidden-street.net/quest/victoria-island/danger-3-z-mushroom) | 22 | 3&#x202f;500 | [Mana&nbsp;Elixir](https://maplelegends.com/lib/use?id=2000006)s&nbsp;(50) |
+| [Camila&rsquo;s Gem](https://bbb.hidden-street.net/quest/victoria-island/camilas-gem) | 23 | 5&#x202f;500 | [Pig&nbsp;Illustrated](https://maplelegends.com/lib/equip?id=1322031), [Cake](https://maplelegends.com/lib/use?id=2020002)s&nbsp;(30) |
+| [Mystery of Niora Hospital](https://bbb.hidden-street.net/quest/victoria-island/mystery-of-niora-hospital) | 25 | 7&#x202f;300 | [ORC](https://maplelegends.com/lib/equip?id=1102053) |
+| [Shawn the Excavator&rsquo;s Request](https://bbb.hidden-street.net/quest/victoria-island/shawn-the-excavators-request) | 25 | 3&#x202f;500 | |
+| [Strange Dish 1](https://bbb.hidden-street.net/quest/victoria-island/strange-dish) | 25 | 8&#x202f;000 | [Hamburger](https://maplelegends.com/lib/use?id=2020004)s&nbsp;(40) |
+| [Lazy Little Calico](https://bbb.hidden-street.net/quest/victoria-island/lazy-little-calico) | 25 | 6&#x202f;000 | |
+| [Mr. Wetbottom&rsquo;s Secret Book](https://bbb.hidden-street.net/quest/victoria-island/mr-wetbottoms-secret-book) | 30 | 18&#x202f;800 | [Red&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1051017)<sup>\[2\]</sup> **OR** [Blue&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1050018)<sup>\[3\]</sup>, mesos&nbsp;(10&#x202f;000) |
+| [Rowen the Fairy and the Cursed Dolls](https://bbb.hidden-street.net/quest/victoria-island/rowen-the-fairy-and-the-cursed-dolls) | 35 | <sup>\[1\]&NoBreak;\[4\]</sup>81&#x202f;000 | [GFD60](https://maplelegends.com/lib/use?id=2040801) **OR** [GFD10](https://maplelegends.com/lib/use?id=2040802), level&nbsp;40&nbsp;class&NoBreak;-&NoBreak;appropriate&nbsp;hat, [Gold&nbsp;Ore](https://maplelegends.com/lib/etc?id=4010006)s&nbsp;(5), random&nbsp;metal&nbsp;ores&nbsp;(7), random&nbsp;jewel&nbsp;ores&nbsp;(10), [Diamond&nbsp;Ore](https://maplelegends.com/lib/etc?id=4020007)s&nbsp;(5), [Garnet&nbsp;Ore](https://maplelegends.com/lib/etc?id=4020000)s&nbsp;(10), fame&nbsp;(9) |
+| [Strange Dish 2](https://bbb.hidden-street.net/quest/victoria-island/strange-dish) | 35 | 24&#x202f;000 | [Unagi](https://maplelegends.com/lib/use?id=2022003)s&nbsp;(50) |
+| [The Old Tree](https://bbb.hidden-street.net/quest/victoria-island/the-old-tree) | 35 | 43&#x202f;550 | fame&nbsp;(5) |
+| [Strange Dish 3](https://bbb.hidden-street.net/quest/victoria-island/strange-dish) | 40 | 36&#x202f;000 | [Ice&nbsp;Cream&nbsp;Pop](https://maplelegends.com/lib/use?id=2001001)s&nbsp;(50) |
+| [The Forest of Evil](https://bc.hidden-street.net/quest/victoria-island/the-forest-of-evil) | 50 | 112&#x202f;800 | fame&nbsp;(8) |
+| [Defeat King Clang!](https://bbb.hidden-street.net/quest/victoria-island/defeat-king-clang)/[A Brave Warrior to Defeat King Clang Appears!](https://bbb.hidden-street.net/sub_quest/victoria-island/a-brave-warrior-to-defeat-king-clang-appears) | 55 | 135&#x202f;100 | fame&nbsp;(10) |
 | [Eliminate the Stone Golems](https://maplelegends.com/lib/quest?id=2198)<sup>\[6\]</sup> | 55 | <sup>\[1\]</sup>TODO | |
 | [Eliminate the Dark Stone Golems](https://maplelegends.com/lib/quest?id=2199)<sup>\[6\]</sup> | 58 | TODO | |
 | [Eliminate the Mixed Golems](https://maplelegends.com/lib/quest?id=2200)<sup>\[6\]</sup> | 59 | TODO | |
 | [Eliminate the Skeletons](https://maplelegends.com/lib/quest?id=2201)<sup>\[6\]</sup> | 63 | TODO | |
-| [The Monster and the Evil Scheme](https://maplelegends.com/lib/quest?id=2213)<sup>\[5\]</sup> | 65 | 180&numsp;000 | fame&nbsp;(12) |
+| [The Monster and the Evil Scheme](https://maplelegends.com/lib/quest?id=2213)<sup>\[5\]</sup> | 65 | 180&#x202f;000 | fame&nbsp;(12) |
 | [Eliminate the Drakes](https://maplelegends.com/lib/quest?id=2202)<sup>\[6\]</sup> | 68 | TODO | |
 | [Eliminate the Tauromacis](https://maplelegends.com/lib/quest?id=2203)<sup>\[6\]</sup> | 70 | TODO | [Melting&nbsp;Cheese](https://maplelegends.com/lib/use?id=2020012)s&nbsp;(50) |
 
 ### For mesos/items
 
-| quest | level | EXP | other rewards |
-| :---- | ----: | --: | :------------ |
+| quest | level |  EXP | other rewards |
+| :---- | ----: | ---: | :------------ |
 | [Protect Lucas&rsquo;s Farm](https://www.hidden-street.net/gms/quest/protect-lucass-farm) | 0 | 0 | [WWG](https://maplelegends.com/lib/equip?id=1082002) **OR** [YWG](https://maplelegends.com/lib/equip?id=1082145) **OR** [RWG](https://maplelegends.com/lib/equip?id=1082146) **OR** [Blue&nbsp;Work&nbsp;Gloves](https://maplelegends.com/lib/equip?id=1082147) **OR** [PWG](https://maplelegends.com/lib/equip?id=1082148) **OR** [GWG](https://maplelegends.com/lib/equip?id=1082150) |
-| \[first-job training quests\] | 8&ndash;10 | 2&numsp;685 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(80), [Orange&nbsp;Potion](https://maplelegends.com/lib/use?id=2000001)s&nbsp;(30), [Blue&nbsp;Potion](https://maplelegends.com/lib/use?id=2000003)s&nbsp;(160), [Red&nbsp;Potion](https://maplelegends.com/lib/use?id=2000000)s&nbsp;(30), [nearest&nbsp;town&nbsp;scroll](https://maplelegends.com/lib/use?id=2030000)s&nbsp;(10) |
-| [Mrs. Ming Ming&rsquo;s Second Worry](https://bbb.hidden-street.net/quest/victoria-island/mrs-ming-mings-second-worry) | 21 | <sup>\[1\]</sup>3&numsp;000 | [Ribboned&nbsp;Pig&nbsp;Headband](https://maplelegends.com/lib/equip?id=1002441) |
-| [Dr. Betty&rsquo;s Research on Plants](https://bbb.hidden-street.net/quest/victoria-island/dr-bettys-research-on-plants) | 22 | <sup>\[1\]</sup>3&numsp;200 | [Leaf&nbsp;Earrings](https://maplelegends.com/lib/equip?id=1032025) |
-| [Camila&rsquo;s Gem](https://bbb.hidden-street.net/quest/victoria-island/camilas-gem) | 23 | 5&numsp;500 | [Pig&nbsp;Illustrated](https://maplelegends.com/lib/equip?id=1322031), [Cake](https://maplelegends.com/lib/use?id=2020002)s&nbsp;(30) |
-| [Mystery of Niora Hospital](https://bbb.hidden-street.net/quest/victoria-island/mystery-of-niora-hospital) | 25 | 7&numsp;300 | [ORC](https://maplelegends.com/lib/equip?id=1102053) |
-| [Mr. Wetbottom&rsquo;s Secret Book](https://bbb.hidden-street.net/quest/victoria-island/mr-wetbottoms-secret-book) | 30 | 18&numsp;800 | [Red&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1051017)<sup>\[2\]</sup> **OR** [Blue&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1050018)<sup>\[3\]</sup>, mesos&nbsp;(10&numsp;000) |
-| [Jane the Alchemist](https://bbb.hidden-street.net/quest/victoria-island/jane-the-alchemist) | 40 | <sup>\[1\]</sup>20&numsp;400 | Access&nbsp;to&nbsp;[Jane](https://maplelegends.com/lib/npc?id=1002100)&rsquo;s&nbsp;shop, [GFA60](https://maplelegends.com/lib/use?id=2040804) **OR** [GFA10](https://maplelegends.com/lib/use?id=2040805) |
-| [Icarus and the Flying Pill](https://bbb.hidden-street.net/quest/victoria-island/icarus-and-the-flying-pill) | 42 | <sup>\[1\]</sup>13&numsp;200 | [Icarus&nbsp;Cape&nbsp;(1)](https://maplelegends.com/lib/equip?id=1102054) **OR** [Icarus&nbsp;Cape&nbsp;(2)](https://maplelegends.com/lib/equip?id=1102055) **OR** [Icarus&nbsp;Cape&nbsp;(3)](https://maplelegends.com/lib/equip?id=1102056) |
-| [A Spell That Seals Up a Critical Danger](https://bbb.hidden-street.net/quest/victoria-island/a-spell-that-seals-up-a-critical-danger) | <sup>\[7\]</sup>50 | 57&numsp;000 | [Power&nbsp;Elixir](https://maplelegends.com/lib/use?id=2000005)s&nbsp;(50) |
-| [The Alligators at the Swamp](https://bbb.hidden-street.net/quest/victoria-island/the-alligators-at-the-swamp) | 52 | <sup>\[1\]</sup>45&numsp;000 | choice&nbsp;of&nbsp;60%&nbsp;cape&nbsp;scroll&nbsp;(STR/DEX/INT/LUK), choice&nbsp;of&nbsp;class&NoBreak;-&NoBreak;appropriate&nbsp;10%&nbsp;weapon&nbsp;scroll |
+| \[first-job training quests\] | 8&ndash;10 | 2&#x202f;685 | [White&nbsp;Potion](https://maplelegends.com/lib/use?id=2000002)s&nbsp;(80), [Orange&nbsp;Potion](https://maplelegends.com/lib/use?id=2000001)s&nbsp;(30), [Blue&nbsp;Potion](https://maplelegends.com/lib/use?id=2000003)s&nbsp;(160), [Red&nbsp;Potion](https://maplelegends.com/lib/use?id=2000000)s&nbsp;(30), [nearest&nbsp;town&nbsp;scroll](https://maplelegends.com/lib/use?id=2030000)s&nbsp;(10) |
+| [Mrs. Ming Ming&rsquo;s Second Worry](https://bbb.hidden-street.net/quest/victoria-island/mrs-ming-mings-second-worry) | 21 | <sup>\[1\]</sup>3&#x202f;000 | [Ribboned&nbsp;Pig&nbsp;Headband](https://maplelegends.com/lib/equip?id=1002441) |
+| [Dr. Betty&rsquo;s Research on Plants](https://bbb.hidden-street.net/quest/victoria-island/dr-bettys-research-on-plants) | 22 | <sup>\[1\]</sup>3&#x202f;200 | [Leaf&nbsp;Earrings](https://maplelegends.com/lib/equip?id=1032025) |
+| [Camila&rsquo;s Gem](https://bbb.hidden-street.net/quest/victoria-island/camilas-gem) | 23 | 5&#x202f;500 | [Pig&nbsp;Illustrated](https://maplelegends.com/lib/equip?id=1322031), [Cake](https://maplelegends.com/lib/use?id=2020002)s&nbsp;(30) |
+| [Mystery of Niora Hospital](https://bbb.hidden-street.net/quest/victoria-island/mystery-of-niora-hospital) | 25 | 7&#x202f;300 | [ORC](https://maplelegends.com/lib/equip?id=1102053) |
+| [Mr. Wetbottom&rsquo;s Secret Book](https://bbb.hidden-street.net/quest/victoria-island/mr-wetbottoms-secret-book) | 30 | 18&#x202f;800 | [Red&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1051017)<sup>\[2\]</sup> **OR** [Blue&nbsp;Sauna&nbsp;Robe](https://maplelegends.com/lib/equip?id=1050018)<sup>\[3\]</sup>, mesos&nbsp;(10&#x202f;000) |
+| [Jane the Alchemist](https://bbb.hidden-street.net/quest/victoria-island/jane-the-alchemist) | 40 | <sup>\[1\]</sup>20&#x202f;400 | Access&nbsp;to&nbsp;[Jane](https://maplelegends.com/lib/npc?id=1002100)&rsquo;s&nbsp;shop, [GFA60](https://maplelegends.com/lib/use?id=2040804) **OR** [GFA10](https://maplelegends.com/lib/use?id=2040805) |
+| [Icarus and the Flying Pill](https://bbb.hidden-street.net/quest/victoria-island/icarus-and-the-flying-pill) | 42 | <sup>\[1\]</sup>13&#x202f;200 | [Icarus&nbsp;Cape&nbsp;(1)](https://maplelegends.com/lib/equip?id=1102054) **OR** [Icarus&nbsp;Cape&nbsp;(2)](https://maplelegends.com/lib/equip?id=1102055) **OR** [Icarus&nbsp;Cape&nbsp;(3)](https://maplelegends.com/lib/equip?id=1102056) |
+| [A Spell That Seals Up a Critical Danger](https://bbb.hidden-street.net/quest/victoria-island/a-spell-that-seals-up-a-critical-danger) | <sup>\[7\]</sup>50 | 57&#x202f;000 | [Power&nbsp;Elixir](https://maplelegends.com/lib/use?id=2000005)s&nbsp;(50) |
+| [The Alligators at the Swamp](https://bbb.hidden-street.net/quest/victoria-island/the-alligators-at-the-swamp) | 52 | <sup>\[1\]</sup>45&#x202f;000 | choice&nbsp;of&nbsp;60%&nbsp;cape&nbsp;scroll&nbsp;(STR/DEX/INT/LUK), choice&nbsp;of&nbsp;class&NoBreak;-&NoBreak;appropriate&nbsp;10%&nbsp;weapon&nbsp;scroll |
 
 <details>
 <summary>Footnotes for &ldquo;Notable quests&rdquo;</summary>
 
-\[1\]: Not considering EXP from prerequisite quests.
-
-\[2\]: If your character is female.
-
-\[3\]: If your character is male.
-
-\[4\]: Note that this questline is split up over five quests, which each
-require 100, 200, 400, 600, and 1&numsp;000 [Cursed
-Doll](https://maplelegends.com/lib/etc?id=4000031)s (which drop exclusively
-from [Zombie Lupin](https://maplelegends.com/lib/monster?id=4230101)s and
-[Faust](https://maplelegends.com/lib/monster?id=5220002)), respectively, for a
-total of 2&numsp;300 Cursed Dolls to complete the entire questline.
-
-\[5\]: This questline is started with [JM From tha
-Streetz](https://maplelegends.com/lib/npc?id=1052002), and ultimately asks the
-player to defeat [Dyle](https://maplelegends.com/lib/monster?id=6220000).
-
-\[6\]: This quest is started with
-[Muirhat](https://maplelegends.com/lib/npc?id=1092007).
-
-\[7\]: This questline is more or less impossible to fully complete as a level
-50 [PC](https://en.wikipedia.org/wiki/Player_character).
+1. Not considering EXP from prerequisite quests.
+2. If your character is female.
+3. If your character is male.
+4. Note that this questline is split up over five quests, which each require
+   100, 200, 400, 600, and 1&#x202f;000 [Cursed
+   Doll](https://maplelegends.com/lib/etc?id=4000031)s (which drop exclusively
+   from [Zombie Lupin](https://maplelegends.com/lib/monster?id=4230101)s and
+   [Faust](https://maplelegends.com/lib/monster?id=5220002)), respectively, for
+   a total of 2&#x202f;300 Cursed Dolls to complete the entire questline.
+5. This questline is started with [JM From tha
+   Streetz](https://maplelegends.com/lib/npc?id=1052002), and ultimately asks
+   the player to defeat
+   [Dyle](https://maplelegends.com/lib/monster?id=6220000).
+6. This quest is started with
+   [Muirhat](https://maplelegends.com/lib/npc?id=1092007), and has [The Lost
+   Letter](https://bbb.hidden-street.net/quest/victoria-island/the-lost-letter)
+   as a prerequisite.
+7. This questline is more or less impossible to fully complete as a level 50
+   [PC](https://en.wikipedia.org/wiki/Player_character).
 
 </details>
 
@@ -1851,9 +1845,9 @@ annoying:
 <details>
 <summary>Footnotes for &ldquo;APQ&rdquo;</summary>
 
-\[1\]: Using PWF1 to its full potential typically requires knowledge of how to
-fall off of the map. Falling through the floor of the map always respawns you
-at the bottom-left corner of the map.
+1. Using PWF1 to its full potential typically requires knowledge of how to fall
+   off of the map. Falling through the floor of the map always respawns you at
+   the bottom-left corner of the map.
 
 </details>
 
