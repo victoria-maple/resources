@@ -75,6 +75,7 @@
 - [Shields](#shields)
     - [Warrior](#warrior-13)
 - [Shoes](#shoes)
+    - [Warrior](#warrior-14)
 - [Rings](#rings)
 
 ## Weapons
@@ -1314,6 +1315,40 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Squishy Shoes                      |    30 |           | 1 STR, 1 DEX, 1 INT, 1 LUK, 3 SPEED, 10 WDEF, 5 MDEF |     5 | King Slime      | KPQ                                                    |                          |              |
 | Blue Sneakers                      |    31 |           | 16 WDEF                                              |     5 |                 | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] | Henesys                  |              |
 | Red Sneakers                       |    31 |           | 16 WDEF                                              |     5 |                 |                                                        | Henesys                  |              |
+
+### Warrior
+
+| name                   | level | stat reqs | stats                         | slots | dropped by                          | awarded by                                             | sold at | craftable at |
+| :--------------------- | ----: | :-------- | :---------------------------- | ----: | :---------------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Bronze/Steel Grieves   |    15 | 50 STR    | 9 WDEF                        |     5 |                                     |                                                        | Perion  |              |
+| Brown High Boots       |    20 | 65 STR    | 12 WDEF                       |     5 | Stump, Wooden Mask                  |                                                        | Perion  |              |
+| Orange/Blue High Boots |    20 | 65 STR    | 12 WDEF                       |     5 |                                     |                                                        | Perion  |              |
+| Mithril War Boots      |    25 | 80 STR    | 15 WDEF                       |     5 | Blue Mushroom                       |                                                        | Perion  |              |
+| Gold War Boots         |    25 | 80 STR    | 1 DEX, 16 WDEF                |     5 | Ghost Stump, Wooden Mask            |                                                        |         |              |
+| Silver War Boots       |    25 | 80 STR    | 1 DEX, 16 WDEF                |     5 |                                     |                                                        |         | Sleepywood   |
+| Dark War Boots         |    25 | 80 STR    | 2 STR, 17 WDEF                |     5 |                                     |                                                        |         | Sleepywood   |
+| Mithril Battle Grieves |    30 | 95 STR    | 1 DEX, 18 WDEF                |     5 | Wild Boar                           |                                                        |         | Sleepywood   |
+| Blood Battle Grieves   |    30 | 95 STR    | 1 DEX, 18 WDEF                |     5 |                                     |                                                        |         | Sleepywood   |
+| Emerald Battle Grieves |    30 | 95 STR    | 1 STR, 18 WDEF                |     5 |                                     | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] |         | Sleepywood   |
+| Silver Battle Grieves  |    30 | 95 STR    | 1 STR, 18 WDEF                |     5 |                                     |                                                        |         | Sleepywood   |
+| Mithril Trigger        |    35 | 110 STR   | 1 DEX, 10 MP, 21 WDEF         |     5 | Ligator                             |                                                        |         | Sleepywood   |
+| Steel Trigger          |    35 | 110 STR   | 1 STR, 10 MP, 21 WDEF         |     5 | Lorang                              |                                                        |         | Sleepywood   |
+| Dark Trigger           |    35 | 110 STR   | 1 STR, 1 DEX, 10 MP, 21 WDEF  |     5 | Lorang                              |                                                        |         | Sleepywood   |
+| Brown Jangoon Shoes\*  |    40 | 130 STR   | 2 DEX, 20 MP, 24 WDEF         |     5 |                                     |                                                        |         | Sleepywood   |
+| Maroon Jangoon Shoes\* |    40 | 130 STR   | 1 STR, 1 DEX, 20 MP, 24 WDEF  |     5 | Iron Boar, Sakura Cellion, Skeledog |                                                        |         | Sleepywood   |
+| Blue Jangoon Shoes\*   |    40 | 130 STR   | 2 STR, 20 MP, 24 WDEF         |     5 |                                     |                                                        |         | Sleepywood   |
+| Emerald Hildon Boots   |    50 | 160 STR   | 3 DEX, 30 WDEF                |     5 | Cold Eye, Skeleton Soldier          |                                                        |         | Sleepywood   |
+| Mithril Hildon Boots   |    50 | 160 STR   | 1 STR, 2 DEX, 30 WDEF         |     5 | Copper Drake                        |                                                        |         | Sleepywood   |
+| Orihalcon Hildon Boots |    50 | 160 STR   | 2 STR, 1 DEX, 30 WDEF         |     5 |                                     |                                                        |         | Sleepywood   |
+| Gold Hildon Boots      |    50 | 160 STR   | 3 STR, 30 WDEF                |     5 |                                     |                                                        |         | Sleepywood   |
+| Sapphire Camel Boots   |    60 | 190 STR   | 1 STR, 3 DEX, 36 WDEF         |     5 |                                     |                                                        |         | Sleepywood   |
+| Orihalcon Camel Boots  |    60 | 190 STR   | 2 STR, 2 DEX, 36 WDEF         |     5 | Wild Kargo, Red Drake               |                                                        |         | Sleepywood   |
+| Blood Camel Boots      |    60 | 190 STR   | 3 STR, 1 DEX, 36 WDEF         |     5 | King Clang                          |                                                        |         | Sleepywood   |
+| Blue Carzen Boots      |    70 | 220 STR   | 1 STR, 3 DEX, 1 WACC, 42 WDEF |     5 | Wild Cargo                          |                                                        |         |              |
+| Red Rivers Boots       |    80 | 270 STR   | 2 STR, 3 DEX, 48 WDEF         |     5 | Commander Skeleton                  |                                                        |         |              |
+| Blue Rivers Boots      |    80 | 270 STR   | 3 STR, 2 DEX, 48 WDEF         |     5 | Taurospear                          |                                                        |         |              |
+
+\*A\.k\.a. &ldquo;\[colour\] Jangoon Boots&rdquo;.
 
 ## Rings
 
