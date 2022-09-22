@@ -79,6 +79,7 @@
     - [Mage](#mage-7)
     - [Archer](#archer-7)
     - [Thief](#thief-7)
+    - [Pirate](#pirate-5)
 - [Rings](#rings)
 
 ## Weapons
@@ -1461,6 +1462,18 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 \*A\.k\.a. &ldquo;\[colour\] White-Line Boots&rdquo;.
 
 &dagger;<i>Sic</i>.
+
+### Pirate
+
+| name                 | level | stat reqs      | stats                          | slots | dropped by                                | awarded by                                             | sold at          | craftable at |
+| :------------------- | ----: | :------------- | :----------------------------- | ----: | :---------------------------------------- | :----------------------------------------------------- | :--------------- | :----------- |
+| Brown Lagger Slipper |    15 | 15 STR, 15 DEX | 7 WDEF                         |     5 | Ribbon Pig                                |                                                        | Nautilus Harbour |              |
+| Brown Skeedy Sandals |    20 | 20 STR, 20 DEX | 10 WDEF                        |     5 |                                           |                                                        | Nautilus Harbour |              |
+| Brown Paulie Boots   |    30 | 30 STR, 30 DEX | 1 DEX, 16 WDEF                 |     5 |                                           | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] |                  | Sleepywood   |
+| Brown Locote Shoes   |    35 | 35 STR, 35 DEX | 1 STR, 1 DEX, 19 WDEF          |     5 | Lorang                                    |                                                        |                  | Sleepywood   |
+| Brown Leather Krag   |    40 | 40 STR, 40 DEX | 1 STR, 1 DEX, 1 AVOID, 22 WDEF |     5 | Lupin                                     |                                                        |                  | Sleepywood   |
+| Brown Double Boots   |    50 | 50 STR, 50 DEX | 2 STR, 1 DEX, 28 WDEF          |     5 | Wraith, Stone Golem, Tortie               |                                                        |                  | Sleepywood   |
+| Black Basile Boots   |    60 | 60 STR, 60 DEX | 1 STR, 3 DEX, 34 WDEF          |     5 | Mixed Golem, King Clang, Skeleton Soldier |                                                        |                  | Sleepywood   |
 
 ## Rings
 
