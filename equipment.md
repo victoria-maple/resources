@@ -76,6 +76,7 @@
     - [Warrior](#warrior-13)
 - [Shoes](#shoes)
     - [Warrior](#warrior-14)
+    - [Mage](#mage-7)
 - [Rings](#rings)
 
 ## Weapons
@@ -1349,6 +1350,44 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Blue Rivers Boots      |    80 | 270 STR   | 3 STR, 2 DEX, 48 WDEF         |     5 | Taurospear                          |                                                        |         |              |
 
 \*A\.k\.a. &ldquo;\[colour\] Jangoon Boots&rdquo;.
+
+### Mage
+
+| name                     | level | stat reqs       | stats                                  | slots | dropped by                                   | awarded by                                             | sold at | craftable at |
+| :----------------------- | ----: | :-------------- | :------------------------------------- | ----: | :------------------------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Blue Basic Boots         |    10 |                 | 3 WDEF, 1 MDEF                         |     5 | Stirge                                       |                                                        | Ellinia |              |
+| Yellow/Brown Basic Boots |    10 |                 | 3 WDEF, 1 MDEF                         |     5 |                                              |                                                        | Ellinia |              |
+| Beige Nitty              |    15 | 48 INT, 18 LUK  | 5 WDEF, 2 MDEF                         |     5 | Slime                                        |                                                        | Ellinia |              |
+| Black Nitty              |    15 | 48 INT, 18 LUK  | 5 WDEF, 2 MDEF                         |     5 |                                              |                                                        | Ellinia |              |
+| Blue Jewelery Boots      |    20 | 62 INT, 23 LUK  | 1 INT, 7 WDEF, 3 MDEF                  |     5 | Bubbling                                     |                                                        |         | Sleepywood   |
+| Purple Jewelery Boots    |    20 | 62 INT, 23 LUK  | 1 INT, 7 WDEF, 3 MDEF                  |     5 | Blue Mushroom                                |                                                        |         | Sleepywood   |
+| Red Jewelery Boots       |    20 | 62 INT, 23 LUK  | 1 INT, 7 WDEF, 3 MDEF                  |     5 |                                              |                                                        |         | Sleepywood   |
+| Yellow Windshoes         |    25 | 78 INT, 28 LUK  | 1 INT, 9 WDEF, 4 MDEF                  |     5 | Horny Mushroom                               |                                                        |         | Sleepywood   |
+| Black Windshoes          |    25 | 78 INT, 28 LUK  | 1 INT, 9 WDEF, 4 MDEF                  |     5 | Mano                                         |                                                        |         | Sleepywood   |
+| Silver Windshoes         |    25 | 78 INT, 28 LUK  | 1 INT, 9 WDEF, 4 MDEF                  |     5 |                                              |                                                        |         | Sleepywood   |
+| White Magicshoes         |    30 | 85 INT, 30 LUK  | 1 INT, 11 WDEF, 5 MDEF                 |     5 |                                              | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] |         | Sleepywood   |
+| Red/Blue Magicshoes      |    30 | 85 INT, 30 LUK  | 1 INT, 11 WDEF, 5 MDEF                 |     5 |                                              |                                                        |         | Sleepywood   |
+| Black Magicshoes         |    30 | 85 INT, 30 LUK  | 2 INT, 12 WDEF, 5 MDEF                 |     5 | Zombie Lupin                                 |                                                        |         | Sleepywood   |
+| Purple Salt Shoes        |    35 | 108 INT, 38 LUK | 1 LUK, 10 MP, 13 WDEF, 6 MDEF          |     5 |                                              |                                                        |         | Sleepywood   |
+| Red Salt Shoes           |    35 | 108 INT, 38 LUK | 1 INT, 10 MP, 13 WDEF, 6 MDEF          |     5 | Cold Eye                                     |                                                        |         | Sleepywood   |
+| Toy Soldier Shoes\*      |    35 | 108 INT, 38 LUK | 1 INT, 1 LUK, 14 WDEF, 6 MDEF          |     5 | Fire Boar                                    |                                                        |         | Sleepywood   |
+| Red Moon Shoes           |    40 | 128 INT, 43 LUK | 2 LUK, 5 MP, 15 WDEF, 7 MDEF           |     5 | Jr. Wraith, Sakura Cellion, Iron Hog, Wraith |                                                        |         | Sleepywood   |
+| Blue Moon Shoes          |    40 | 128 INT, 43 LUK | 2 LUK, 5 MP, 15 WDEF, 7 MDEF           |     5 | Sakura Cellion                               |                                                        |         | Sleepywood   |
+| Gold Moon Shoes          |    40 | 128 INT, 43 LUK | 2 INT, 5 MP, 15 WDEF, 7 MDEF           |     5 | Lupin, Iron Boar, Drake                      |                                                        |         | Sleepywood   |
+| Dark Moon Shoes          |    40 | 128 INT, 43 LUK | 2 INT, 1 LUK, 10 MP, 16 WDEF, 8 MDEF   |     5 |                                              |                                                        |         | Sleepywood   |
+| Pink Goldwind Shoes      |    50 | 158 INT, 53 LUK | 3 LUK, 19 WDEF, 9 MDEF                 |     5 | Cold Eye, Skeleton Soldier                   |                                                        |         | Sleepywood   |
+| Blue Goldwind Shoes      |    50 | 158 INT, 53 LUK | 1 INT, 2 LUK, 19 WDEF, 9 MDEF          |     5 | Wraith                                       |                                                        |         | Sleepywood   |
+| Purple Goldwind Shoes    |    50 | 158 INT, 53 LUK | 2 INT, 1 LUK, 19 WDEF, 9 MDEF          |     5 | Tortie, Skeleton Soldier                     |                                                        |         | Sleepywood   |
+| Green Goldwind Shoes     |    50 | 158 INT, 53 LUK | 3 INT, 19 WDEF, 9 MDEF                 |     5 | Stone Golem, Malady                          |                                                        |         | Sleepywood   |
+| Pink Goldrunners         |    60 | 188 INT, 63 LUK | 1 INT, 3 LUK, 23 WDEF, 11 MDEF         |     5 | King Clang, Red Drake                        | Ronnie &amp; the Fairies Building a New House          |         | Sleepywood   |
+| Green Goldrunners        |    60 | 188 INT, 63 LUK | 2 INT, 2 LUK, 23 WDEF, 11 MDEF         |     5 | Malady                                       | Ronnie &amp; the Fairies Building a New House          |         | Sleepywood   |
+| Orange Goldrunners       |    60 | 188 INT, 63 LUK | 3 INT, 1 LUK, 23 WDEF, 11 MDEF         |     5 |                                              | Ronnie &amp; the Fairies Building a New House          |         | Sleepywood   |
+| Blue Goldrunners         |    60 | 188 INT, 63 LUK | 3 INT, 1 LUK, 23 WDEF, 11 MDEF         |     5 | Dark Stone Golem                             | Ronnie &amp; the Fairies Building a New House          |         | Sleepywood   |
+| Red Lapiz Sandals        |    70 | 218 INT, 73 LUK | 1 MATK, 2 INT, 2 LUK, 27 WDEF, 13 MDEF |     5 | Ice Drake                                    |                                                        |         |              |
+| Gold Lapiz Sandals       |    70 | 218 INT, 73 LUK | 1 MATK, 3 INT, 1 LUK, 27 WDEF, 13 MDEF |     5 | Red Drake                                    |                                                        |         |              |
+| Green Enigma Shoes       |    80 | 248 INT, 83 LUK | 2 INT, 3 LUK, 31 WDEF, 15 MDEF         |     5 | Commander Skeleton                           |                                                        |         |              |
+
+\*A\.k\.a. &ldquo;Black Salt Shoes&rdquo;.
 
 ## Rings
 
