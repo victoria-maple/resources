@@ -77,6 +77,7 @@
 - [Shoes](#shoes)
     - [Warrior](#warrior-14)
     - [Mage](#mage-7)
+    - [Archer](#archer-7)
 - [Rings](#rings)
 
 ## Weapons
@@ -1370,7 +1371,7 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Black Magicshoes         |    30 | 85 INT, 30 LUK  | 2 INT, 12 WDEF, 5 MDEF                 |     5 | Zombie Lupin                                 |                                                        |         | Sleepywood   |
 | Purple Salt Shoes        |    35 | 108 INT, 38 LUK | 1 LUK, 10 MP, 13 WDEF, 6 MDEF          |     5 |                                              |                                                        |         | Sleepywood   |
 | Red Salt Shoes           |    35 | 108 INT, 38 LUK | 1 INT, 10 MP, 13 WDEF, 6 MDEF          |     5 | Cold Eye                                     |                                                        |         | Sleepywood   |
-| Toy Soldier Shoes\*      |    35 | 108 INT, 38 LUK | 1 INT, 1 LUK, 14 WDEF, 6 MDEF          |     5 | Fire Boar                                    |                                                        |         | Sleepywood   |
+| Black Salt Shoes\*       |    35 | 108 INT, 38 LUK | 1 INT, 1 LUK, 14 WDEF, 6 MDEF          |     5 | Fire Boar                                    |                                                        |         | Sleepywood   |
 | Red Moon Shoes           |    40 | 128 INT, 43 LUK | 2 LUK, 5 MP, 15 WDEF, 7 MDEF           |     5 | Jr. Wraith, Sakura Cellion, Iron Hog, Wraith |                                                        |         | Sleepywood   |
 | Blue Moon Shoes          |    40 | 128 INT, 43 LUK | 2 LUK, 5 MP, 15 WDEF, 7 MDEF           |     5 | Sakura Cellion                               |                                                        |         | Sleepywood   |
 | Gold Moon Shoes          |    40 | 128 INT, 43 LUK | 2 INT, 5 MP, 15 WDEF, 7 MDEF           |     5 | Lupin, Iron Boar, Drake                      |                                                        |         | Sleepywood   |
@@ -1387,7 +1388,40 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Gold Lapiz Sandals       |    70 | 218 INT, 73 LUK | 1 MATK, 3 INT, 1 LUK, 27 WDEF, 13 MDEF |     5 | Red Drake                                    |                                                        |         |              |
 | Green Enigma Shoes       |    80 | 248 INT, 83 LUK | 2 INT, 3 LUK, 31 WDEF, 15 MDEF         |     5 | Commander Skeleton                           |                                                        |         |              |
 
-\*A\.k\.a. &ldquo;Black Salt Shoes&rdquo;.
+\*Previously known as &ldquo;Toy Soldier Shoes&rdquo; in MapleLegends.
+
+### Archer
+
+| name                            | level | stat reqs      | stats                          | slots | dropped by                    | awarded by                                             | sold at | craftable at |
+| :------------------------------ | ----: | :------------- | :----------------------------- | ----: | :---------------------------- | :----------------------------------------------------- | :------ | :----------- |
+| Brown Hard Leather Boots        |    10 |                | 4 WDEF                         |     5 | Orange Mushroom               |                                                        | Henesys |              |
+| Green Hard Leather Boots        |    10 |                | 4 WDEF                         |     5 |                               |                                                        | Henesys |              |
+| Brown Woodsman Boots            |    15 | 15 STR, 35 DEX | 7 WDEF                         |     5 | Red Snail                     |                                                        | Henesys |              |
+| Blue/Green Woodsman Boots       |    15 | 15 STR, 35 DEX | 7 WDEF                         |     5 |                               |                                                        | Henesys |              |
+| Deer/Rabbit/Bear/Lion Huntertop |    20 | 20 STR, 45 DEX | 10 WDEF                        |     5 |                               |                                                        | Henesys |              |
+| Red Jack Boots                  |    25 | 25 STR, 55 DEX | 1 DEX, 13 WDEF                 |     5 | Jr. Necki                     |                                                        |         | Sleepywood   |
+| Brown/Green Jack Boots          |    25 | 25 STR, 55 DEX | 1 DEX, 13 WDEF                 |     5 |                               |                                                        |         | Sleepywood   |
+| Blue/Brown Hunter Boots         |    30 | 95 DEX         | 1 STR, 16 WDEF                 |     5 |                               |                                                        |         | Sleepywood   |
+| Red Hunter Boots                |    30 | 95 DEX         | 1 DEX, 16 WDEF                 |     5 | Fire Boar                     |                                                        |         | Sleepywood   |
+| Green Hunter Boots              |    30 | 95 DEX         | 1 DEX, 16 WDEF                 |     5 |                               | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] |         | Sleepywood   |
+| Black Hunter Boots              |    30 | 95 DEX         | 1 DEX, 16 WDEF                 |     5 |                               |                                                        |         | Sleepywood   |
+| Blue Silky Boots                |    35 | 115 DEX        | 2 STR, 19 WDEF                 |     5 |                               |                                                        |         | Sleepywood   |
+| Red Silky Boots                 |    35 | 115 DEX        | 1 STR, 1 DEX, 19 WDEF          |     5 | Fire Boar                     |                                                        |         | Sleepywood   |
+| Green Silky Boots               |    35 | 115 DEX        | 2 DEX, 19 WDEF                 |     5 |                               |                                                        |         | Sleepywood   |
+| Red Pierre Shoes                |    40 | 130 DEX        | 2 STR, 5 MP, 22 WDEF           |     5 | Jr. Wraith, Skeledog          |                                                        |         | Sleepywood   |
+| Yellow Pierre Shoes             |    40 | 130 DEX        | 1 STR, 1 DEX, 5 MP, 22 WDEF    |     5 |                               |                                                        |         | Sleepywood   |
+| Brown Pierre Shoes              |    40 | 130 DEX        | 2 DEX, 5 MP, 22 WDEF           |     5 | Dark Stone Golem              |                                                        |         | Sleepywood   |
+| Blue Pierre Shoes               |    40 | 130 DEX        | 2 DEX, 5 MP, 22 WDEF           |     5 | Iron Hog, Lorang, Stone Golem |                                                        |         | Sleepywood   |
+| Brown Steel-Tip Boots           |    50 | 160 DEX        | 3 STR, 28 WDEF                 |     5 | Skeleton Soldier              |                                                        |         | Sleepywood   |
+| Green Steel-Tip Boots           |    50 | 160 DEX        | 2 STR, 1 DEX, 28 WDEF          |     5 |                               |                                                        |         | Sleepywood   |
+| Blue Steel-Tip Boots            |    50 | 160 DEX        | 1 STR, 2 DEX, 28 WDEF          |     5 | Tortie                        |                                                        |         | Sleepywood   |
+| Purple Steel-Tip Boots          |    50 | 160 DEX        | 3 DEX, 28 WDEF                 |     5 | Copper Drake                  |                                                        |         | Sleepywood   |
+| Red Gore Boots                  |    60 | 190 DEX        | 3 STR, 1 DEX, 34 WDEF          |     5 | King Clang                    | Collecting for Maya                                    |         | Sleepywood   |
+| Blue Gore Boots                 |    60 | 190 DEX        | 2 STR, 2 DEX, 34 WDEF          |     5 |                               | Collecting for Maya                                    |         | Sleepywood   |
+| Green Gore Boots                |    60 | 190 DEX        | 1 STR, 3 DEX, 34 WDEF          |     5 | Mixed Golem, Red Drake        | Collecting for Maya                                    |         | Sleepywood   |
+| Dark Elf Shoes                  |    70 | 220 DEX        | 1 STR, 3 DEX, 1 AVOID, 40 WDEF |     5 | Taurospear                    |                                                        |         |              |
+| Blue Wing Boots                 |    80 | 250 DEX        | 3 STR, 2 DEX, 46 WDEF          |     5 | Commander Skeleton            |                                                        |         |              |
+| Green Wing Boots                |    80 | 250 DEX        | 1 STR, 4 DEX, 46 WDEF          |     5 | Tauromacis                    |                                                        |         |              |
 
 ## Rings
 
