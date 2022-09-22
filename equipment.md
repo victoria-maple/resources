@@ -78,6 +78,7 @@
     - [Warrior](#warrior-14)
     - [Mage](#mage-7)
     - [Archer](#archer-7)
+    - [Thief](#thief-7)
 - [Rings](#rings)
 
 ## Weapons
@@ -1422,6 +1423,44 @@ Betty&rsquo;s Research on Plants&rdquo; questline.
 | Dark Elf Shoes                  |    70 | 220 DEX        | 1 STR, 3 DEX, 1 AVOID, 40 WDEF |     5 | Taurospear                    |                                                        |         |              |
 | Blue Wing Boots                 |    80 | 250 DEX        | 3 STR, 2 DEX, 46 WDEF          |     5 | Commander Skeleton            |                                                        |         |              |
 | Green Wing Boots                |    80 | 250 DEX        | 1 STR, 4 DEX, 46 WDEF          |     5 | Tauromacis                    |                                                        |         |              |
+
+### Thief
+
+| name                            | level | stat reqs        | stats                          | slots | dropped by                          | awarded by                                             | sold at      | craftable at |
+| :------------------------------ | ----: | :--------------- | :----------------------------- | ----: | :---------------------------------- | :----------------------------------------------------- | :----------- | :----------- |
+| Blue/Brown Gidder Shoes         |    10 |                  | 4 WDEF                         |     5 |                                     |                                                        | Kerning City |              |
+| Red Ninja Sandals               |    15 | 30 DEX, 35 LUK   | 7 WDEF                         |     5 | Orange Mushroom                     |                                                        | Kerning City |              |
+| White/Yellow/Blue Ninja Sandals |    15 | 30 DEX, 35 LUK   | 7 WDEF                         |     5 |                                     |                                                        | Kerning City |              |
+| Black/Blue Enamel Boots         |    20 | 40 DEX, 50 LUK   | 10 WDEF                        |     5 | Ghost Stump                         |                                                        | Kerning City |              |
+| Red Enamel Boots                |    20 | 40 DEX, 50 LUK   | 10 WDEF                        |     5 |                                     |                                                        | Kerning City |              |
+| Blue/Green Lappy Boots          |    25 | 50 DEX, 65 LUK   | 1 LUK, 13 WDEF                 |     5 |                                     |                                                        |              | Sleepywood   |
+| Black Lappy Boots               |    25 | 50 DEX, 65 LUK   | 1 LUK, 13 WDEF                 |     5 | Dark Axe Stump, Wooden Mask, Stumpy |                                                        |              | Sleepywood   |
+| Red Lappy Boots                 |    25 | 50 DEX, 65 LUK   | 1 LUK, 13 WDEF                 |     5 | Dark Axe Stump                      |                                                        |              | Sleepywood   |
+| Bronze Chain Boots              |    30 | 60 DEX, 80 LUK   | 1 DEX, 16 WDEF                 |     5 | Lupin                               |                                                        |              | Sleepywood   |
+| Iron Chain Boots                |    30 | 60 DEX, 80 LUK   | 1 LUK, 16 WDEF                 |     5 | Wild Boar                           |                                                        |              | Sleepywood   |
+| Silver Chain Boots              |    30 | 60 DEX, 80 LUK   | 1 LUK, 16 WDEF                 |     5 |                                     | Nella &amp; Kerning City Citizen&rsquo;s Request \[2\] |              | Sleepywood   |
+| Gold Chain Boots                |    30 | 60 DEX, 80 LUK   | 2 DEX, 17 WDEF                 |     5 |                                     |                                                        |              | Sleepywood   |
+| Green White-Lined Boots\*       |    35 | 70 DEX, 95 LUK   | 2 DEX, 19 WDEF                 |     5 |                                     |                                                        |              | Sleepywood   |
+| Blue White-Lined Boots\*        |    35 | 70 DEX, 95 LUK   | 1 DEX, 1 LUK, 19 WDEF          |     5 |                                     |                                                        |              | Sleepywood   |
+| Red White-Lined Boots\*         |    35 | 70 DEX, 95 LUK   | 2 LUK, 19 WDEF                 |     5 |                                     |                                                        |              | Sleepywood   |
+| Black Green-Lined Shoes         |    40 | 80 DEX, 110 LUK  | 2 DEX, 5 MP, 22 WDEF           |     5 | Drake, Skeledog                     |                                                        |              | Sleepywood   |
+| Black Yellow-Lined Shoes        |    40 | 80 DEX, 110 LUK  | 1 STR, 1 LUK, 5 MP, 22 WDEF    |     5 | Lupin                               |                                                        |              | Sleepywood   |
+| Black Blue-Lines&dagger; Shoes  |    40 | 80 DEX, 110 LUK  | 1 DEX, 1 LUK, 5 MP, 22 WDEF    |     5 |                                     |                                                        |              | Sleepywood   |
+| Black Red-Lined Shoes           |    40 | 80 DEX, 110 LUK  | 2 LUK, 5 MP, 22 WDEF           |     5 | Stumpy                              |                                                        |              | Sleepywood   |
+| Blue Goni Shoes                 |    50 | 90 DEX, 140 LUK  | 3 STR, 28 WDEF                 |     5 | Skeleton Soldier                    |                                                        |              | Sleepywood   |
+| Green Goni Shoes                |    50 | 90 DEX, 140 LUK  | 3 DEX, 28 WDEF                 |     5 |                                     |                                                        |              | Sleepywood   |
+| Purple Goni Shoes               |    50 | 90 DEX, 140 LUK  | 1 DEX, 2 LUK, 28 WDEF          |     5 |                                     |                                                        |              | Sleepywood   |
+| Red Goni Shoes                  |    50 | 90 DEX, 140 LUK  | 3 LUK, 28 WDEF                 |     5 |                                     |                                                        |              | Sleepywood   |
+| Blood Moss Boots                |    60 | 100 DEX, 170 LUK | 3 STR, 1 LUK, 34 WDEF          |     5 |                                     |                                                        |              | Sleepywood   |
+| Gold Moss Boots                 |    60 | 100 DEX, 170 LUK | 1 STR, 3 DEX, 34 WDEF          |     5 |                                     |                                                        |              | Sleepywood   |
+| Dark Moss Boots                 |    60 | 100 DEX, 170 LUK | 1 DEX, 3 LUK, 34 WDEF          |     5 | King Clang                          |                                                        |              | Sleepywood   |
+| Blue Mystique Shoes             |    70 | 110 DEX, 200 LUK | 1 STR, 3 DEX, 1 AVOID, 40 WDEF |     5 | Red Drake                           |                                                        |              |              |
+| Red Mystique Shoes              |    70 | 110 DEX, 200 LUK | 1 DEX, 3 LUK, 1 AVOID, 40 WDEF |     5 | Tauromacis                          |                                                        |              |              |
+| Green Pirate Boots              |    80 | 120 DEX, 220 LUK | 3 STR, 2 LUK, 46 WDEF          |     5 | Dark Drake, Commander Skeleton      |                                                        |              |              |
+
+\*A\.k\.a. &ldquo;\[colour\] White-Line Boots&rdquo;.
+
+&dagger;<i>Sic</i>.
 
 ## Rings
 
