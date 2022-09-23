@@ -3,6 +3,7 @@
 - [Chrishrama](#chrishrama)
     - [Warrior](#warrior)
     - [Mage](#mage)
+    - [Archer](#archer)
 
 ## Chrishrama
 
@@ -63,3 +64,30 @@
 | Green Goldrunners     |    60 | 1 Star Rock, 4 Gold Plate, 5 Emerald, 70 Dragon Skin, 50 Screw          | 60&#x202f;000 |
 | Orange Goldrunners    |    60 | 1 Star Rock, 4 Gold Plate, 5 Adamantium Plate, 70 Dragon Skin, 50 Screw | 60&#x202f;000 |
 | Blue Goldrunners      |    60 | 1 Star Rock, 4 Gold Plate, 5 Aquamarine, 70 Dragon Skin, 50 Screw       | 60&#x202f;000 |
+
+### Archer
+
+| item                   | level | materials                                                                                               |         mesos |
+| :--------------------- | ----: | :------------------------------------------------------------------------------------------------------ | ------------: |
+| Brown Jack Boots       |    25 | 3 Bronze Plate, 35 Leather, 10 Screw                                                                    |  9&#x202f;000 |
+| Green Jack Boots       |    25 | 1 Emerald, 35 Leather, 10 Screw                                                                         |  9&#x202f;000 |
+| Red Jack Boots         |    25 | 1 Garnet, 35 Leather, 10 Screw                                                                          |  9&#x202f;000 |
+| Red Hunter Boots       |    30 | 2 Garnet, 50 Leather, 15 Screw                                                                          | 19&#x202f;000 |
+| Blue Hunter Boots      |    30 | 2 Sapphire, 50 Leather, 15 Screw                                                                        | 19&#x202f;000 |
+| Green Hunter Boots     |    30 | 2 Emerald, 50 Leather, 15 Screw                                                                         | 19&#x202f;000 |
+| Black Hunter Boots     |    30 | 2 Opal, 50 Leather, 15 Screw                                                                            | 19&#x202f;000 |
+| Brown Hunter Boots     |    30 | 2 Topaz, 50 Leather, 15 Screw                                                                           | 19&#x202f;000 |
+| Blue Silky Boots       |    35 | 3 Aquamarine, 1 Topaz, 15 Dragon Skin, 30 Leather, 20 Screw                                             | 20&#x202f;000 |
+| Green Silky Boots      |    35 | 3 Emerald, 1 Topaz, 15 Dragon Skin, 30 Leather, 20 Screw                                                | 20&#x202f;000 |
+| Red Silky Boots        |    35 | 3 Garnet, 1 Topaz, 15 Dragon Skin, 30 Leather, 20 Screw                                                 | 20&#x202f;000 |
+| Red Pierre Shoes       |    40 | 4 Garnet, 45 Dragon Skin, 20 Fire Boar Tooth, 30 Screw                                                  | 40&#x202f;000 |
+| Yellow Pierre Shoes    |    40 | 4 Topaz, 45 Dragon Skin, 20 Wild Kargo Eye, 30 Screw                                                    | 40&#x202f;000 |
+| Brown Pierre Shoes     |    40 | 5 Adamantium Plate, 45 Dragon Skin, 40 Clang Claw, 30 Screw                                             | 40&#x202f;000 |
+| Blue Pierre Shoes      |    40 | 5 Aquamarine, 45 Dragon Skin, 120 Blue Mushroom Cap, 30 Screw                                           | 40&#x202f;000 |
+| Brown Steel-Tip Boots  |    50 | 3 Steel Plate, 3 Topaz, 1 Black Crystal, 60 Dragon Skin, 80 Croco Skin, 35 Screw                        | 50&#x202f;000 |
+| Green Steel-Tip Boots  |    50 | 3 Steel Plate, 3 Topaz, 1 Black Crystal, 60 Dragon Skin, 150 Ligator Skin, 35 Screw                     | 50&#x202f;000 |
+| Blue Steel-Tip Boots   |    50 | 3 Steel Plate, 3 Topaz, 1 Black Crystal, 60 Dragon Skin, 100 Malady&rsquo;s Experimental Frog, 35 Screw | 50&#x202f;000 |
+| Purple Steel-Tip Boots |    50 | 3 Steel Plate, 3 Topaz, 1 Black Crystal, 60 Dragon Skin, 250 Stirge Wing, 35 Screw                      | 50&#x202f;000 |
+| Blue Gore Boots        |    60 | 5 Gold Plate, 8 Sapphire, 1 Diamond, 75 Dragon Skin, 50 Screw                                           | 60&#x202f;000 |
+| Red Gore Boots         |    60 | 5 Gold Plate, 8 Garnet, 1 Diamond, 75 Dragon Skin, 50 Screw                                             | 60&#x202f;000 |
+| Green Gore Boots       |    60 | 5 Gold Plate, 8 Emerald, 1 Diamond, 75 Dragon Skin, 50 Screw                                            | 60&#x202f;000 |
