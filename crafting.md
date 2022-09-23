@@ -1,5 +1,9 @@
 # Vicloc crafting recipes
 
+- [Chrishrama](#chrishrama)
+    - [Warrior](#warrior)
+    - [Mage](#mage)
+
 ## Chrishrama
 
 - **Location:** Sleepywood

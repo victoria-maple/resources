@@ -62,77 +62,77 @@ This effectively results in:
 
 ### For 1H swords
 
-| effect on pass           | &#x1d5e3;(pass) | dropped by       |
-| :----------------------- | --------------: | :--------------- |
-| +5 WATK, +3 STR, +1 WDEF |             30% | Officer Skeleton |
+| effect on pass           | &#x1d5e3;&af;(pass) | dropped by       |
+| :----------------------- | ------------------: | :--------------- |
+| +5 WATK, +3 STR, +1 WDEF |                 30% | Officer Skeleton |
 
 ### For 2H axes
 
-| effect on pass           | &#x1d5e3;(pass) | dropped by  |
-| :----------------------- | --------------: | :---------- |
-| +5 WATK, +3 STR, +1 WDEF |             30% | Stone Golem |
+| effect on pass           | &#x1d5e3;&af;(pass) | dropped by  |
+| :----------------------- | ------------------: | :---------- |
+| +5 WATK, +3 STR, +1 WDEF |                 30% | Stone Golem |
 
 ### For 1H maces
 
-| effect on pass           | &#x1d5e3;(pass) | dropped by       |
-| :----------------------- | --------------: | :--------------- |
-| +5 WATK, +3 STR, +1 WDEF |             30% | Skeleton Soldier |
+| effect on pass           | &#x1d5e3;&af;(pass) | dropped by       |
+| :----------------------- | ------------------: | :--------------- |
+| +5 WATK, +3 STR, +1 WDEF |                 30% | Skeleton Soldier |
 
 ### For polearms
 
-| effect on pass           | &#x1d5e3;(pass) | dropped by                   |
-| :----------------------- | --------------: | :--------------------------- |
-| +5 WATK, +3 STR, +1 WDEF |             30% | Dark Stone Golem, Tauromacis |
+| effect on pass           | &#x1d5e3;&af;(pass) | dropped by                   |
+| :----------------------- | ------------------: | :--------------------------- |
+| +5 WATK, +3 STR, +1 WDEF |                 30% | Dark Stone Golem, Tauromacis |
 
 ### For wands
 
-| effect on pass           | &#x1d5e3;(pass) | dropped by     |
-| :----------------------- | --------------: | :------------- |
-| +5 MATK, +3 INT, +1 MDEF |             30% | Zombie Mushmom |
+| effect on pass           | &#x1d5e3;&af;(pass) | dropped by     |
+| :----------------------- | ------------------: | :------------- |
+| +5 MATK, +3 INT, +1 MDEF |                 30% | Zombie Mushmom |
 
 ### For bows
 
-| effect on pass           | &#x1d5e3;(pass) | dropped by |
-| :----------------------- | --------------: | :--------- |
-| +5 WATK, +3 WACC, +1 DEX |             30% | Jr. Balrog |
+| effect on pass           | &#x1d5e3;&af;(pass) | dropped by |
+| :----------------------- | ------------------: | :--------- |
+| +5 WATK, +3 WACC, +1 DEX |                 30% | Jr. Balrog |
 
 ## For hats
 
-| effect on pass  | &#x1d5e3;(pass) | dropped by   |
-| :-------------- | --------------: | :----------- |
-| +2 DEX          |             70% | Mushmom      |
-| +2 WACC, +1 DEX |             60% | Copper Drake |
+| effect on pass  | &#x1d5e3;&af;(pass) | dropped by   |
+| :-------------- | ------------------: | :----------- |
+| +2 DEX          |                 70% | Mushmom      |
+| +2 WACC, +1 DEX |                 60% | Copper Drake |
 
 ## For tops
 
-| effect on pass | &#x1d5e3;(pass) | dropped by |
-| :------------- | --------------: | :--------- |
-| +30 HP         |             30% | Taurospear |
+| effect on pass | &#x1d5e3;&af;(pass) | dropped by |
+| :------------- | ------------------: | :--------- |
+| +30 HP         |                 30% | Taurospear |
 
 ## For bottoms
 
-| effect on pass | &#x1d5e3;(pass) | dropped by         |
-| :------------- | --------------: | :----------------- |
-| +30 HP         |             30% | Commander Skeleton |
+| effect on pass | &#x1d5e3;&af;(pass) | dropped by         |
+| :------------- | ------------------: | :----------------- |
+| +30 HP         |                 30% | Commander Skeleton |
 
 ## For gloves
 
-| effect on pass  | &#x1d5e3;(pass) | dropped by |
-| :-------------- | --------------: | :--------- |
-| +1 MATK, +1 INT |             60% | Red Drake  |
+| effect on pass  | &#x1d5e3;&af;(pass) | dropped by |
+| :-------------- | ------------------: | :--------- |
+| +1 MATK, +1 INT |                 60% | Red Drake  |
 
 ## For shields
 
-| effect on pass  | &#x1d5e3;(pass) | dropped by |
-| :-------------- | --------------: | :--------- |
-| +2 MATK, +1 INT |             70% | Dark Drake |
-| +3 MATK, +2 INT |             10% | Tortie     |
-| +15 HP          |             70% | Rocky Mask |
-| +30 HP          |             30% | Stumpy     |
+| effect on pass  | &#x1d5e3;&af;(pass) | dropped by |
+| :-------------- | ------------------: | :--------- |
+| +2 MATK, +1 INT |                 70% | Dark Drake |
+| +3 MATK, +2 INT |                 10% | Tortie     |
+| +15 HP          |                 70% | Rocky Mask |
+| +30 HP          |                 30% | Stumpy     |
 
 ## For pet equips
 
-| effect on pass | &#x1d5e3;(pass) | dropped by |
-| :------------- | --------------: | :--------- |
-| +10 HP         |             70% | Clang      |
-| +50 HP         |             30% | Dyle       |
+| effect on pass | &#x1d5e3;&af;(pass) | dropped by |
+| :------------- | ------------------: | :--------- |
+| +10 HP         |                 70% | Clang      |
+| +50 HP         |                 30% | Dyle       |

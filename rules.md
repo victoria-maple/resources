@@ -3,7 +3,7 @@
 1. If you leave Maple Island, you must never leave Victoria Island. “Victoria
    Island” is defined as the [union][union] of: the main continent (Lith
    Harbour, Perion, Ellinia, Henesys, Kerning City, Nautilus Harbour,
-   Sleepywood), the Free Market, Amoria, & Florina Beach.
+   Sleepywood), the Free Market, Amoria, &amp; Florina Beach.
     - **Clarification:** Maple Islanders (i\.e. “islanders” in the traditional
       sense) are considered to be effectively vicloc for the purpose of all of
       these rules. The reason for this is that we can think of Maple Islanders
