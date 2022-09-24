@@ -2017,4 +2017,7 @@ fight against Ergoth:
 - All monsters involved in this fight are strong against all five elements, so
   unfortunately, the mages on your team who want to deal damage will be reduced
   to [Magic Claw](https://maplelegends.com/lib/skill?id=2001005) and/or [Energy
-  Bolt](https://maplelegends.com/lib/skill?id=2001004).
+  Bolt](https://maplelegends.com/lib/skill?id=2001004). There is, however, one
+  slight exception: Ergoth itself (but **not** the statues) is _undead_,
+  meaning that clerics can deal decent damage to Ergoth with
+  [Heal](https://maplelegends.com/lib/skill?id=2301002).
